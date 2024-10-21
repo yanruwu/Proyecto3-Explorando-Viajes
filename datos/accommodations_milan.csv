@@ -1,0 +1,881 @@
+,hotel_name,price,rating,distance_from_center,acc_type,city,date_in,date_out,day_in,day_out
+0,Sheraton Milan San Siro,2633.55,8.7,6.95,Hotel,Milan,2025-07-01,2025-07-10,Lunes,Miercoles
+1,Leia Hospitality,1830.6,9.3,1.40,Guest house,Milan,2025-07-01,2025-07-10,Lunes,Miercoles
+2,Residence Giusti 6,988.54,7.6,2.00,Aparthotel,Milan,2025-07-01,2025-07-10,Lunes,Miercoles
+3,Broggi 22,1441.54,9.9,2.35,Apartment,Milan,2025-07-01,2025-07-10,Lunes,Miercoles
+4,Garibaldi 59,1654.86,9.2,1.25,Apartment,Milan,2025-07-01,2025-07-10,Lunes,Miercoles
+5,Easy Milano Apartment Navigli,1388.45,8.4,2.10,Apartment,Milan,2025-07-01,2025-07-10,Lunes,Miercoles
+6,BB Hotels Aparthotel Desuite,1224.9,8.6,3.50,Apartment,Milan,2025-07-01,2025-07-10,Lunes,Miercoles
+7,Residence Montessori 14,1074.6,7.8,4.15,Aparthotel,Milan,2025-07-01,2025-07-10,Lunes,Miercoles
+8,DONATELLO11 Milan apartments,2376.0,9.6,3.00,Apartment,Milan,2025-07-01,2025-07-10,Lunes,Miercoles
+9,Plus Welcome Milano,1107.68,8.2,3.60,Hotel,Milan,2025-07-01,2025-07-10,Lunes,Miercoles
+10,Ibis Milano Centro,1715.37,7.6,1.90,Hotel,Milan,2025-07-01,2025-07-10,Lunes,Miercoles
+11,BB Hotels Aparthotel Arcimboldi,1404.9,8.5,5.15,Aparthotel,Milan,2025-07-01,2025-07-10,Lunes,Miercoles
+12,Duomo Smart Suites,2447.01,8.4,0.65,Guest house,Milan,2025-07-01,2025-07-10,Lunes,Miercoles
+13,Hotel Auriga,2010.04,8.0,2.45,Hotel,Milan,2025-07-01,2025-07-10,Lunes,Miercoles
+14,Novotel Milano Linate Aeroporto,1400.47,7.8,5.70,Hotel,Milan,2025-07-01,2025-07-10,Lunes,Miercoles
+15,Cà Bèla - Mercadante,1685.12,9.1,2.75,Guest house,Milan,2025-07-01,2025-07-10,Lunes,Miercoles
+16,Madeleine apartments - Brera,2947.0,9.0,1.35,Apartment,Milan,2025-07-01,2025-07-10,Lunes,Miercoles
+17,Minerva - 2 bedrooms apartment two steps from Milano Centrale,1759.31272727273,8.5,2.75,Apartment,Milan,2025-07-01,2025-07-10,Lunes,Miercoles
+18,Il Girasole High Quality Inn,1481.98,9.0,6.70,Hotel,Milan,2025-07-01,2025-07-10,Lunes,Miercoles
+19,Zebra Naviglio,1629.28,8.5,2.00,Guest house,Milan,2025-07-01,2025-07-10,Lunes,Miercoles
+0,Sheraton Milan San Siro,2633.55,8.7,6.95,Hotel,Milan,2025-07-02,2025-07-11,Martes,Jueves
+1,Ibis Milano Centro,1678.59,7.6,1.90,Hotel,Milan,2025-07-02,2025-07-11,Martes,Jueves
+2,Novotel Milano Linate Aeroporto,1333.47,7.8,5.70,Hotel,Milan,2025-07-02,2025-07-11,Martes,Jueves
+3,Residence Giusti 6,977.11,7.6,2.00,Aparthotel,Milan,2025-07-02,2025-07-11,Martes,Jueves
+4,Leia Hospitality,1830.6,9.3,1.40,Guest house,Milan,2025-07-02,2025-07-11,Martes,Jueves
+5,Broggi 22,1441.54,9.9,2.35,Apartment,Milan,2025-07-02,2025-07-11,Martes,Jueves
+6,BB Hotels Aparthotel Desuite,1206.9,8.6,3.50,Apartment,Milan,2025-07-02,2025-07-11,Martes,Jueves
+7,Easy Milano Apartment Navigli,1388.45,8.4,2.10,Apartment,Milan,2025-07-02,2025-07-11,Martes,Jueves
+8,Garibaldi 59,1654.86,9.2,1.25,Apartment,Milan,2025-07-02,2025-07-11,Martes,Jueves
+9,Plus Welcome Milano,1099.22,8.2,3.60,Hotel,Milan,2025-07-02,2025-07-11,Martes,Jueves
+10,Residence Montessori 14,1074.6,7.8,4.15,Aparthotel,Milan,2025-07-02,2025-07-11,Martes,Jueves
+11,DONATELLO11 Milan apartments,2355.0,9.6,3.00,Apartment,Milan,2025-07-02,2025-07-11,Martes,Jueves
+12,Duomo Smart Suites,2447.01,8.4,0.65,Guest house,Milan,2025-07-02,2025-07-11,Martes,Jueves
+13,Castelfidardo 8,1230.53,8.5,1.60,Apartment,Milan,2025-07-02,2025-07-11,Martes,Jueves
+14,Hotel Metrò,2291.0,8.3,2.55,Hotel,Milan,2025-07-02,2025-07-11,Martes,Jueves
+15,Hotel Da Vinci,1250.19,7.8,7.70,Hotel,Milan,2025-07-02,2025-07-11,Martes,Jueves
+16,Hotel Auriga,1991.64,8.0,2.45,Hotel,Milan,2025-07-02,2025-07-11,Martes,Jueves
+17,Madeleine apartments - Brera,2947.0,9.0,1.35,Apartment,Milan,2025-07-02,2025-07-11,Martes,Jueves
+18,Cà Bèla - Mercadante,1685.12,9.1,2.75,Guest house,Milan,2025-07-02,2025-07-11,Martes,Jueves
+19,J24 Hotel Milano,1592.19,8.4,3.75,Hotel,Milan,2025-07-02,2025-07-11,Martes,Jueves
+0,Hotel Bristol,1497.6,8.1,2.65,Hotel,Milan,2025-07-03,2025-07-12,Miercoles,Viernes
+1,Hotel La Madonnina,2241.0,8.1,0.20,Hotel,Milan,2025-07-03,2025-07-12,Miercoles,Viernes
+2,Ibis Milano Centro,1662.71,7.6,1.90,Hotel,Milan,2025-07-03,2025-07-12,Miercoles,Viernes
+3,Novotel Milano Linate Aeroporto,1288.54,7.8,5.70,Hotel,Milan,2025-07-03,2025-07-12,Miercoles,Viernes
+4,Amazing Flat with terrace,945.82,8.9,4.15,Apartment,Milan,2025-07-03,2025-07-12,Miercoles,Viernes
+5,Leia Hospitality,1830.6,9.3,1.40,Guest house,Milan,2025-07-03,2025-07-12,Miercoles,Viernes
+6,Broggi 22,1467.78,9.9,2.35,Apartment,Milan,2025-07-03,2025-07-12,Miercoles,Viernes
+7,J24 Hotel Milano,1520.19,8.4,3.75,Hotel,Milan,2025-07-03,2025-07-12,Miercoles,Viernes
+8,Hotel Da Vinci,1214.19,7.8,7.70,Hotel,Milan,2025-07-03,2025-07-12,Miercoles,Viernes
+9,BB Hotels Aparthotel Desuite,1197.9,8.6,3.50,Apartment,Milan,2025-07-03,2025-07-12,Miercoles,Viernes
+10,Easy Milano Apartment Navigli,1414.4,8.4,2.10,Apartment,Milan,2025-07-03,2025-07-12,Miercoles,Viernes
+11,Spice Hotel Milano,1862.19,8.2,2.50,Hotel,Milan,2025-07-03,2025-07-12,Miercoles,Viernes
+12,Hotel Metrò,2221.0,8.3,2.55,Hotel,Milan,2025-07-03,2025-07-12,Miercoles,Viernes
+13,Residence Montessori 14,1074.6,7.8,4.15,Aparthotel,Milan,2025-07-03,2025-07-12,Miercoles,Viernes
+14,Garibaldi 59,1654.86,9.2,1.25,Apartment,Milan,2025-07-03,2025-07-12,Miercoles,Viernes
+15,DONATELLO11 Milan apartments,2325.0,9.6,3.00,Apartment,Milan,2025-07-03,2025-07-12,Miercoles,Viernes
+16,Hotel Auriga,1964.04,8.0,2.45,Hotel,Milan,2025-07-03,2025-07-12,Miercoles,Viernes
+17,Milan Royal Suites - Centro,2160.2,8.6,0.55,Apartment,Milan,2025-07-03,2025-07-12,Miercoles,Viernes
+18,Duomo Smart Suites,2447.01,8.4,0.65,Guest house,Milan,2025-07-03,2025-07-12,Miercoles,Viernes
+19,Madeleine apartments - Brera,2947.0,9.0,1.35,Apartment,Milan,2025-07-03,2025-07-12,Miercoles,Viernes
+0,Hilton Milan,2154.51,8.1,2.60,Hotel,Milan,2025-07-04,2025-07-13,Jueves,Sabado
+1,BB Hotels Aparthotel Isola,1197.9,8.5,3.05,Aparthotel,Milan,2025-07-04,2025-07-13,Jueves,Sabado
+2,Hotel Mirage Sure Hotel Collection by Best Western,1377.95,8.3,5.00,Hotel,Milan,2025-07-04,2025-07-13,Jueves,Sabado
+3,Hotel La Madonnina,2241.0,8.1,0.20,Hotel,Milan,2025-07-04,2025-07-13,Jueves,Sabado
+4,Novotel Milano Linate Aeroporto,1269.75,7.8,5.70,Hotel,Milan,2025-07-04,2025-07-13,Jueves,Sabado
+5,Plus Welcome Milano,1031.51,8.2,3.60,Hotel,Milan,2025-07-04,2025-07-13,Jueves,Sabado
+6,J24 Hotel Milano,1376.19,8.4,3.75,Hotel,Milan,2025-07-04,2025-07-13,Jueves,Sabado
+7,Ibis Milano Centro,1645.99,7.6,1.90,Hotel,Milan,2025-07-04,2025-07-13,Jueves,Sabado
+8,Hotel Da Vinci,1178.19,7.8,7.70,Hotel,Milan,2025-07-04,2025-07-13,Jueves,Sabado
+9,Spice Hotel Milano,1799.19,8.2,2.50,Hotel,Milan,2025-07-04,2025-07-13,Jueves,Sabado
+10,Studio Apartment Navigli Darsena,1110.23,,1.65,Apartment,Milan,2025-07-04,2025-07-13,Jueves,Sabado
+11,Minerva - 1 bedroom apartment two steps from Milano Centrale,1154.54,8.5,2.75,Apartment,Milan,2025-07-04,2025-07-13,Jueves,Sabado
+12,Amazing Flat with terrace,945.82,8.9,4.15,Apartment,Milan,2025-07-04,2025-07-13,Jueves,Sabado
+13,Milan Royal Suites - Centro,2114.2,8.6,0.55,Apartment,Milan,2025-07-04,2025-07-13,Jueves,Sabado
+14,B&B Hotel Milano Portello,2039.21,8.5,3.60,Hotel,Milan,2025-07-04,2025-07-13,Jueves,Sabado
+15,Castelfidardo 8,1140.65,8.5,1.60,Apartment,Milan,2025-07-04,2025-07-13,Jueves,Sabado
+16,Leia Hospitality,1830.6,9.3,1.40,Guest house,Milan,2025-07-04,2025-07-13,Jueves,Sabado
+17,Broggi 22,1494.01,9.9,2.35,Apartment,Milan,2025-07-04,2025-07-13,Jueves,Sabado
+18,Hotel Flora,1423.46,8.1,2.40,Hotel,Milan,2025-07-04,2025-07-13,Jueves,Sabado
+19,Hotel Auriga,1908.84,8.0,2.45,Hotel,Milan,2025-07-04,2025-07-13,Jueves,Sabado
+0,Bronzino House,1235.25,9.6,2.85,Bed and breakfast,Milan,2025-07-05,2025-07-14,Viernes,Domingo
+1,BB Hotels Aparthotel Isola,1179.9,8.5,3.05,Aparthotel,Milan,2025-07-05,2025-07-14,Viernes,Domingo
+2,Milan Royal Suites - Centro,2059.0,8.6,0.55,Apartment,Milan,2025-07-05,2025-07-14,Viernes,Domingo
+3,Studio Apartment Navigli Darsena,1097.81,,1.65,Apartment,Milan,2025-07-05,2025-07-14,Viernes,Domingo
+4,Hotel La Madonnina,2241.0,8.1,0.20,Hotel,Milan,2025-07-05,2025-07-14,Viernes,Domingo
+5,Minerva - 1 bedroom apartment two steps from Milano Centrale,1149.57,8.5,2.75,Apartment,Milan,2025-07-05,2025-07-14,Viernes,Domingo
+6,Big Skyview Goldoni - Duomo M4 Lin Airport,1115.28,8.0,2.65,Apartment,Milan,2025-07-05,2025-07-14,Viernes,Domingo
+7,Ramada Plaza Milano,1641.0,8.0,5.20,Hotel,Milan,2025-07-05,2025-07-14,Viernes,Domingo
+8,Milan Suite Hotel,1577.92,8.7,5.40,Hotel,Milan,2025-07-05,2025-07-14,Viernes,Domingo
+9,Sonder Manzoni,1842.77,9.2,0.80,Aparthotel,Milan,2025-07-05,2025-07-14,Viernes,Domingo
+10,Castelfidardo 8,1131.86,8.5,1.60,Apartment,Milan,2025-07-05,2025-07-14,Viernes,Domingo
+11,Amazing Flat with terrace,945.82,8.9,4.15,Apartment,Milan,2025-07-05,2025-07-14,Viernes,Domingo
+12,Plus Welcome Milano,1031.51,8.2,3.60,Hotel,Milan,2025-07-05,2025-07-14,Viernes,Domingo
+13,Hotel Mirage Sure Hotel Collection by Best Western,1385.41,8.3,5.00,Hotel,Milan,2025-07-05,2025-07-14,Viernes,Domingo
+14,J24 Hotel Milano,1349.19,8.4,3.75,Hotel,Milan,2025-07-05,2025-07-14,Viernes,Domingo
+15,B&B Hotel Milano Portello,2024.05,8.5,3.60,Hotel,Milan,2025-07-05,2025-07-14,Viernes,Domingo
+16,Ibis Milano Centro,1635.12,7.6,1.90,Hotel,Milan,2025-07-05,2025-07-14,Viernes,Domingo
+17,Darsena e Duomo - Corso Genova,1312.46,9.0,1.40,Apartment,Milan,2025-07-05,2025-07-14,Viernes,Domingo
+18,Broggi 22,1467.78,9.9,2.35,Apartment,Milan,2025-07-05,2025-07-14,Viernes,Domingo
+19,Leia Hospitality,1830.6,9.3,1.40,Guest house,Milan,2025-07-05,2025-07-14,Viernes,Domingo
+0,Ibis Milano Centro,1596.66,7.6,1.90,Hotel,Milan,2025-07-06,2025-07-15,Sabado,Lunes
+1,Minerva - 1 bedroom apartment two steps from Milano Centrale,1144.6,8.5,2.75,Apartment,Milan,2025-07-06,2025-07-15,Sabado,Lunes
+2,Castelfidardo 8,1115.25,8.5,1.60,Apartment,Milan,2025-07-06,2025-07-15,Sabado,Lunes
+3,Milan Suite Hotel,1586.2,8.7,5.40,Hotel,Milan,2025-07-06,2025-07-15,Sabado,Lunes
+4,Big Skyview Goldoni - Duomo M4 Lin Airport,1098.57,8.0,2.65,Apartment,Milan,2025-07-06,2025-07-15,Sabado,Lunes
+5,Sonder Manzoni,1749.88,9.2,0.80,Aparthotel,Milan,2025-07-06,2025-07-15,Sabado,Lunes
+6,Residence Giusti 6,954.26,7.6,2.00,Aparthotel,Milan,2025-07-06,2025-07-15,Sabado,Lunes
+7,Studio Apartment Navigli Darsena,1085.39,,1.65,Apartment,Milan,2025-07-06,2025-07-15,Sabado,Lunes
+8,Hotel Mirage Sure Hotel Collection by Best Western,1385.41,8.3,5.00,Hotel,Milan,2025-07-06,2025-07-15,Sabado,Lunes
+9,J24 Hotel Milano,1331.19,8.4,3.75,Hotel,Milan,2025-07-06,2025-07-15,Sabado,Lunes
+10,Bronzino House,1235.25,9.6,2.85,Bed and breakfast,Milan,2025-07-06,2025-07-15,Sabado,Lunes
+11,Hotel La Madonnina,2241.0,8.1,0.20,Hotel,Milan,2025-07-06,2025-07-15,Sabado,Lunes
+12,Spice Hotel Milano,1736.19,8.2,2.50,Hotel,Milan,2025-07-06,2025-07-15,Sabado,Lunes
+13,Milan Royal Suites - Centro,2022.2,8.6,0.55,Apartment,Milan,2025-07-06,2025-07-15,Sabado,Lunes
+14,Hotel Bristol,1526.67,8.1,2.65,Hotel,Milan,2025-07-06,2025-07-15,Sabado,Lunes
+15,Plus Welcome Milano,1061.13,8.2,3.60,Hotel,Milan,2025-07-06,2025-07-15,Sabado,Lunes
+16,Novotel Milano Linate Aeroporto,1314.68,7.8,5.70,Hotel,Milan,2025-07-06,2025-07-15,Sabado,Lunes
+17,Easy Milano Apartment Navigli,1362.49,8.4,2.10,Apartment,Milan,2025-07-06,2025-07-15,Sabado,Lunes
+18,Cà Bèla - Moscova,2319.32,9.2,1.40,Apartment,Milan,2025-07-06,2025-07-15,Sabado,Lunes
+19,Hotel Da Vinci,1187.19,7.8,7.70,Hotel,Milan,2025-07-06,2025-07-15,Sabado,Lunes
+0,BB Hotels Aparthotel Isola,1161.9,8.5,3.05,Aparthotel,Milan,2025-07-07,2025-07-16,Domingo,Martes
+1,Hotel Mirage Sure Hotel Collection by Best Western,1377.95,8.3,5.00,Hotel,Milan,2025-07-07,2025-07-16,Domingo,Martes
+2,Easy Milano Apartment Navigli,1336.53,8.4,2.10,Apartment,Milan,2025-07-07,2025-07-16,Domingo,Martes
+3,Hotel Dei Cavalieri Milano Duomo,3239.94,8.0,0.40,Hotel,Milan,2025-07-07,2025-07-16,Domingo,Martes
+4,Leonardo Hotel Milan City Center,1750.5,8.1,2.25,Hotel,Milan,2025-07-07,2025-07-16,Domingo,Martes
+5,Leia Hospitality,1830.6,9.3,1.40,Guest house,Milan,2025-07-07,2025-07-16,Domingo,Martes
+6,Ibis Milano Centro,1635.95,7.6,1.90,Hotel,Milan,2025-07-07,2025-07-16,Domingo,Martes
+7,Mercalli 5,1577.25,,1.00,Apartment,Milan,2025-07-07,2025-07-16,Domingo,Martes
+8,BB Hotels Aparthotel Desuite,1170.9,8.6,3.50,Apartment,Milan,2025-07-07,2025-07-16,Domingo,Martes
+9,DONATELLO11 Milan apartments,2266.0,9.6,3.00,Apartment,Milan,2025-07-07,2025-07-16,Domingo,Martes
+10,Broggi 22,1441.54,9.9,2.35,Apartment,Milan,2025-07-07,2025-07-16,Domingo,Martes
+11,Garibaldi 59,1654.86,9.2,1.25,Apartment,Milan,2025-07-07,2025-07-16,Domingo,Martes
+12,BB Hotels Aparthotel Arcimboldi,1296.9,8.5,5.15,Aparthotel,Milan,2025-07-07,2025-07-16,Domingo,Martes
+13,Residence Giusti 6,954.26,7.6,2.00,Aparthotel,Milan,2025-07-07,2025-07-16,Domingo,Martes
+14,Bilocale zona Navigli,1083.92,9.3,3.10,Apartment,Milan,2025-07-07,2025-07-16,Domingo,Martes
+15,Aparthotel Meneghino,1745.28,9.7,1.40,Aparthotel,Milan,2025-07-07,2025-07-16,Domingo,Martes
+16,J24 Hotel Milano,1376.19,8.4,3.75,Hotel,Milan,2025-07-07,2025-07-16,Domingo,Martes
+17,Hotel Auriga,1918.04,8.0,2.45,Hotel,Milan,2025-07-07,2025-07-16,Domingo,Martes
+18,Novotel Milano Linate Aeroporto,1395.56,7.8,5.70,Hotel,Milan,2025-07-07,2025-07-16,Domingo,Martes
+19,Milan Royal Suites - Centro,2040.6,8.6,0.55,Apartment,Milan,2025-07-07,2025-07-16,Domingo,Martes
+0,Hotel La Madonnina,2241.0,8.1,0.20,Hotel,Milan,2025-07-08,2025-07-17,Lunes,Miercoles
+1,BB Hotels Aparthotel Isola,1170.9,8.5,3.05,Aparthotel,Milan,2025-07-08,2025-07-17,Lunes,Miercoles
+2,Easy Milano Apartment Navigli,1327.88,8.4,2.10,Apartment,Milan,2025-07-08,2025-07-17,Lunes,Miercoles
+3,Ibis Milano Centro,1670.23,7.6,1.90,Hotel,Milan,2025-07-08,2025-07-17,Lunes,Miercoles
+4,Mercalli 5,1577.25,,1.00,Apartment,Milan,2025-07-08,2025-07-17,Lunes,Miercoles
+5,Leia Hospitality,1830.6,9.3,1.40,Guest house,Milan,2025-07-08,2025-07-17,Lunes,Miercoles
+6,Hotel Dei Cavalieri Milano Duomo,3230.54,8.0,0.40,Hotel,Milan,2025-07-08,2025-07-17,Lunes,Miercoles
+7,Leonardo Hotel Milan City Center,1792.8,8.1,2.25,Hotel,Milan,2025-07-08,2025-07-17,Lunes,Miercoles
+8,BB Hotels Aparthotel Desuite,1161.9,8.6,3.50,Apartment,Milan,2025-07-08,2025-07-17,Lunes,Miercoles
+9,Broggi 22,1441.54,9.9,2.35,Apartment,Milan,2025-07-08,2025-07-17,Lunes,Miercoles
+10,DONATELLO11 Milan apartments,2279.0,9.6,3.00,Apartment,Milan,2025-07-08,2025-07-17,Lunes,Miercoles
+11,Garibaldi 59,1654.86,9.2,1.25,Apartment,Milan,2025-07-08,2025-07-17,Lunes,Miercoles
+12,BB Hotels Aparthotel Arcimboldi,1305.9,8.5,5.15,Aparthotel,Milan,2025-07-08,2025-07-17,Lunes,Miercoles
+13,Residence Giusti 6,954.26,7.6,2.00,Aparthotel,Milan,2025-07-08,2025-07-17,Lunes,Miercoles
+14,J24 Hotel Milano,1376.19,8.4,3.75,Hotel,Milan,2025-07-08,2025-07-17,Lunes,Miercoles
+15,Aparthotel Meneghino,1745.28,9.7,1.40,Aparthotel,Milan,2025-07-08,2025-07-17,Lunes,Miercoles
+16,Bilocale zona Navigli,1083.92,9.3,3.10,Apartment,Milan,2025-07-08,2025-07-17,Lunes,Miercoles
+17,Hotel Auriga,1927.24,8.0,2.45,Hotel,Milan,2025-07-08,2025-07-17,Lunes,Miercoles
+18,Milan Royal Suites - Centro,2040.6,8.6,0.55,Apartment,Milan,2025-07-08,2025-07-17,Lunes,Miercoles
+19,Novotel Milano Linate Aeroporto,1389.84,7.8,5.70,Hotel,Milan,2025-07-08,2025-07-17,Lunes,Miercoles
+0,Duomo Hotel & Apartments,2744.4,8.8,0.40,Aparthotel,Milan,2025-07-09,2025-07-18,Martes,Jueves
+1,Easy Milano Apartment Navigli,1319.23,8.4,2.10,Apartment,Milan,2025-07-09,2025-07-18,Martes,Jueves
+2,Hotel Dei Cavalieri Milano Duomo,3221.14,8.0,0.40,Hotel,Milan,2025-07-09,2025-07-18,Martes,Jueves
+3,Mercalli 5,1577.25,,1.00,Apartment,Milan,2025-07-09,2025-07-18,Martes,Jueves
+4,BB Hotels Aparthotel Bocconi,1323.9,8.7,1.50,Aparthotel,Milan,2025-07-09,2025-07-18,Martes,Jueves
+5,Ibis Milano Centro,1683.61,7.6,1.90,Hotel,Milan,2025-07-09,2025-07-18,Martes,Jueves
+6,BB Hotels Aparthotel Desuite,1152.9,8.6,3.50,Apartment,Milan,2025-07-09,2025-07-18,Martes,Jueves
+7,Leia Hospitality,1830.6,9.3,1.40,Guest house,Milan,2025-07-09,2025-07-18,Martes,Jueves
+8,Broggi 22,1441.54,9.9,2.35,Apartment,Milan,2025-07-09,2025-07-18,Martes,Jueves
+9,DONATELLO11 Milan apartments,2276.0,9.6,3.00,Apartment,Milan,2025-07-09,2025-07-18,Martes,Jueves
+10,BB Hotels Aparthotel Arcimboldi,1296.9,8.5,5.15,Aparthotel,Milan,2025-07-09,2025-07-18,Martes,Jueves
+11,J24 Hotel Milano,1376.19,8.4,3.75,Hotel,Milan,2025-07-09,2025-07-18,Martes,Jueves
+12,Residence Giusti 6,954.26,7.6,2.00,Aparthotel,Milan,2025-07-09,2025-07-18,Martes,Jueves
+13,Garibaldi 59,1654.86,9.2,1.25,Apartment,Milan,2025-07-09,2025-07-18,Martes,Jueves
+14,Aparthotel Meneghino,1745.28,9.7,1.40,Aparthotel,Milan,2025-07-09,2025-07-18,Martes,Jueves
+15,Hotel Auriga,1908.84,8.0,2.45,Hotel,Milan,2025-07-09,2025-07-18,Martes,Jueves
+16,Leonardo Hotel Milan City Center,1799.1,8.1,2.25,Hotel,Milan,2025-07-09,2025-07-18,Martes,Jueves
+17,Milan Royal Suites - Centro,2040.6,8.6,0.55,Apartment,Milan,2025-07-09,2025-07-18,Martes,Jueves
+18,Plus Welcome Milano,1086.52,8.2,3.60,Hotel,Milan,2025-07-09,2025-07-18,Martes,Jueves
+19,Brunelleschi Hotel,2091.92,8.0,0.40,Hotel,Milan,2025-07-09,2025-07-18,Martes,Jueves
+0,Hotel La Madonnina,2241.0,8.1,0.20,Hotel,Milan,2025-07-10,2025-07-19,Miercoles,Viernes
+1,Bronzino House,1235.25,9.6,2.85,Bed and breakfast,Milan,2025-07-10,2025-07-19,Miercoles,Viernes
+2,Mercalli 5,1620.0,,1.00,Apartment,Milan,2025-07-10,2025-07-19,Miercoles,Viernes
+3,Leonardo Hotel Milan City Center,1767.6,8.1,2.25,Hotel,Milan,2025-07-10,2025-07-19,Miercoles,Viernes
+4,Novotel Milano Linate Aeroporto,1278.73,7.8,5.70,Hotel,Milan,2025-07-10,2025-07-19,Miercoles,Viernes
+5,Ibis Milano Centro,1694.48,7.6,1.90,Hotel,Milan,2025-07-10,2025-07-19,Miercoles,Viernes
+6,Easy Milano Apartment Navigli,1310.57,8.4,2.10,Apartment,Milan,2025-07-10,2025-07-19,Miercoles,Viernes
+7,J24 Hotel Milano,1367.19,8.4,3.75,Hotel,Milan,2025-07-10,2025-07-19,Miercoles,Viernes
+8,Plus Welcome Milano,1056.9,8.2,3.60,Hotel,Milan,2025-07-10,2025-07-19,Miercoles,Viernes
+9,Leia Hospitality,1830.6,9.3,1.40,Guest house,Milan,2025-07-10,2025-07-19,Miercoles,Viernes
+10,Residence Giusti 6,954.26,7.6,2.00,Aparthotel,Milan,2025-07-10,2025-07-19,Miercoles,Viernes
+11,DONATELLO11 Milan apartments,2270.0,9.6,3.00,Apartment,Milan,2025-07-10,2025-07-19,Miercoles,Viernes
+12,Hotel Bristol,1440.99,8.1,2.65,Hotel,Milan,2025-07-10,2025-07-19,Miercoles,Viernes
+13,BB Hotels Aparthotel Desuite,1161.9,8.6,3.50,Apartment,Milan,2025-07-10,2025-07-19,Miercoles,Viernes
+14,Castelfidardo 8,1122.08,8.5,1.60,Apartment,Milan,2025-07-10,2025-07-19,Miercoles,Viernes
+15,Hotel Auriga,1881.24,8.0,2.45,Hotel,Milan,2025-07-10,2025-07-19,Miercoles,Viernes
+16,Brunelleschi Hotel,2010.96,8.0,0.40,Hotel,Milan,2025-07-10,2025-07-19,Miercoles,Viernes
+17,Hotel Da Vinci,1205.19,7.8,7.70,Hotel,Milan,2025-07-10,2025-07-19,Miercoles,Viernes
+18,Duomo Smart Suites,2447.01,8.4,0.65,Guest house,Milan,2025-07-10,2025-07-19,Miercoles,Viernes
+19,Madeleine apartments - Brera,2749.0,9.0,1.35,Apartment,Milan,2025-07-10,2025-07-19,Miercoles,Viernes
+0,Ramada Plaza Milano,1660.0,8.0,5.20,Hotel,Milan,2025-07-11,2025-07-20,Jueves,Sabado
+1,BB Hotels Aparthotel Isola,1143.9,8.5,3.05,Aparthotel,Milan,2025-07-11,2025-07-20,Jueves,Sabado
+2,Hotel La Madonnina,2241.0,8.1,0.20,Hotel,Milan,2025-07-11,2025-07-20,Jueves,Sabado
+3,Novotel Milano Linate Aeroporto,1262.39,7.8,5.70,Hotel,Milan,2025-07-11,2025-07-20,Jueves,Sabado
+4,Bronzino House,1235.25,9.6,2.85,Bed and breakfast,Milan,2025-07-11,2025-07-20,Jueves,Sabado
+5,Leonardo Hotel Milan City Center,1779.3,8.1,2.25,Hotel,Milan,2025-07-11,2025-07-20,Jueves,Sabado
+6,J24 Hotel Milano,1394.19,8.4,3.75,Hotel,Milan,2025-07-11,2025-07-20,Jueves,Sabado
+7,Residence Giusti 6,954.26,7.6,2.00,Aparthotel,Milan,2025-07-11,2025-07-20,Jueves,Sabado
+8,Easy Milano Apartment Navigli,1310.57,8.4,2.10,Apartment,Milan,2025-07-11,2025-07-20,Jueves,Sabado
+9,Plus Welcome Milano,1035.74,8.2,3.60,Hotel,Milan,2025-07-11,2025-07-20,Jueves,Sabado
+10,Leia Hospitality,1830.6,9.3,1.40,Guest house,Milan,2025-07-11,2025-07-20,Jueves,Sabado
+11,Hotel Auriga,1862.84,8.0,2.45,Hotel,Milan,2025-07-11,2025-07-20,Jueves,Sabado
+12,Sonder Manzoni,1768.31,9.2,0.80,Aparthotel,Milan,2025-07-11,2025-07-20,Jueves,Sabado
+13,Brunelleschi Hotel,2010.96,8.0,0.40,Hotel,Milan,2025-07-11,2025-07-20,Jueves,Sabado
+14,DONATELLO11 Milan apartments,2288.0,9.6,3.00,Apartment,Milan,2025-07-11,2025-07-20,Jueves,Sabado
+15,Mercalli 5,1662.75,,1.00,Apartment,Milan,2025-07-11,2025-07-20,Jueves,Sabado
+16,BB Hotels Aparthotel Desuite,1179.9,8.6,3.50,Apartment,Milan,2025-07-11,2025-07-20,Jueves,Sabado
+17,Martesana Apartment,1312.18,9.1,6.35,Apartment,Milan,2025-07-11,2025-07-20,Jueves,Sabado
+18,Milano da sogno al rifugio Merini in Centro,851.22,,3.50,Apartment,Milan,2025-07-11,2025-07-20,Jueves,Sabado
+19,Hotel Da Vinci,1205.19,7.8,7.70,Hotel,Milan,2025-07-11,2025-07-20,Jueves,Sabado
+0,Mercalli 5,1620.0,,1.00,Apartment,Milan,2025-07-12,2025-07-21,Viernes,Domingo
+1,Studio Apartment Vicolo Lavandai,1001.12,8.9,1.75,Apartment,Milan,2025-07-12,2025-07-21,Viernes,Domingo
+2,Ramada Plaza Milano,1650.0,8.0,5.20,Hotel,Milan,2025-07-12,2025-07-21,Viernes,Domingo
+3,BB Hotels Aparthotel Isola,1125.9,8.5,3.05,Aparthotel,Milan,2025-07-12,2025-07-21,Viernes,Domingo
+4,Hotel La Madonnina,2241.0,8.1,0.20,Hotel,Milan,2025-07-12,2025-07-21,Viernes,Domingo
+5,Bronzino House,1235.25,9.6,2.85,Bed and breakfast,Milan,2025-07-12,2025-07-21,Viernes,Domingo
+6,Easy Milano Apartment Navigli,1250.01,8.4,2.10,Apartment,Milan,2025-07-12,2025-07-21,Viernes,Domingo
+7,Milano da sogno al rifugio Merini in Centro,833.24,,3.50,Apartment,Milan,2025-07-12,2025-07-21,Viernes,Domingo
+8,Leonardo Hotel Milan City Center,1744.2,8.1,2.25,Hotel,Milan,2025-07-12,2025-07-21,Viernes,Domingo
+9,Novotel Milano Linate Aeroporto,1237.88,7.8,5.70,Hotel,Milan,2025-07-12,2025-07-21,Viernes,Domingo
+10,Residence Giusti 6,954.26,7.6,2.00,Aparthotel,Milan,2025-07-12,2025-07-21,Viernes,Domingo
+11,B&B Terrazza Baires - in the heart of Milan,2557.64,9.2,3.45,Apartment,Milan,2025-07-12,2025-07-21,Viernes,Domingo
+12,Hotel Auriga,1844.44,8.0,2.45,Hotel,Milan,2025-07-12,2025-07-21,Viernes,Domingo
+13,Leia Hospitality,1830.6,9.3,1.40,Guest house,Milan,2025-07-12,2025-07-21,Viernes,Domingo
+14,Cà Bèla - Moscova,2271.75,9.2,1.40,Apartment,Milan,2025-07-12,2025-07-21,Viernes,Domingo
+15,Brunelleschi Hotel,2010.96,8.0,0.40,Hotel,Milan,2025-07-12,2025-07-21,Viernes,Domingo
+16,Minerva - 1 bedroom apartment two steps from Milano Centrale,1149.57,8.5,2.75,Apartment,Milan,2025-07-12,2025-07-21,Viernes,Domingo
+17,Martesana Apartment,1312.18,9.1,6.35,Apartment,Milan,2025-07-12,2025-07-21,Viernes,Domingo
+18,Milan Royal Suites - Centro,2059.0,8.6,0.55,Apartment,Milan,2025-07-12,2025-07-21,Viernes,Domingo
+19,BB Hotels Aparthotel Desuite,1161.9,8.6,3.50,Apartment,Milan,2025-07-12,2025-07-21,Viernes,Domingo
+0,Novotel Milano Linate Aeroporto,1256.67,7.8,5.70,Hotel,Milan,2025-07-13,2025-07-22,Sabado,Lunes
+1,Hotel La Madonnina,2241.0,8.1,0.20,Hotel,Milan,2025-07-13,2025-07-22,Sabado,Lunes
+2,Bronzino House,1235.25,9.6,2.85,Bed and breakfast,Milan,2025-07-13,2025-07-22,Sabado,Lunes
+3,Il Nido Sul Tetto A Milano,1228.8,9.0,1.80,Apartment,Milan,2025-07-13,2025-07-22,Sabado,Lunes
+4,Leonardo Hotel Milan City Center,1716.3,8.1,2.25,Hotel,Milan,2025-07-13,2025-07-22,Sabado,Lunes
+5,Hotel Bristol,1370.61,8.1,2.65,Hotel,Milan,2025-07-13,2025-07-22,Sabado,Lunes
+6,Mercalli 5,1577.25,,1.00,Apartment,Milan,2025-07-13,2025-07-22,Sabado,Lunes
+7,Milano da sogno al rifugio Merini in Centro,816.81,,3.50,Apartment,Milan,2025-07-13,2025-07-22,Sabado,Lunes
+8,Studio Apartment Vicolo Lavandai,987.54,8.9,1.75,Apartment,Milan,2025-07-13,2025-07-22,Sabado,Lunes
+9,BB Hotels Aparthotel Desuite,1143.9,8.6,3.50,Apartment,Milan,2025-07-13,2025-07-22,Sabado,Lunes
+10,Leia Hospitality,1830.6,9.3,1.40,Guest house,Milan,2025-07-13,2025-07-22,Sabado,Lunes
+11,J24 Hotel Milano,1313.19,8.4,3.75,Hotel,Milan,2025-07-13,2025-07-22,Sabado,Lunes
+12,Cà Bèla - Moscova,2220.52,9.2,1.40,Apartment,Milan,2025-07-13,2025-07-22,Sabado,Lunes
+13,Hotel Auriga,1835.24,8.0,2.45,Hotel,Milan,2025-07-13,2025-07-22,Sabado,Lunes
+14,Brunelleschi Hotel,2010.96,8.0,0.40,Hotel,Milan,2025-07-13,2025-07-22,Sabado,Lunes
+15,Plus Welcome Milano,1027.28,8.2,3.60,Hotel,Milan,2025-07-13,2025-07-22,Sabado,Lunes
+16,Hotel Da Vinci,1151.19,7.8,7.70,Hotel,Milan,2025-07-13,2025-07-22,Sabado,Lunes
+17,BB Hotels Aparthotel Visconti,1334.0,8.4,4.15,Aparthotel,Milan,2025-07-13,2025-07-22,Sabado,Lunes
+18,Residence Giusti 6,954.26,7.6,2.00,Aparthotel,Milan,2025-07-13,2025-07-22,Sabado,Lunes
+19,Ibis Milano Centro,1708.69,7.6,1.90,Hotel,Milan,2025-07-13,2025-07-22,Sabado,Lunes
+0,Hotel Dei Cavalieri Milano Duomo,3127.14,8.0,0.40,Hotel,Milan,2025-07-14,2025-07-23,Domingo,Martes
+1,Il Nido Sul Tetto A Milano,1228.8,9.0,1.80,Apartment,Milan,2025-07-14,2025-07-23,Domingo,Martes
+2,Studio Apartment Vicolo Lavandai,987.54,8.9,1.75,Apartment,Milan,2025-07-14,2025-07-23,Domingo,Martes
+3,Novotel Milano Linate Aeroporto,1299.16,7.8,5.70,Hotel,Milan,2025-07-14,2025-07-23,Domingo,Martes
+4,Hotel La Madonnina,2241.0,8.1,0.20,Hotel,Milan,2025-07-14,2025-07-23,Domingo,Martes
+5,Bronzino House,1235.25,9.6,2.85,Bed and breakfast,Milan,2025-07-14,2025-07-23,Domingo,Martes
+6,Duomo Hotel & Apartments,2786.72,8.8,0.40,Aparthotel,Milan,2025-07-14,2025-07-23,Domingo,Martes
+7,Hotel Bristol,1352.25,8.1,2.65,Hotel,Milan,2025-07-14,2025-07-23,Domingo,Martes
+8,Leonardo Hotel Milan City Center,1710.9,8.1,2.25,Hotel,Milan,2025-07-14,2025-07-23,Domingo,Martes
+9,BB Hotels Aparthotel Desuite,1143.9,8.6,3.50,Apartment,Milan,2025-07-14,2025-07-23,Domingo,Martes
+10,Leia Hospitality,1830.6,9.3,1.40,Guest house,Milan,2025-07-14,2025-07-23,Domingo,Martes
+11,Mercalli 5,1577.25,,1.00,Apartment,Milan,2025-07-14,2025-07-23,Domingo,Martes
+12,BB Hotels Aparthotel Visconti,1234.0,8.4,4.15,Aparthotel,Milan,2025-07-14,2025-07-23,Domingo,Martes
+13,J24 Hotel Milano,1331.19,8.4,3.75,Hotel,Milan,2025-07-14,2025-07-23,Domingo,Martes
+14,DONATELLO11 Milan apartments,2240.0,9.6,3.00,Apartment,Milan,2025-07-14,2025-07-23,Domingo,Martes
+15,Hotel Da Vinci,1151.19,7.8,7.70,Hotel,Milan,2025-07-14,2025-07-23,Domingo,Martes
+16,Milan Royal Suites - Centro,1807.66,8.6,0.55,Apartment,Milan,2025-07-14,2025-07-23,Domingo,Martes
+17,Castelfidardo 8,1121.11,8.5,1.60,Apartment,Milan,2025-07-14,2025-07-23,Domingo,Martes
+18,Plus Welcome Milano,1027.28,8.2,3.60,Hotel,Milan,2025-07-14,2025-07-23,Domingo,Martes
+19,Residenza Cenisio,855.17,7.2,3.20,Aparthotel,Milan,2025-07-14,2025-07-23,Domingo,Martes
+0,BB Hotels Aparthotel Isola,1116.9,8.5,3.05,Aparthotel,Milan,2025-07-15,2025-07-24,Lunes,Miercoles
+1,Milano da sogno al rifugio Merini in Centro,793.35,,3.50,Apartment,Milan,2025-07-15,2025-07-24,Lunes,Miercoles
+2,Studio Apartment Vicolo Lavandai,987.54,8.9,1.75,Apartment,Milan,2025-07-15,2025-07-24,Lunes,Miercoles
+3,Il Nido Sul Tetto A Milano,1228.8,9.0,1.80,Apartment,Milan,2025-07-15,2025-07-24,Lunes,Miercoles
+4,Ramada Plaza Milano,1698.0,8.0,5.20,Hotel,Milan,2025-07-15,2025-07-24,Lunes,Miercoles
+5,Hotel Dei Cavalieri Milano Duomo,3098.94,8.0,0.40,Hotel,Milan,2025-07-15,2025-07-24,Lunes,Miercoles
+6,Residenza Cenisio,823.89,7.2,3.20,Aparthotel,Milan,2025-07-15,2025-07-24,Lunes,Miercoles
+7,Leonardo Hotel Milan City Center,1692.0,8.1,2.25,Hotel,Milan,2025-07-15,2025-07-24,Lunes,Miercoles
+8,Novotel Milano Linate Aeroporto,1308.15,7.8,5.70,Hotel,Milan,2025-07-15,2025-07-24,Lunes,Miercoles
+9,Bronzino House,1235.25,9.6,2.85,Bed and breakfast,Milan,2025-07-15,2025-07-24,Lunes,Miercoles
+10,Hotel La Madonnina,2241.0,8.1,0.20,Hotel,Milan,2025-07-15,2025-07-24,Lunes,Miercoles
+11,BB Hotels Aparthotel Visconti,1144.0,8.4,4.15,Aparthotel,Milan,2025-07-15,2025-07-24,Lunes,Miercoles
+12,Plus Welcome Milano,997.65,8.2,3.60,Hotel,Milan,2025-07-15,2025-07-24,Lunes,Miercoles
+13,BB Hotels Aparthotel Bocconi,1323.9,8.7,1.50,Aparthotel,Milan,2025-07-15,2025-07-24,Lunes,Miercoles
+14,Duomo Hotel & Apartments,2737.04,8.8,0.40,Aparthotel,Milan,2025-07-15,2025-07-24,Lunes,Miercoles
+15,BB Hotels Aparthotel Desuite,1143.9,8.6,3.50,Apartment,Milan,2025-07-15,2025-07-24,Lunes,Miercoles
+16,J24 Hotel Milano,1304.19,8.4,3.75,Hotel,Milan,2025-07-15,2025-07-24,Lunes,Miercoles
+17,Leia Hospitality,1830.6,9.3,1.40,Guest house,Milan,2025-07-15,2025-07-24,Lunes,Miercoles
+18,Hotel Da Vinci,1106.19,7.8,7.70,Hotel,Milan,2025-07-15,2025-07-24,Lunes,Miercoles
+19,Milan Royal Suites - Centro,1807.66,8.6,0.55,Apartment,Milan,2025-07-15,2025-07-24,Lunes,Miercoles
+0,Milano da sogno al rifugio Merini in Centro,795.7,,3.50,Apartment,Milan,2025-07-16,2025-07-25,Martes,Jueves
+1,La Milanese - New apartment - Closed to Metrò ISOLA,1297.12,9.6,2.75,Apartment,Milan,2025-07-16,2025-07-25,Martes,Jueves
+2,Easy Milano Apartment Navigli,1154.82,8.4,2.10,Apartment,Milan,2025-07-16,2025-07-25,Martes,Jueves
+3,Studio Apartment Vicolo Lavandai,987.54,8.9,1.75,Apartment,Milan,2025-07-16,2025-07-25,Martes,Jueves
+4,Ramada Plaza Milano,1689.0,8.0,5.20,Hotel,Milan,2025-07-16,2025-07-25,Martes,Jueves
+5,Hotel Dei Cavalieri Milano Duomo,3070.74,8.0,0.40,Hotel,Milan,2025-07-16,2025-07-25,Martes,Jueves
+6,Hotel Da Vinci,1070.19,7.8,7.70,Hotel,Milan,2025-07-16,2025-07-25,Martes,Jueves
+7,Il Nido Sul Tetto A Milano,1228.8,9.0,1.80,Apartment,Milan,2025-07-16,2025-07-25,Martes,Jueves
+8,Residenza Cenisio,823.89,7.2,3.20,Aparthotel,Milan,2025-07-16,2025-07-25,Martes,Jueves
+9,Duomo Hotel & Apartments,2687.36,8.8,0.40,Aparthotel,Milan,2025-07-16,2025-07-25,Martes,Jueves
+10,Hotel La Madonnina,2241.0,8.1,0.20,Hotel,Milan,2025-07-16,2025-07-25,Martes,Jueves
+11,Bronzino House,1235.25,9.6,2.85,Bed and breakfast,Milan,2025-07-16,2025-07-25,Martes,Jueves
+12,BB Hotels Aparthotel Visconti,1144.0,8.4,4.15,Aparthotel,Milan,2025-07-16,2025-07-25,Martes,Jueves
+13,BB Hotels Aparthotel Bocconi,1323.9,8.7,1.50,Aparthotel,Milan,2025-07-16,2025-07-25,Martes,Jueves
+14,J24 Hotel Milano,1286.19,8.4,3.75,Hotel,Milan,2025-07-16,2025-07-25,Martes,Jueves
+15,Hyatt Centric Milan Centrale,2397.06,8.2,2.35,Hotel,Milan,2025-07-16,2025-07-25,Martes,Jueves
+16,BB Hotels Aparthotel Desuite,1152.9,8.6,3.50,Apartment,Milan,2025-07-16,2025-07-25,Martes,Jueves
+17,Starhotels Anderson,1585.8,8.5,2.75,Hotel,Milan,2025-07-16,2025-07-25,Martes,Jueves
+18,Milan Royal Suites - Centro,1807.66,8.6,0.55,Apartment,Milan,2025-07-16,2025-07-25,Martes,Jueves
+19,Leia Hospitality,1830.6,9.3,1.40,Guest house,Milan,2025-07-16,2025-07-25,Martes,Jueves
+0,Design & New Center Apartments,1124.66,9.6,2.95,Apartment,Milan,2025-07-17,2025-07-26,Miercoles,Viernes
+1,BB Hotels Aparthotel Isola,1125.9,8.5,3.05,Aparthotel,Milan,2025-07-17,2025-07-26,Miercoles,Viernes
+2,Starhotels Anderson,1513.8,8.5,2.75,Hotel,Milan,2025-07-17,2025-07-26,Miercoles,Viernes
+3,ANGELA´S APARTMENT DUOMO,1328.87,7.8,0.35,Holiday home,Milan,2025-07-17,2025-07-26,Miercoles,Viernes
+4,Novotel Milano Linate Aeroporto,1235.45,7.8,5.70,Hotel,Milan,2025-07-17,2025-07-26,Miercoles,Viernes
+5,Ramada Plaza Milano,1661.0,8.0,5.20,Hotel,Milan,2025-07-17,2025-07-26,Miercoles,Viernes
+6,Easy Milano Apartment Navigli,1137.52,8.4,2.10,Apartment,Milan,2025-07-17,2025-07-26,Miercoles,Viernes
+7,Duomo Hotel & Apartments,2646.88,8.8,0.40,Aparthotel,Milan,2025-07-17,2025-07-26,Miercoles,Viernes
+8,Studio Apartment Vicolo Lavandai,1001.12,8.9,1.75,Apartment,Milan,2025-07-17,2025-07-26,Miercoles,Viernes
+9,La Milanese - New apartment - Closed to Metrò ISOLA,1291.82,9.6,2.75,Apartment,Milan,2025-07-17,2025-07-26,Miercoles,Viernes
+10,Hyatt Centric Milan Centrale,2353.05,8.2,2.35,Hotel,Milan,2025-07-17,2025-07-26,Miercoles,Viernes
+11,Hotel La Madonnina,2241.0,8.1,0.20,Hotel,Milan,2025-07-17,2025-07-26,Miercoles,Viernes
+12,J24 Hotel Milano,1277.19,8.4,3.75,Hotel,Milan,2025-07-17,2025-07-26,Miercoles,Viernes
+13,BB Hotels Aparthotel Bocconi,1332.9,8.7,1.50,Aparthotel,Milan,2025-07-17,2025-07-26,Miercoles,Viernes
+14,B&B Hotel Milano Portello,1808.04,8.5,3.60,Hotel,Milan,2025-07-17,2025-07-26,Miercoles,Viernes
+15,Lancaster Hotel,1869.0,9.0,2.20,Hotel,Milan,2025-07-17,2025-07-26,Miercoles,Viernes
+16,Bronzino House,1235.25,9.6,2.85,Bed and breakfast,Milan,2025-07-17,2025-07-26,Miercoles,Viernes
+17,Il Nido Sul Tetto A Milano,1228.8,9.0,1.80,Apartment,Milan,2025-07-17,2025-07-26,Miercoles,Viernes
+18,BB Hotels Aparthotel Visconti,1174.0,8.4,4.15,Aparthotel,Milan,2025-07-17,2025-07-26,Miercoles,Viernes
+19,Leia Hospitality,1830.6,9.3,1.40,Guest house,Milan,2025-07-17,2025-07-26,Miercoles,Viernes
+0,ANGELA´S APARTMENT DUOMO,1328.87,7.8,0.35,Holiday home,Milan,2025-07-18,2025-07-27,Jueves,Sabado
+1,Milano da sogno al rifugio Merini in Centro,803.52,,3.50,Apartment,Milan,2025-07-18,2025-07-27,Jueves,Sabado
+2,BB Hotels Aparthotel Bocconi,1242.9,8.7,1.50,Aparthotel,Milan,2025-07-18,2025-07-27,Jueves,Sabado
+3,CAMERA con BAGNO PRIVATO 04,1016.64,,5.15,Bed and breakfast,Milan,2025-07-18,2025-07-27,Jueves,Sabado
+4,Hotel Da Vinci,1016.19,7.8,7.70,Hotel,Milan,2025-07-18,2025-07-27,Jueves,Sabado
+5,La Milanese - New apartment - Closed to Metrò ISOLA,1285.2,9.6,2.75,Apartment,Milan,2025-07-18,2025-07-27,Jueves,Sabado
+6,BB Hotels Aparthotel Isola,1143.9,8.5,3.05,Aparthotel,Milan,2025-07-18,2025-07-27,Jueves,Sabado
+7,Hotel La Madonnina,2241.0,8.1,0.20,Hotel,Milan,2025-07-18,2025-07-27,Jueves,Sabado
+8,Hilton Milan,1999.8,8.1,2.60,Hotel,Milan,2025-07-18,2025-07-27,Jueves,Sabado
+9,Ramada Plaza Milano,1651.0,8.0,5.20,Hotel,Milan,2025-07-18,2025-07-27,Jueves,Sabado
+10,Studio Apartment Vicolo Lavandai,1014.7,8.9,1.75,Apartment,Milan,2025-07-18,2025-07-27,Jueves,Sabado
+11,Easy Milano Apartment Navigli,1137.52,8.4,2.10,Apartment,Milan,2025-07-18,2025-07-27,Jueves,Sabado
+12,Il Nido Sul Tetto A Milano,1228.8,9.0,1.80,Apartment,Milan,2025-07-18,2025-07-27,Jueves,Sabado
+13,Novotel Milano Linate Aeroporto,1223.2,7.8,5.70,Hotel,Milan,2025-07-18,2025-07-27,Jueves,Sabado
+14,Hyatt Centric Milan Centrale,2339.01,8.2,2.35,Hotel,Milan,2025-07-18,2025-07-27,Jueves,Sabado
+15,Lancaster Hotel,1869.0,9.0,2.20,Hotel,Milan,2025-07-18,2025-07-27,Jueves,Sabado
+16,J24 Hotel Milano,1277.19,8.4,3.75,Hotel,Milan,2025-07-18,2025-07-27,Jueves,Sabado
+17,Leia Hospitality,1684.8,9.3,1.40,Guest house,Milan,2025-07-18,2025-07-27,Jueves,Sabado
+18,Bronzino House,1235.25,9.6,2.85,Bed and breakfast,Milan,2025-07-18,2025-07-27,Jueves,Sabado
+19,Ibis Milano Centro,1722.9,7.6,1.90,Hotel,Milan,2025-07-18,2025-07-27,Jueves,Sabado
+0,Navigli Apartment,1034.86,9.4,2.05,Apartment,Milan,2025-07-19,2025-07-28,Viernes,Domingo
+1,B&B Hotel Milano Portello,1725.64,8.5,3.60,Hotel,Milan,2025-07-19,2025-07-28,Viernes,Domingo
+2,Bed&Coffee Milano,844.6,8.6,6.55,Apartment,Milan,2025-07-19,2025-07-28,Viernes,Domingo
+3,Milano da sogno al rifugio Merini in Centro,791.01,,3.50,Apartment,Milan,2025-07-19,2025-07-28,Viernes,Domingo
+4,Il Nido Sul Tetto A Milano,1228.8,9.0,1.80,Apartment,Milan,2025-07-19,2025-07-28,Viernes,Domingo
+5,Hotel Da Vinci,980.19,7.8,7.70,Hotel,Milan,2025-07-19,2025-07-28,Viernes,Domingo
+6,Easy Milano Apartment Navigli,1111.57,8.4,2.10,Apartment,Milan,2025-07-19,2025-07-28,Viernes,Domingo
+7,CAMERA con BAGNO PRIVATO 04,1016.64,,5.15,Bed and breakfast,Milan,2025-07-19,2025-07-28,Viernes,Domingo
+8,Hotel La Madonnina,2241.0,8.1,0.20,Hotel,Milan,2025-07-19,2025-07-28,Viernes,Domingo
+9,BB Hotels Aparthotel Isola,1125.9,8.5,3.05,Aparthotel,Milan,2025-07-19,2025-07-28,Viernes,Domingo
+10,Studio Apartment Vicolo Lavandai,1001.12,8.9,1.75,Apartment,Milan,2025-07-19,2025-07-28,Viernes,Domingo
+11,Ramada Plaza Milano,1651.0,8.0,5.20,Hotel,Milan,2025-07-19,2025-07-28,Viernes,Domingo
+12,Milan Eleven by Brera Apartments,1936.55,9.1,0.60,Apartment,Milan,2025-07-19,2025-07-28,Viernes,Domingo
+13,Hilton Milan,2032.47,8.1,2.60,Hotel,Milan,2025-07-19,2025-07-28,Viernes,Domingo
+14,Bronzino House,1235.25,9.6,2.85,Bed and breakfast,Milan,2025-07-19,2025-07-28,Viernes,Domingo
+15,J24 Hotel Milano,1232.19,8.4,3.75,Hotel,Milan,2025-07-19,2025-07-28,Viernes,Domingo
+16,Novotel Milano Linate Aeroporto,1263.24,7.8,5.70,Hotel,Milan,2025-07-19,2025-07-28,Viernes,Domingo
+17,Milan Royal Suites - Centro,1824.58,8.6,0.55,Apartment,Milan,2025-07-19,2025-07-28,Viernes,Domingo
+18,Leia Hospitality,1684.8,9.3,1.40,Guest house,Milan,2025-07-19,2025-07-28,Viernes,Domingo
+19,Lancaster Hotel,1857.0,9.0,2.20,Hotel,Milan,2025-07-19,2025-07-28,Viernes,Domingo
+0,Sheraton Milan San Siro,2261.25,8.7,6.95,Hotel,Milan,2025-07-20,2025-07-29,Sabado,Lunes
+1,ANGELA´S APARTMENT DUOMO,1328.87,7.8,0.35,Holiday home,Milan,2025-07-20,2025-07-29,Sabado,Lunes
+2,La Milanese - New apartment - Closed to Metrò ISOLA,1269.96,9.6,2.75,Apartment,Milan,2025-07-20,2025-07-29,Sabado,Lunes
+3,Milano da sogno al rifugio Merini in Centro,776.93,,3.50,Apartment,Milan,2025-07-20,2025-07-29,Sabado,Lunes
+4,Duomo Hotel & Apartments,2496.92,8.8,0.40,Aparthotel,Milan,2025-07-20,2025-07-29,Sabado,Lunes
+5,Navigli Apartment,1034.86,9.4,2.05,Apartment,Milan,2025-07-20,2025-07-29,Sabado,Lunes
+6,Design & New Center Apartments,1124.66,9.6,2.95,Apartment,Milan,2025-07-20,2025-07-29,Sabado,Lunes
+7,Easy Milano Apartment Navigli,1076.96,8.4,2.10,Apartment,Milan,2025-07-20,2025-07-29,Sabado,Lunes
+8,Ramada Plaza Milano,1642.0,8.0,5.20,Hotel,Milan,2025-07-20,2025-07-29,Sabado,Lunes
+9,Hotel Bristol,1326.24,8.1,2.65,Hotel,Milan,2025-07-20,2025-07-29,Sabado,Lunes
+10,J24 Hotel Milano,1169.19,8.4,3.75,Hotel,Milan,2025-07-20,2025-07-29,Sabado,Lunes
+11,Hotel La Madonnina,2241.0,8.1,0.20,Hotel,Milan,2025-07-20,2025-07-29,Sabado,Lunes
+12,Milano - CityLife apartment,1220.85,9.6,2.90,Apartment,Milan,2025-07-20,2025-07-29,Sabado,Lunes
+13,Leia Hospitality,1684.8,9.3,1.40,Guest house,Milan,2025-07-20,2025-07-29,Sabado,Lunes
+14,Cà Bèla - Moscova,2099.73,9.2,1.40,Apartment,Milan,2025-07-20,2025-07-29,Sabado,Lunes
+15,Bronzino House,1235.25,9.6,2.85,Bed and breakfast,Milan,2025-07-20,2025-07-29,Sabado,Lunes
+16,BB Hotels Aparthotel Desuite,1134.9,8.6,3.50,Apartment,Milan,2025-07-20,2025-07-29,Sabado,Lunes
+17,Il Nido Sul Tetto A Milano,1228.8,9.0,1.80,Apartment,Milan,2025-07-20,2025-07-29,Sabado,Lunes
+18,Novotel Milano Linate Aeroporto,1293.47,7.8,5.70,Hotel,Milan,2025-07-20,2025-07-29,Sabado,Lunes
+19,Ibis Milano Centro,1648.5,7.6,1.90,Hotel,Milan,2025-07-20,2025-07-29,Sabado,Lunes
+0,Milano - CityLife apartment,1220.85,9.6,2.90,Apartment,Milan,2025-07-21,2025-07-30,Domingo,Martes
+1,Sheraton Milan San Siro,2261.25,8.7,6.95,Hotel,Milan,2025-07-21,2025-07-30,Domingo,Martes
+2,Duomo Hotel & Apartments,2507.04,8.8,0.40,Aparthotel,Milan,2025-07-21,2025-07-30,Domingo,Martes
+3,Ramada Plaza Milano,1671.0,8.0,5.20,Hotel,Milan,2025-07-21,2025-07-30,Domingo,Martes
+4,Design & New Center Apartments,1124.66,9.6,2.95,Apartment,Milan,2025-07-21,2025-07-30,Domingo,Martes
+5,BB Hotels Aparthotel Isola,1107.9,8.5,3.05,Aparthotel,Milan,2025-07-21,2025-07-30,Domingo,Martes
+6,Hotel Bristol,1333.89,8.1,2.65,Hotel,Milan,2025-07-21,2025-07-30,Domingo,Martes
+7,B&B Hotel Milano Portello,1684.44,8.5,3.60,Hotel,Milan,2025-07-21,2025-07-30,Domingo,Martes
+8,J24 Hotel Milano,1178.19,8.4,3.75,Hotel,Milan,2025-07-21,2025-07-30,Domingo,Martes
+9,La Milanese - New apartment - Closed to Metrò ISOLA,1261.35,9.6,2.75,Apartment,Milan,2025-07-21,2025-07-30,Domingo,Martes
+10,Milano da sogno al rifugio Merini in Centro,776.16,,3.50,Apartment,Milan,2025-07-21,2025-07-30,Domingo,Martes
+11,Hotel La Madonnina,2241.0,8.1,0.20,Hotel,Milan,2025-07-21,2025-07-30,Domingo,Martes
+12,Leia Hospitality,1684.8,9.3,1.40,Guest house,Milan,2025-07-21,2025-07-30,Domingo,Martes
+13,Bronzino House,1235.25,9.6,2.85,Bed and breakfast,Milan,2025-07-21,2025-07-30,Domingo,Martes
+14,Milan Eleven by Brera Apartments,1871.95,9.1,0.60,Apartment,Milan,2025-07-21,2025-07-30,Domingo,Martes
+15,SPAZIO M&M Via Augusto Anfossi 10,1737.0,9.8,1.75,Apartment,Milan,2025-07-21,2025-07-30,Domingo,Martes
+16,Il Nido Sul Tetto A Milano,1228.8,9.0,1.80,Apartment,Milan,2025-07-21,2025-07-30,Domingo,Martes
+17,DONATELLO11 Milan apartments,2008.0,9.6,3.00,Apartment,Milan,2025-07-21,2025-07-30,Domingo,Martes
+18,Cà Bèla - Moscova,2097.54,9.2,1.40,Apartment,Milan,2025-07-21,2025-07-30,Domingo,Martes
+19,BB Hotels Aparthotel Desuite,1143.9,8.6,3.50,Apartment,Milan,2025-07-21,2025-07-30,Domingo,Martes
+0,Milano - CityLife apartment,1220.85,9.6,2.90,Apartment,Milan,2025-07-22,2025-07-31,Lunes,Miercoles
+1,Duomo Hotel & Apartments,2507.04,8.8,0.40,Aparthotel,Milan,2025-07-22,2025-07-31,Lunes,Miercoles
+2,Sheraton Milan San Siro,2261.25,8.7,6.95,Hotel,Milan,2025-07-22,2025-07-31,Lunes,Miercoles
+3,Design & New Center Apartments,1124.66,9.6,2.95,Apartment,Milan,2025-07-22,2025-07-31,Lunes,Miercoles
+4,Hotel Bristol,1333.89,8.1,2.65,Hotel,Milan,2025-07-22,2025-07-31,Lunes,Miercoles
+5,Ramada Plaza Milano,1662.0,8.0,5.20,Hotel,Milan,2025-07-22,2025-07-31,Lunes,Miercoles
+6,BB Hotels Aparthotel Isola,1116.9,8.5,3.05,Aparthotel,Milan,2025-07-22,2025-07-31,Lunes,Miercoles
+7,J24 Hotel Milano,1160.19,8.4,3.75,Hotel,Milan,2025-07-22,2025-07-31,Lunes,Miercoles
+8,B&B Hotel Milano Portello,1668.99,8.5,3.60,Hotel,Milan,2025-07-22,2025-07-31,Lunes,Miercoles
+9,Milano da sogno al rifugio Merini in Centro,776.93,,3.50,Apartment,Milan,2025-07-22,2025-07-31,Lunes,Miercoles
+10,Hotel La Madonnina,2241.0,8.1,0.20,Hotel,Milan,2025-07-22,2025-07-31,Lunes,Miercoles
+11,La Milanese - New apartment - Closed to Metrò ISOLA,1262.68,9.6,2.75,Apartment,Milan,2025-07-22,2025-07-31,Lunes,Miercoles
+12,Leia Hospitality,1684.8,9.3,1.40,Guest house,Milan,2025-07-22,2025-07-31,Lunes,Miercoles
+13,Bronzino House,1235.25,9.6,2.85,Bed and breakfast,Milan,2025-07-22,2025-07-31,Lunes,Miercoles
+14,Milan Eleven by Brera Apartments,1856.65,9.1,0.60,Apartment,Milan,2025-07-22,2025-07-31,Lunes,Miercoles
+15,SPAZIO M&M Via Augusto Anfossi 10,1737.0,9.8,1.75,Apartment,Milan,2025-07-22,2025-07-31,Lunes,Miercoles
+16,Il Nido Sul Tetto A Milano,1228.8,9.0,1.80,Apartment,Milan,2025-07-22,2025-07-31,Lunes,Miercoles
+17,Studio Apartment Vicolo Lavandai,987.54,8.9,1.75,Apartment,Milan,2025-07-22,2025-07-31,Lunes,Miercoles
+18,Spice Hotel Milano,1520.19,8.2,2.50,Hotel,Milan,2025-07-22,2025-07-31,Lunes,Miercoles
+19,DONATELLO11 Milan apartments,1992.0,9.6,3.00,Apartment,Milan,2025-07-22,2025-07-31,Lunes,Miercoles
+0,J24 Hotel Milano,1061.19,8.4,3.75,Hotel,Milan,2025-08-01,2025-08-10,Jueves,Sabado
+1,Hilton Milan,1721.25,8.1,2.60,Hotel,Milan,2025-08-01,2025-08-10,Jueves,Sabado
+2,Bed&Coffee Milano,826.2,8.6,6.55,Apartment,Milan,2025-08-01,2025-08-10,Jueves,Sabado
+3,Hotel Metrò,1304.6,8.3,2.55,Hotel,Milan,2025-08-01,2025-08-10,Jueves,Sabado
+4,CAMERA con BAGNO PRIVATO 04,1016.64,,5.15,Bed and breakfast,Milan,2025-08-01,2025-08-10,Jueves,Sabado
+5,La Milanese - New apartment - Closed to Metrò ISOLA,1221.61,9.6,2.75,Apartment,Milan,2025-08-01,2025-08-10,Jueves,Sabado
+6,Glam Milano,1421.19,8.2,2.45,Hotel,Milan,2025-08-01,2025-08-10,Jueves,Sabado
+7,Ramada Plaza Milano,1496.0,8.0,5.20,Hotel,Milan,2025-08-01,2025-08-10,Jueves,Sabado
+8,BB Hotels Aparthotel Isola,1062.9,8.5,3.05,Aparthotel,Milan,2025-08-01,2025-08-10,Jueves,Sabado
+9,Milan Eleven by Brera Apartments,1697.7,9.1,0.60,Apartment,Milan,2025-08-01,2025-08-10,Jueves,Sabado
+10,Brera Apartments in Porta Ticinese,1157.03,8.6,0.95,Apartment,Milan,2025-08-01,2025-08-10,Jueves,Sabado
+11,Una Volta in Brera,945.72,8.5,1.90,Apartment,Milan,2025-08-01,2025-08-10,Jueves,Sabado
+12,"appartamento Martina, silenzioso a 100 metri dalla metropolitana",777.76,9.2,4.20,Apartment,Milan,2025-08-01,2025-08-10,Jueves,Sabado
+13,Art Hotel Navigli,1493.46,8.5,2.20,Hotel,Milan,2025-08-01,2025-08-10,Jueves,Sabado
+14,Banfi Suite - park view,992.74,8.2,1.05,Apartment,Milan,2025-08-01,2025-08-10,Jueves,Sabado
+15,iH Hotels Milano Ambasciatori,1599.1,7.2,0.55,Hotel,Milan,2025-08-01,2025-08-10,Jueves,Sabado
+16,Hotel Bristol,1277.28,8.1,2.65,Hotel,Milan,2025-08-01,2025-08-10,Jueves,Sabado
+17,Hotel Flora,1064.25,8.1,2.40,Hotel,Milan,2025-08-01,2025-08-10,Jueves,Sabado
+18,Starhotels Business Palace,1315.8,7.8,4.50,Hotel,Milan,2025-08-01,2025-08-10,Jueves,Sabado
+19,Easy Milano Apartment Navigli,1154.82,8.4,2.10,Apartment,Milan,2025-08-01,2025-08-10,Jueves,Sabado
+0,Milan Eleven by Brera Apartments,1697.7,9.1,0.60,Apartment,Milan,2025-08-02,2025-08-11,Viernes,Domingo
+1,Hotel Metrò,1286.2,8.3,2.55,Hotel,Milan,2025-08-02,2025-08-11,Viernes,Domingo
+2,BB Hotels Aparthotel Isola,1044.9,8.5,3.05,Aparthotel,Milan,2025-08-02,2025-08-11,Viernes,Domingo
+3,BB Hotels Aparthotel Bicocca,954.9,8.6,4.10,Aparthotel,Milan,2025-08-02,2025-08-11,Viernes,Domingo
+4,Glam Milano,1403.19,8.2,2.45,Hotel,Milan,2025-08-02,2025-08-11,Viernes,Domingo
+5,Novotel Milano Linate Aeroporto,1039.33,7.8,5.70,Hotel,Milan,2025-08-02,2025-08-11,Viernes,Domingo
+6,Hilton Milan,1721.25,8.1,2.60,Hotel,Milan,2025-08-02,2025-08-11,Viernes,Domingo
+7,Banfi Suite - park view,982.58,8.2,1.05,Apartment,Milan,2025-08-02,2025-08-11,Viernes,Domingo
+8,"appartamento Martina, silenzioso a 100 metri dalla metropolitana",777.76,9.2,4.20,Apartment,Milan,2025-08-02,2025-08-11,Viernes,Domingo
+9,Una Volta in Brera,945.72,8.5,1.90,Apartment,Milan,2025-08-02,2025-08-11,Viernes,Domingo
+10,Top Accommodations in the Heart of Milano!,1037.25,7.8,0.90,Apartment,Milan,2025-08-02,2025-08-11,Viernes,Domingo
+11,CAMERA con BAGNO PRIVATO 04,1016.64,,5.15,Bed and breakfast,Milan,2025-08-02,2025-08-11,Viernes,Domingo
+12,Ramada Plaza Milano,1492.0,8.0,5.20,Hotel,Milan,2025-08-02,2025-08-11,Viernes,Domingo
+13,Fontana Suites - 15 min dal Duomo,929.26,9.0,1.30,Apartment,Milan,2025-08-02,2025-08-11,Viernes,Domingo
+14,iH Hotels Milano Ambasciatori,1566.31,7.2,0.55,Hotel,Milan,2025-08-02,2025-08-11,Viernes,Domingo
+15,Milan Royal Suites - Centro Brera,1433.4,8.7,0.60,Apartment,Milan,2025-08-02,2025-08-11,Viernes,Domingo
+16,Hotel Bristol,1277.28,8.1,2.65,Hotel,Milan,2025-08-02,2025-08-11,Viernes,Domingo
+17,Hotel Flora,1039.78,8.1,2.40,Hotel,Milan,2025-08-02,2025-08-11,Viernes,Domingo
+18,Bed&Coffee Milano,826.2,8.6,6.55,Apartment,Milan,2025-08-02,2025-08-11,Viernes,Domingo
+19,Cà Bèla - Moscova,2019.96,9.2,1.40,Apartment,Milan,2025-08-02,2025-08-11,Viernes,Domingo
+0,La Milanese - New apartment - Closed to Metrò ISOLA,1204.39,9.6,2.75,Apartment,Milan,2025-08-03,2025-08-12,Sabado,Lunes
+1,J24 Hotel Milano,1034.19,8.4,3.75,Hotel,Milan,2025-08-03,2025-08-12,Sabado,Lunes
+2,Hilton Milan,1721.25,8.1,2.60,Hotel,Milan,2025-08-03,2025-08-12,Sabado,Lunes
+3,CAMERA con BAGNO PRIVATO 04,1016.64,,5.15,Bed and breakfast,Milan,2025-08-03,2025-08-12,Sabado,Lunes
+4,BB Hotels Aparthotel Isola,1017.9,8.5,3.05,Aparthotel,Milan,2025-08-03,2025-08-12,Sabado,Lunes
+5,Hotel Metrò,1267.8,8.3,2.55,Hotel,Milan,2025-08-03,2025-08-12,Sabado,Lunes
+6,Bed&Coffee Milano,891.0,8.6,6.55,Apartment,Milan,2025-08-03,2025-08-12,Sabado,Lunes
+7,Banfi Suite - park view,968.5,8.2,1.05,Apartment,Milan,2025-08-03,2025-08-12,Sabado,Lunes
+8,Ramada Plaza Milano,1488.0,8.0,5.20,Hotel,Milan,2025-08-03,2025-08-12,Sabado,Lunes
+9,"appartamento Martina, silenzioso a 100 metri dalla metropolitana",777.76,9.2,4.20,Apartment,Milan,2025-08-03,2025-08-12,Sabado,Lunes
+10,Una Volta in Brera,945.72,8.5,1.90,Apartment,Milan,2025-08-03,2025-08-12,Sabado,Lunes
+11,BB Hotels Aparthotel Visconti,1034.0,8.4,4.15,Aparthotel,Milan,2025-08-03,2025-08-12,Sabado,Lunes
+12,Castello Sforzesco Suites by Brera Apartments,1404.45,8.5,0.60,Guest house,Milan,2025-08-03,2025-08-12,Sabado,Lunes
+13,Easy Milano Apartment Navigli,1111.57,8.4,2.10,Apartment,Milan,2025-08-03,2025-08-12,Sabado,Lunes
+14,Milan Eleven by Brera Apartments,1682.4,9.1,0.60,Apartment,Milan,2025-08-03,2025-08-12,Sabado,Lunes
+15,Brera Apartments in Porta Ticinese,1148.43,8.6,0.95,Apartment,Milan,2025-08-03,2025-08-12,Sabado,Lunes
+16,Glam Milano,1376.19,8.2,2.45,Hotel,Milan,2025-08-03,2025-08-12,Sabado,Lunes
+17,Top Accommodations in the Heart of Milano!,1024.15,7.8,0.90,Apartment,Milan,2025-08-03,2025-08-12,Sabado,Lunes
+18,Fontana Suites - 15 min dal Duomo,920.11,9.0,1.30,Apartment,Milan,2025-08-03,2025-08-12,Sabado,Lunes
+19,iH Hotels Milano Ambasciatori,1508.93,7.2,0.55,Hotel,Milan,2025-08-03,2025-08-12,Sabado,Lunes
+0,HD8 Hotel Milano,1304.19,8.2,2.50,Hotel,Milan,2025-08-04,2025-08-13,Domingo,Martes
+1,BB Hotels Aparthotel Isola,1026.9,8.5,3.05,Aparthotel,Milan,2025-08-04,2025-08-13,Domingo,Martes
+2,Easy Milano Apartment Navigli,1120.21,8.4,2.10,Apartment,Milan,2025-08-04,2025-08-13,Domingo,Martes
+3,NH Collection Porta Nuova,1875.0,8.5,1.95,Hotel,Milan,2025-08-04,2025-08-13,Domingo,Martes
+4,Una Volta in Brera,945.72,8.5,1.90,Apartment,Milan,2025-08-04,2025-08-13,Domingo,Martes
+5,J24 Hotel Milano,1052.19,8.4,3.75,Hotel,Milan,2025-08-04,2025-08-13,Domingo,Martes
+6,BB Hotels Aparthotel Visconti,1044.0,8.4,4.15,Aparthotel,Milan,2025-08-04,2025-08-13,Domingo,Martes
+7,Just Hotel Milano,1304.19,8.2,2.40,Hotel,Milan,2025-08-04,2025-08-13,Domingo,Martes
+8,Hotel Metrò,1267.8,8.3,2.55,Hotel,Milan,2025-08-04,2025-08-13,Domingo,Martes
+9,Starhotels Anderson,1350.0,8.5,2.75,Hotel,Milan,2025-08-04,2025-08-13,Domingo,Martes
+10,iH Hotels Milano Ambasciatori,1508.93,7.2,0.55,Hotel,Milan,2025-08-04,2025-08-13,Domingo,Martes
+11,DONATELLO11 Milan apartments,1937.0,9.6,3.00,Apartment,Milan,2025-08-04,2025-08-13,Domingo,Martes
+12,BB Hotels Aparthotel Desuite,1035.9,8.6,3.50,Apartment,Milan,2025-08-04,2025-08-13,Domingo,Martes
+13,Milan Eleven by Brera Apartments,1696.0,9.1,0.60,Apartment,Milan,2025-08-04,2025-08-13,Domingo,Martes
+14,Garibaldi 59,1418.78,9.2,1.25,Apartment,Milan,2025-08-04,2025-08-13,Domingo,Martes
+15,Due Mari Milano Apartment ZONA PORTELLO-FIERA FREE WI-FI,1044.92,9.8,5.00,Guest house,Milan,2025-08-04,2025-08-13,Domingo,Martes
+16,Top Accommodations in the Heart of Milano!,1011.05,7.8,0.90,Apartment,Milan,2025-08-04,2025-08-13,Domingo,Martes
+17,Bronzino House,1273.77,9.6,2.85,Bed and breakfast,Milan,2025-08-04,2025-08-13,Domingo,Martes
+18,Suites in Porta Garibaldi & Chinatown - City Center well connected,1361.79,8.1,1.85,Apartment,Milan,2025-08-04,2025-08-13,Domingo,Martes
+19,"S&M Apartments ""Casa Anna"" - Crocetta M3",1127.78,8.2,1.30,Apartment,Milan,2025-08-04,2025-08-13,Domingo,Martes
+0,BB Hotels Aparthotel Isola,1035.9,8.5,3.05,Aparthotel,Milan,2025-08-05,2025-08-14,Lunes,Miercoles
+1,Ramada Plaza Milano,1494.0,8.0,5.20,Hotel,Milan,2025-08-05,2025-08-14,Lunes,Miercoles
+2,Easy Milano Apartment Navigli,1120.21,8.4,2.10,Apartment,Milan,2025-08-05,2025-08-14,Lunes,Miercoles
+3,J24 Hotel Milano,1052.19,8.4,3.75,Hotel,Milan,2025-08-05,2025-08-14,Lunes,Miercoles
+4,Hotel Metrò,1249.4,8.3,2.55,Hotel,Milan,2025-08-05,2025-08-14,Lunes,Miercoles
+5,Una Volta in Brera,945.72,8.5,1.90,Apartment,Milan,2025-08-05,2025-08-14,Lunes,Miercoles
+6,Just Hotel Milano,1304.19,8.2,2.40,Hotel,Milan,2025-08-05,2025-08-14,Lunes,Miercoles
+7,iH Hotels Milano Ambasciatori,1533.53,7.2,0.55,Hotel,Milan,2025-08-05,2025-08-14,Lunes,Miercoles
+8,Starhotels Anderson,1350.0,8.5,2.75,Hotel,Milan,2025-08-05,2025-08-14,Lunes,Miercoles
+9,NH Collection Porta Nuova,1891.0,8.5,1.95,Hotel,Milan,2025-08-05,2025-08-14,Lunes,Miercoles
+10,BB Hotels Aparthotel Visconti,1054.0,8.4,4.15,Aparthotel,Milan,2025-08-05,2025-08-14,Lunes,Miercoles
+11,BB Hotels Aparthotel Desuite,1044.9,8.6,3.50,Apartment,Milan,2025-08-05,2025-08-14,Lunes,Miercoles
+12,DONATELLO11 Milan apartments,1912.0,9.6,3.00,Apartment,Milan,2025-08-05,2025-08-14,Lunes,Miercoles
+13,Top Accommodations in the Heart of Milano!,1001.88,7.8,0.90,Apartment,Milan,2025-08-05,2025-08-14,Lunes,Miercoles
+14,Garibaldi 59,1418.78,9.2,1.25,Apartment,Milan,2025-08-05,2025-08-14,Lunes,Miercoles
+15,Due Mari Milano Apartment ZONA PORTELLO-FIERA FREE WI-FI,1044.92,9.8,5.00,Guest house,Milan,2025-08-05,2025-08-14,Lunes,Miercoles
+16,Bronzino House,1273.77,9.6,2.85,Bed and breakfast,Milan,2025-08-05,2025-08-14,Lunes,Miercoles
+17,Fontana Suites - 15 min dal Duomo,916.59,9.0,1.30,Apartment,Milan,2025-08-05,2025-08-14,Lunes,Miercoles
+18,Suites in Porta Garibaldi & Chinatown - City Center well connected,1344.8,8.1,1.85,Apartment,Milan,2025-08-05,2025-08-14,Lunes,Miercoles
+19,"S&M Apartments ""Casa Anna"" - Crocetta M3",1128.75,8.2,1.30,Apartment,Milan,2025-08-05,2025-08-14,Lunes,Miercoles
+0,Hilton Milan,1721.25,8.1,2.60,Hotel,Milan,2025-08-06,2025-08-15,Martes,Jueves
+1,BB Hotels Aparthotel Isola,1035.9,8.5,3.05,Aparthotel,Milan,2025-08-06,2025-08-15,Martes,Jueves
+2,Ramada Plaza Milano,1494.0,8.0,5.20,Hotel,Milan,2025-08-06,2025-08-15,Martes,Jueves
+3,J24 Hotel Milano,1052.19,8.4,3.75,Hotel,Milan,2025-08-06,2025-08-15,Martes,Jueves
+4,Easy Milano Apartment Navigli,1120.21,8.4,2.10,Apartment,Milan,2025-08-06,2025-08-15,Martes,Jueves
+5,Just Hotel Milano,1304.19,8.2,2.40,Hotel,Milan,2025-08-06,2025-08-15,Martes,Jueves
+6,Leia Hospitality,1539.0,9.3,1.40,Guest house,Milan,2025-08-06,2025-08-15,Martes,Jueves
+7,iH Hotels Milano Ambasciatori,1558.12,7.2,0.55,Hotel,Milan,2025-08-06,2025-08-15,Martes,Jueves
+8,Una Volta in Brera,945.72,8.5,1.90,Apartment,Milan,2025-08-06,2025-08-15,Martes,Jueves
+9,Starhotels Anderson,1350.0,8.5,2.75,Hotel,Milan,2025-08-06,2025-08-15,Martes,Jueves
+10,BB Hotels Aparthotel Visconti,1054.0,8.4,4.15,Aparthotel,Milan,2025-08-06,2025-08-15,Martes,Jueves
+11,BB Hotels Aparthotel Desuite,1044.9,8.6,3.50,Apartment,Milan,2025-08-06,2025-08-15,Martes,Jueves
+12,DONATELLO11 Milan apartments,1925.0,9.6,3.00,Apartment,Milan,2025-08-06,2025-08-15,Martes,Jueves
+13,NH Collection Porta Nuova,1891.0,8.5,1.95,Hotel,Milan,2025-08-06,2025-08-15,Martes,Jueves
+14,Glam Milano,1385.19,8.2,2.45,Hotel,Milan,2025-08-06,2025-08-15,Martes,Jueves
+15,Due Mari Milano Apartment ZONA PORTELLO-FIERA FREE WI-FI,1044.92,9.8,5.00,Guest house,Milan,2025-08-06,2025-08-15,Martes,Jueves
+16,Top Accommodations in the Heart of Milano!,1016.29,7.8,0.90,Apartment,Milan,2025-08-06,2025-08-15,Martes,Jueves
+17,Garibaldi 59,1418.78,9.2,1.25,Apartment,Milan,2025-08-06,2025-08-15,Martes,Jueves
+18,Fontana Suites - 15 min dal Duomo,916.59,9.0,1.30,Apartment,Milan,2025-08-06,2025-08-15,Martes,Jueves
+19,Bronzino House,1273.77,9.6,2.85,Bed and breakfast,Milan,2025-08-06,2025-08-15,Martes,Jueves
+0,J24 Hotel Milano,1061.19,8.4,3.75,Hotel,Milan,2025-08-07,2025-08-16,Miercoles,Viernes
+1,Hilton Milan,1721.25,8.1,2.60,Hotel,Milan,2025-08-07,2025-08-16,Miercoles,Viernes
+2,Just Hotel Milano,1313.19,8.2,2.40,Hotel,Milan,2025-08-07,2025-08-16,Miercoles,Viernes
+3,BB Hotels Aparthotel Bocconi,1116.9,8.7,1.50,Aparthotel,Milan,2025-08-07,2025-08-16,Miercoles,Viernes
+4,Easy Milano Apartment Navigli,1137.52,8.4,2.10,Apartment,Milan,2025-08-07,2025-08-16,Miercoles,Viernes
+5,Starhotels Anderson,1341.0,8.5,2.75,Hotel,Milan,2025-08-07,2025-08-16,Miercoles,Viernes
+6,iH Hotels Milano Ambasciatori,1566.31,7.2,0.55,Hotel,Milan,2025-08-07,2025-08-16,Miercoles,Viernes
+7,Leia Hospitality,1539.0,9.3,1.40,Guest house,Milan,2025-08-07,2025-08-16,Miercoles,Viernes
+8,Glam Milano,1394.19,8.2,2.45,Hotel,Milan,2025-08-07,2025-08-16,Miercoles,Viernes
+9,BB Hotels Aparthotel Visconti,1064.0,8.4,4.15,Aparthotel,Milan,2025-08-07,2025-08-16,Miercoles,Viernes
+10,DONATELLO11 Milan apartments,1925.0,9.6,3.00,Apartment,Milan,2025-08-07,2025-08-16,Miercoles,Viernes
+11,CAMERA con BAGNO PRIVATO 04,1016.64,,5.15,Bed and breakfast,Milan,2025-08-07,2025-08-16,Miercoles,Viernes
+12,Starhotels Business Palace,1322.1,7.8,4.50,Hotel,Milan,2025-08-07,2025-08-16,Miercoles,Viernes
+13,BB Hotels Aparthotel Desuite,1053.9,8.6,3.50,Apartment,Milan,2025-08-07,2025-08-16,Miercoles,Viernes
+14,Due Mari Milano Apartment ZONA PORTELLO-FIERA FREE WI-FI,1044.92,9.8,5.00,Guest house,Milan,2025-08-07,2025-08-16,Miercoles,Viernes
+15,Hotel Folen,1999.89,8.3,2.90,Hotel,Milan,2025-08-07,2025-08-16,Miercoles,Viernes
+16,NH Collection Porta Nuova,1891.0,8.5,1.95,Hotel,Milan,2025-08-07,2025-08-16,Miercoles,Viernes
+17,Bronzino House,1273.77,9.6,2.85,Bed and breakfast,Milan,2025-08-07,2025-08-16,Miercoles,Viernes
+18,Heart Hotel Milano,1385.19,8.5,1.85,Hotel,Milan,2025-08-07,2025-08-16,Miercoles,Viernes
+19,Garibaldi 59,1418.78,9.2,1.25,Apartment,Milan,2025-08-07,2025-08-16,Miercoles,Viernes
+0,J24 Hotel Milano,1070.19,8.4,3.75,Hotel,Milan,2025-08-08,2025-08-17,Jueves,Sabado
+1,Ramada Plaza Milano,1494.0,8.0,5.20,Hotel,Milan,2025-08-08,2025-08-17,Jueves,Sabado
+2,Hilton Milan,1721.25,8.1,2.60,Hotel,Milan,2025-08-08,2025-08-17,Jueves,Sabado
+3,Easy Milano Apartment Navigli,1146.18,8.4,2.10,Apartment,Milan,2025-08-08,2025-08-17,Jueves,Sabado
+4,BB Hotels Aparthotel Isola,1062.9,8.5,3.05,Aparthotel,Milan,2025-08-08,2025-08-17,Jueves,Sabado
+5,Glam Milano,1403.19,8.2,2.45,Hotel,Milan,2025-08-08,2025-08-17,Jueves,Sabado
+6,BB Hotels Aparthotel Bocconi,1143.9,8.7,1.50,Aparthotel,Milan,2025-08-08,2025-08-17,Jueves,Sabado
+7,Leia Hospitality,1539.0,9.3,1.40,Guest house,Milan,2025-08-08,2025-08-17,Jueves,Sabado
+8,iH Hotels Milano Ambasciatori,1599.1,7.2,0.55,Hotel,Milan,2025-08-08,2025-08-17,Jueves,Sabado
+9,BB Hotels Aparthotel Visconti,1084.0,8.4,4.15,Aparthotel,Milan,2025-08-08,2025-08-17,Jueves,Sabado
+10,DONATELLO11 Milan apartments,1925.0,9.6,3.00,Apartment,Milan,2025-08-08,2025-08-17,Jueves,Sabado
+11,Hotel Folen,1999.89,8.3,2.90,Hotel,Milan,2025-08-08,2025-08-17,Jueves,Sabado
+12,Heart Hotel Milano,1394.19,8.5,1.85,Hotel,Milan,2025-08-08,2025-08-17,Jueves,Sabado
+13,Starhotels Business Palace,1336.5,7.8,4.50,Hotel,Milan,2025-08-08,2025-08-17,Jueves,Sabado
+14,Due Mari Milano Apartment ZONA PORTELLO-FIERA FREE WI-FI,1044.92,9.8,5.00,Guest house,Milan,2025-08-08,2025-08-17,Jueves,Sabado
+15,BB Hotels Aparthotel Desuite,1062.9,8.6,3.50,Apartment,Milan,2025-08-08,2025-08-17,Jueves,Sabado
+16,Bronzino House,1273.77,9.6,2.85,Bed and breakfast,Milan,2025-08-08,2025-08-17,Jueves,Sabado
+17,CAMERA con BAGNO PRIVATO 04,1016.64,,5.15,Bed and breakfast,Milan,2025-08-08,2025-08-17,Jueves,Sabado
+18,Art Hotel Navigli,1493.46,8.5,2.20,Hotel,Milan,2025-08-08,2025-08-17,Jueves,Sabado
+19,Suites in Porta Garibaldi & Chinatown - City Center well connected,1403.76,8.1,1.85,Apartment,Milan,2025-08-08,2025-08-17,Jueves,Sabado
+0,Hilton Milan,1721.25,8.1,2.60,Hotel,Milan,2025-08-09,2025-08-18,Viernes,Domingo
+1,J24 Hotel Milano,1052.19,8.4,3.75,Hotel,Milan,2025-08-09,2025-08-18,Viernes,Domingo
+2,Easy Milano Apartment Navigli,1146.18,8.4,2.10,Apartment,Milan,2025-08-09,2025-08-18,Viernes,Domingo
+3,Una Volta in Brera,945.72,8.5,1.90,Apartment,Milan,2025-08-09,2025-08-18,Viernes,Domingo
+4,Glam Milano,1394.19,8.2,2.45,Hotel,Milan,2025-08-09,2025-08-18,Viernes,Domingo
+5,iH Hotels Milano Ambasciatori,1566.31,7.2,0.55,Hotel,Milan,2025-08-09,2025-08-18,Viernes,Domingo
+6,Leia Hospitality,1539.0,9.3,1.40,Guest house,Milan,2025-08-09,2025-08-18,Viernes,Domingo
+7,BB Hotels Aparthotel Bocconi,1143.9,8.7,1.50,Aparthotel,Milan,2025-08-09,2025-08-18,Viernes,Domingo
+8,DONATELLO11 Milan apartments,1953.0,9.6,3.00,Apartment,Milan,2025-08-09,2025-08-18,Viernes,Domingo
+9,BB Hotels Aparthotel Visconti,1064.0,8.4,4.15,Aparthotel,Milan,2025-08-09,2025-08-18,Viernes,Domingo
+10,BB Hotels Aparthotel Desuite,1044.9,8.6,3.50,Apartment,Milan,2025-08-09,2025-08-18,Viernes,Domingo
+11,Garibaldi 59,1418.78,9.2,1.25,Apartment,Milan,2025-08-09,2025-08-18,Viernes,Domingo
+12,Bronzino House,1273.77,9.6,2.85,Bed and breakfast,Milan,2025-08-09,2025-08-18,Viernes,Domingo
+13,Hotel Folen,1999.89,8.3,2.90,Hotel,Milan,2025-08-09,2025-08-18,Viernes,Domingo
+14,La Milanese - New apartment - Closed to Metrò ISOLA,1195.11,9.6,2.75,Apartment,Milan,2025-08-09,2025-08-18,Viernes,Domingo
+15,Top Accommodations in the Heart of Milano!,1042.49,7.8,0.90,Apartment,Milan,2025-08-09,2025-08-18,Viernes,Domingo
+16,Bed&Coffee Milano,891.0,8.6,6.55,Apartment,Milan,2025-08-09,2025-08-18,Viernes,Domingo
+17,Milan Eleven by Brera Apartments,1794.6,9.1,0.60,Apartment,Milan,2025-08-09,2025-08-18,Viernes,Domingo
+18,Hotel Bristol,1277.28,8.1,2.65,Hotel,Milan,2025-08-09,2025-08-18,Viernes,Domingo
+19,Suites in Porta Garibaldi & Chinatown - City Center well connected,1380.78,8.1,1.85,Apartment,Milan,2025-08-09,2025-08-18,Viernes,Domingo
+0,BB Hotels Aparthotel Isola,1017.9,8.5,3.05,Aparthotel,Milan,2025-08-10,2025-08-19,Sabado,Lunes
+1,Easy Milano Apartment Navigli,1120.21,8.4,2.10,Apartment,Milan,2025-08-10,2025-08-19,Sabado,Lunes
+2,J24 Hotel Milano,1043.19,8.4,3.75,Hotel,Milan,2025-08-10,2025-08-19,Sabado,Lunes
+3,Just Hotel Milano,1304.19,8.2,2.40,Hotel,Milan,2025-08-10,2025-08-19,Sabado,Lunes
+4,Hilton Milan,1721.25,8.1,2.60,Hotel,Milan,2025-08-10,2025-08-19,Sabado,Lunes
+5,BB Hotels Aparthotel Visconti,1034.0,8.4,4.15,Aparthotel,Milan,2025-08-10,2025-08-19,Sabado,Lunes
+6,Bed&Coffee Milano,891.0,8.6,6.55,Apartment,Milan,2025-08-10,2025-08-19,Sabado,Lunes
+7,Una Volta in Brera,945.72,8.5,1.90,Apartment,Milan,2025-08-10,2025-08-19,Sabado,Lunes
+8,Leia Hospitality,1539.0,9.3,1.40,Guest house,Milan,2025-08-10,2025-08-19,Sabado,Lunes
+9,iH Hotels Milano Ambasciatori,1508.93,7.2,0.55,Hotel,Milan,2025-08-10,2025-08-19,Sabado,Lunes
+10,BB Hotels Aparthotel Desuite,1017.9,8.6,3.50,Apartment,Milan,2025-08-10,2025-08-19,Sabado,Lunes
+11,CAMERA con BAGNO PRIVATO 04,1016.64,,5.15,Bed and breakfast,Milan,2025-08-10,2025-08-19,Sabado,Lunes
+12,Suites in Porta Garibaldi & Chinatown - City Center well connected,1362.78,8.1,1.85,Apartment,Milan,2025-08-10,2025-08-19,Sabado,Lunes
+13,NH Collection Porta Nuova,1826.5,8.5,1.95,Hotel,Milan,2025-08-10,2025-08-19,Sabado,Lunes
+14,Glam Milano,1385.19,8.2,2.45,Hotel,Milan,2025-08-10,2025-08-19,Sabado,Lunes
+15,Hotel Folen,1999.89,8.3,2.90,Hotel,Milan,2025-08-10,2025-08-19,Sabado,Lunes
+16,Garibaldi 59,1418.78,9.2,1.25,Apartment,Milan,2025-08-10,2025-08-19,Sabado,Lunes
+17,BB Hotels Aparthotel Arcimboldi,1179.9,8.5,5.15,Aparthotel,Milan,2025-08-10,2025-08-19,Sabado,Lunes
+18,La Milanese - New apartment - Closed to Metrò ISOLA,1194.45,9.6,2.75,Apartment,Milan,2025-08-10,2025-08-19,Sabado,Lunes
+19,Bronzino House,1273.77,9.6,2.85,Bed and breakfast,Milan,2025-08-10,2025-08-19,Sabado,Lunes
+0,BB Hotels Aparthotel Isola,1026.9,8.5,3.05,Aparthotel,Milan,2025-08-11,2025-08-20,Domingo,Martes
+1,HD8 Hotel Milano,1313.19,8.2,2.50,Hotel,Milan,2025-08-11,2025-08-20,Domingo,Martes
+2,Easy Milano Apartment Navigli,1120.21,8.4,2.10,Apartment,Milan,2025-08-11,2025-08-20,Domingo,Martes
+3,Spice Hotel Milano,1214.19,8.2,2.50,Hotel,Milan,2025-08-11,2025-08-20,Domingo,Martes
+4,Una Volta in Brera,945.72,8.5,1.90,Apartment,Milan,2025-08-11,2025-08-20,Domingo,Martes
+5,Starhotels Anderson,1350.0,8.5,2.75,Hotel,Milan,2025-08-11,2025-08-20,Domingo,Martes
+6,BB Hotels Aparthotel Visconti,1044.0,8.4,4.15,Aparthotel,Milan,2025-08-11,2025-08-20,Domingo,Martes
+7,Just Hotel Milano,1313.19,8.2,2.40,Hotel,Milan,2025-08-11,2025-08-20,Domingo,Martes
+8,Leia Hospitality,1539.0,9.3,1.40,Guest house,Milan,2025-08-11,2025-08-20,Domingo,Martes
+9,iH Hotels Milano Ambasciatori,1525.33,7.2,0.55,Hotel,Milan,2025-08-11,2025-08-20,Domingo,Martes
+10,J24 Hotel Milano,1061.19,8.4,3.75,Hotel,Milan,2025-08-11,2025-08-20,Domingo,Martes
+11,BB Hotels Aparthotel Desuite,1026.9,8.6,3.50,Apartment,Milan,2025-08-11,2025-08-20,Domingo,Martes
+12,Top Accommodations in the Heart of Milano!,1035.94,7.8,0.90,Apartment,Milan,2025-08-11,2025-08-20,Domingo,Martes
+13,Fontana Suites - 15 min dal Duomo,916.59,9.0,1.30,Apartment,Milan,2025-08-11,2025-08-20,Domingo,Martes
+14,"appartamento Martina, silenzioso a 100 metri dalla metropolitana",777.76,9.2,4.20,Apartment,Milan,2025-08-11,2025-08-20,Domingo,Martes
+15,DONATELLO11 Milan apartments,1990.0,9.6,3.00,Apartment,Milan,2025-08-11,2025-08-20,Domingo,Martes
+16,Garibaldi 59,1418.78,9.2,1.25,Apartment,Milan,2025-08-11,2025-08-20,Domingo,Martes
+17,Suites in Porta Garibaldi & Chinatown - City Center well connected,1356.79,8.1,1.85,Apartment,Milan,2025-08-11,2025-08-20,Domingo,Martes
+18,Glam Milano,1394.19,8.2,2.45,Hotel,Milan,2025-08-11,2025-08-20,Domingo,Martes
+19,Bronzino House,1273.77,9.6,2.85,Bed and breakfast,Milan,2025-08-11,2025-08-20,Domingo,Martes
+0,Spice Hotel Milano,1214.19,8.2,2.50,Hotel,Milan,2025-08-12,2025-08-21,Lunes,Miercoles
+1,Easy Milano Apartment Navigli,1120.21,8.4,2.10,Apartment,Milan,2025-08-12,2025-08-21,Lunes,Miercoles
+2,Una Volta in Brera,945.72,8.5,1.90,Apartment,Milan,2025-08-12,2025-08-21,Lunes,Miercoles
+3,NH Collection Porta Nuova,1891.0,8.5,1.95,Hotel,Milan,2025-08-12,2025-08-21,Lunes,Miercoles
+4,Just Hotel Milano,1313.19,8.2,2.40,Hotel,Milan,2025-08-12,2025-08-21,Lunes,Miercoles
+5,Starhotels Anderson,1350.0,8.5,2.75,Hotel,Milan,2025-08-12,2025-08-21,Lunes,Miercoles
+6,iH Hotels Milano Ambasciatori,1549.92,7.2,0.55,Hotel,Milan,2025-08-12,2025-08-21,Lunes,Miercoles
+7,J24 Hotel Milano,1061.19,8.4,3.75,Hotel,Milan,2025-08-12,2025-08-21,Lunes,Miercoles
+8,Leia Hospitality,1539.0,9.3,1.40,Guest house,Milan,2025-08-12,2025-08-21,Lunes,Miercoles
+9,Top Accommodations in the Heart of Milano!,1037.25,7.8,0.90,Apartment,Milan,2025-08-12,2025-08-21,Lunes,Miercoles
+10,BB Hotels Aparthotel Visconti,1054.0,8.4,4.15,Aparthotel,Milan,2025-08-12,2025-08-21,Lunes,Miercoles
+11,BB Hotels Aparthotel Desuite,1035.9,8.6,3.50,Apartment,Milan,2025-08-12,2025-08-21,Lunes,Miercoles
+12,Fontana Suites - 15 min dal Duomo,916.59,9.0,1.30,Apartment,Milan,2025-08-12,2025-08-21,Lunes,Miercoles
+13,"appartamento Martina, silenzioso a 100 metri dalla metropolitana",777.76,9.2,4.20,Apartment,Milan,2025-08-12,2025-08-21,Lunes,Miercoles
+14,Glam Milano,1394.19,8.2,2.45,Hotel,Milan,2025-08-12,2025-08-21,Lunes,Miercoles
+15,DONATELLO11 Milan apartments,2012.0,9.6,3.00,Apartment,Milan,2025-08-12,2025-08-21,Lunes,Miercoles
+16,Garibaldi 59,1418.78,9.2,1.25,Apartment,Milan,2025-08-12,2025-08-21,Lunes,Miercoles
+17,Suites in Porta Garibaldi & Chinatown - City Center well connected,1357.79,8.1,1.85,Apartment,Milan,2025-08-12,2025-08-21,Lunes,Miercoles
+18,Bronzino House,1273.77,9.6,2.85,Bed and breakfast,Milan,2025-08-12,2025-08-21,Lunes,Miercoles
+19,CAMERA con BAGNO PRIVATO 04,1016.64,,5.15,Bed and breakfast,Milan,2025-08-12,2025-08-21,Lunes,Miercoles
+0,BB Hotels Aparthotel Isola,1035.9,8.5,3.05,Aparthotel,Milan,2025-08-13,2025-08-22,Martes,Jueves
+1,BB Hotels Aparthotel Bocconi,1116.9,8.7,1.50,Aparthotel,Milan,2025-08-13,2025-08-22,Martes,Jueves
+2,Easy Milano Apartment Navigli,1111.57,8.4,2.10,Apartment,Milan,2025-08-13,2025-08-22,Martes,Jueves
+3,Just Hotel Milano,1313.19,8.2,2.40,Hotel,Milan,2025-08-13,2025-08-22,Martes,Jueves
+4,Starhotels Anderson,1350.0,8.5,2.75,Hotel,Milan,2025-08-13,2025-08-22,Martes,Jueves
+5,J24 Hotel Milano,1061.19,8.4,3.75,Hotel,Milan,2025-08-13,2025-08-22,Martes,Jueves
+6,NH Collection Porta Nuova,1891.0,8.5,1.95,Hotel,Milan,2025-08-13,2025-08-22,Martes,Jueves
+7,Una Volta in Brera,945.72,8.5,1.90,Apartment,Milan,2025-08-13,2025-08-22,Martes,Jueves
+8,iH Hotels Milano Ambasciatori,1574.51,7.2,0.55,Hotel,Milan,2025-08-13,2025-08-22,Martes,Jueves
+9,Leia Hospitality,1539.0,9.3,1.40,Guest house,Milan,2025-08-13,2025-08-22,Martes,Jueves
+10,BB Hotels Aparthotel Visconti,1054.0,8.4,4.15,Aparthotel,Milan,2025-08-13,2025-08-22,Martes,Jueves
+11,BB Hotels Aparthotel Desuite,1044.9,8.6,3.50,Apartment,Milan,2025-08-13,2025-08-22,Martes,Jueves
+12,Glam Milano,1394.19,8.2,2.45,Hotel,Milan,2025-08-13,2025-08-22,Martes,Jueves
+13,Top Accommodations in the Heart of Milano!,1042.49,7.8,0.90,Apartment,Milan,2025-08-13,2025-08-22,Martes,Jueves
+14,Fontana Suites - 15 min dal Duomo,916.59,9.0,1.30,Apartment,Milan,2025-08-13,2025-08-22,Martes,Jueves
+15,"appartamento Martina, silenzioso a 100 metri dalla metropolitana",777.76,9.2,4.20,Apartment,Milan,2025-08-13,2025-08-22,Martes,Jueves
+16,CAMERA con BAGNO PRIVATO 04,1016.64,,5.15,Bed and breakfast,Milan,2025-08-13,2025-08-22,Martes,Jueves
+17,DONATELLO11 Milan apartments,2056.0,9.6,3.00,Apartment,Milan,2025-08-13,2025-08-22,Martes,Jueves
+18,Residenza Cenisio,798.08,7.2,3.20,Aparthotel,Milan,2025-08-13,2025-08-22,Martes,Jueves
+19,Suites in Porta Garibaldi & Chinatown - City Center well connected,1369.78,8.1,1.85,Apartment,Milan,2025-08-13,2025-08-22,Martes,Jueves
+0,Easy Milano Apartment Navigli,1111.57,8.4,2.10,Apartment,Milan,2025-08-14,2025-08-23,Miercoles,Viernes
+1,J24 Hotel Milano,1061.19,8.4,3.75,Hotel,Milan,2025-08-14,2025-08-23,Miercoles,Viernes
+2,BB Hotels Aparthotel Bocconi,1125.9,8.7,1.50,Aparthotel,Milan,2025-08-14,2025-08-23,Miercoles,Viernes
+3,Starhotels Anderson,1341.0,8.5,2.75,Hotel,Milan,2025-08-14,2025-08-23,Miercoles,Viernes
+4,D'adda 16 - Suite Luminosa - 3 min dal Naviglio,863.71,9.7,2.95,Apartment,Milan,2025-08-14,2025-08-23,Miercoles,Viernes
+5,Leia Hospitality,1539.0,9.3,1.40,Guest house,Milan,2025-08-14,2025-08-23,Miercoles,Viernes
+6,NH Collection Porta Nuova,1891.0,8.5,1.95,Hotel,Milan,2025-08-14,2025-08-23,Miercoles,Viernes
+7,Glam Milano,1394.19,8.2,2.45,Hotel,Milan,2025-08-14,2025-08-23,Miercoles,Viernes
+8,BB Hotels Aparthotel Visconti,1064.0,8.4,4.15,Aparthotel,Milan,2025-08-14,2025-08-23,Miercoles,Viernes
+9,Starhotels Business Palace,1337.4,7.8,4.50,Hotel,Milan,2025-08-14,2025-08-23,Miercoles,Viernes
+10,iH Hotels Milano Ambasciatori,1590.91,7.2,0.55,Hotel,Milan,2025-08-14,2025-08-23,Miercoles,Viernes
+11,CAMERA con BAGNO PRIVATO 04,1016.64,,5.15,Bed and breakfast,Milan,2025-08-14,2025-08-23,Miercoles,Viernes
+12,BB Hotels Aparthotel Desuite,1062.9,8.6,3.50,Apartment,Milan,2025-08-14,2025-08-23,Miercoles,Viernes
+13,Una Volta in Brera,945.72,8.5,1.90,Apartment,Milan,2025-08-14,2025-08-23,Miercoles,Viernes
+14,Hotel Folen,1999.89,8.3,2.90,Hotel,Milan,2025-08-14,2025-08-23,Miercoles,Viernes
+15,DONATELLO11 Milan apartments,2109.0,9.6,3.00,Apartment,Milan,2025-08-14,2025-08-23,Miercoles,Viernes
+16,Art Hotel Navigli,1493.46,8.5,2.20,Hotel,Milan,2025-08-14,2025-08-23,Miercoles,Viernes
+17,BB Hotels Aparthotel Arcimboldi,1206.9,8.5,5.15,Aparthotel,Milan,2025-08-14,2025-08-23,Miercoles,Viernes
+18,Fontana Suites - 15 min dal Duomo,925.74,9.0,1.30,Apartment,Milan,2025-08-14,2025-08-23,Miercoles,Viernes
+19,"appartamento Martina, silenzioso a 100 metri dalla metropolitana",777.76,9.2,4.20,Apartment,Milan,2025-08-14,2025-08-23,Miercoles,Viernes
+0,J24 Hotel Milano,1070.19,8.4,3.75,Hotel,Milan,2025-08-15,2025-08-24,Jueves,Sabado
+1,BB Hotels Aparthotel Isola,1062.9,8.5,3.05,Aparthotel,Milan,2025-08-15,2025-08-24,Jueves,Sabado
+2,Easy Milano Apartment Navigli,1128.87,8.4,2.10,Apartment,Milan,2025-08-15,2025-08-24,Jueves,Sabado
+3,Glam Milano,1403.19,8.2,2.45,Hotel,Milan,2025-08-15,2025-08-24,Jueves,Sabado
+4,NH Collection Porta Nuova,1866.5,8.5,1.95,Hotel,Milan,2025-08-15,2025-08-24,Jueves,Sabado
+5,Leia Hospitality,1539.0,9.3,1.40,Guest house,Milan,2025-08-15,2025-08-24,Jueves,Sabado
+6,BB Hotels Aparthotel Bocconi,1125.9,8.7,1.50,Aparthotel,Milan,2025-08-15,2025-08-24,Jueves,Sabado
+7,BB Hotels Aparthotel Visconti,1084.0,8.4,4.15,Aparthotel,Milan,2025-08-15,2025-08-24,Jueves,Sabado
+8,iH Hotels Milano Ambasciatori,1615.5,7.2,0.55,Hotel,Milan,2025-08-15,2025-08-24,Jueves,Sabado
+9,Hotel Dei Cavalieri Milano Duomo,2892.14,8.0,0.40,Hotel,Milan,2025-08-15,2025-08-24,Jueves,Sabado
+10,Starhotels Business Palace,1333.8,7.8,4.50,Hotel,Milan,2025-08-15,2025-08-24,Jueves,Sabado
+11,Martini,1018.16,9.2,3.90,Apartment,Milan,2025-08-15,2025-08-24,Jueves,Sabado
+12,Hotel Folen,1999.89,8.3,2.90,Hotel,Milan,2025-08-15,2025-08-24,Jueves,Sabado
+13,BB Hotels Aparthotel Desuite,1080.9,8.6,3.50,Apartment,Milan,2025-08-15,2025-08-24,Jueves,Sabado
+14,DONATELLO11 Milan apartments,2111.0,9.6,3.00,Apartment,Milan,2025-08-15,2025-08-24,Jueves,Sabado
+15,Suites in Porta Garibaldi & Chinatown - City Center well connected,1391.77,8.1,1.85,Apartment,Milan,2025-08-15,2025-08-24,Jueves,Sabado
+16,Heart Hotel Milano,1394.19,8.5,1.85,Hotel,Milan,2025-08-15,2025-08-24,Jueves,Sabado
+17,Cà Bèla - Mercadante,1458.55,9.1,2.75,Guest house,Milan,2025-08-15,2025-08-24,Jueves,Sabado
+18,Art Hotel Navigli,1493.46,8.5,2.20,Hotel,Milan,2025-08-15,2025-08-24,Jueves,Sabado
+19,Sina De La Ville,2981.0,8.1,0.35,Hotel,Milan,2025-08-15,2025-08-24,Jueves,Sabado
+0,Ramada Plaza Milano,1324.0,8.0,5.20,Hotel,Milan,2025-08-16,2025-08-25,Viernes,Domingo
+1,Sonder Manzoni,1381.86,9.2,0.80,Aparthotel,Milan,2025-08-16,2025-08-25,Viernes,Domingo
+2,Una Volta in Brera,891.0,8.5,1.90,Apartment,Milan,2025-08-16,2025-08-25,Viernes,Domingo
+3,Via Breda 120,780.0,8.4,6.25,Apartment,Milan,2025-08-16,2025-08-25,Viernes,Domingo
+4,BB Hotels Aparthotel Isola,981.9,8.5,3.05,Aparthotel,Milan,2025-08-16,2025-08-25,Viernes,Domingo
+5,STUDIO 47 - CITY LIFE,735.0,9.0,4.10,Apartment,Milan,2025-08-16,2025-08-25,Viernes,Domingo
+6,Art Hotel Navigli,1525.5,8.5,2.20,Hotel,Milan,2025-08-16,2025-08-25,Viernes,Domingo
+7,Niccolini 26 - 5 min da metro - Silenzioso,878.0,,2.20,Apartment,Milan,2025-08-16,2025-08-25,Viernes,Domingo
+8,Fontana Suites - 15 min dal Duomo,856.8,9.0,1.30,Apartment,Milan,2025-08-16,2025-08-25,Viernes,Domingo
+9,UNAHOTELS Scandinavia Milano,1035.0,8.1,3.05,Hotel,Milan,2025-08-16,2025-08-25,Viernes,Domingo
+10,Glam Milano,1295.19,8.2,2.45,Hotel,Milan,2025-08-16,2025-08-25,Viernes,Domingo
+11,Starhotels Anderson,1233.0,8.5,2.75,Hotel,Milan,2025-08-16,2025-08-25,Viernes,Domingo
+12,Hotel Bristol,1187.28,8.1,2.65,Hotel,Milan,2025-08-16,2025-08-25,Viernes,Domingo
+13,"appartamento Martina, silenzioso a 100 metri dalla metropolitana",757.35,9.2,4.20,Apartment,Milan,2025-08-16,2025-08-25,Viernes,Domingo
+14,Hotel Cavour,2049.3,8.2,1.05,Hotel,Milan,2025-08-16,2025-08-25,Viernes,Domingo
+15,"Brand new apt , City Life district",918.0,9.0,2.85,Apartment,Milan,2025-08-16,2025-08-25,Viernes,Domingo
+16,Easy Milano Apartment Navigli,1021.91,8.4,2.10,Apartment,Milan,2025-08-16,2025-08-25,Viernes,Domingo
+17,BB Hotels Aparthotel Visconti,1001.0,8.4,4.15,Aparthotel,Milan,2025-08-16,2025-08-25,Viernes,Domingo
+18,Milan Royal Suites - Centro Brera,1311.0,8.7,0.60,Apartment,Milan,2025-08-16,2025-08-25,Viernes,Domingo
+19,Hotel Flora,1042.15,8.1,2.40,Hotel,Milan,2025-08-16,2025-08-25,Viernes,Domingo
+0,Sonder Manzoni,1296.67,9.2,0.80,Aparthotel,Milan,2025-08-17,2025-08-26,Sabado,Lunes
+1,Just Hotel Milano,1205.19,8.2,2.40,Hotel,Milan,2025-08-17,2025-08-26,Sabado,Lunes
+2,Una Volta in Brera,891.0,8.5,1.90,Apartment,Milan,2025-08-17,2025-08-26,Sabado,Lunes
+3,Milan Royal Suites - Centro,1343.2,8.6,0.55,Apartment,Milan,2025-08-17,2025-08-26,Sabado,Lunes
+4,Niccolini 26 - 5 min da metro - Silenzioso,865.0,,2.20,Apartment,Milan,2025-08-17,2025-08-26,Sabado,Lunes
+5,BB Hotels Aparthotel Isola,954.9,8.5,3.05,Aparthotel,Milan,2025-08-17,2025-08-26,Sabado,Lunes
+6,CAMERA con BAGNO PRIVATO 04,1017.0,,5.15,Bed and breakfast,Milan,2025-08-17,2025-08-26,Sabado,Lunes
+7,BB Hotels Aparthotel Visconti,971.0,8.4,4.15,Aparthotel,Milan,2025-08-17,2025-08-26,Sabado,Lunes
+8,STUDIO 47 - CITY LIFE,715.0,9.0,4.10,Apartment,Milan,2025-08-17,2025-08-26,Sabado,Lunes
+9,UNAHOTELS Scandinavia Milano,1044.0,8.1,3.05,Hotel,Milan,2025-08-17,2025-08-26,Sabado,Lunes
+10,Easy Milano Apartment Navigli,995.96,8.4,2.10,Apartment,Milan,2025-08-17,2025-08-26,Sabado,Lunes
+11,Fontana Suites - 15 min dal Duomo,846.86,9.0,1.30,Apartment,Milan,2025-08-17,2025-08-26,Sabado,Lunes
+12,Suite Settala - 10 min dal Duomo - 5 da Stazione,1022.0,,2.05,Apartment,Milan,2025-08-17,2025-08-26,Sabado,Lunes
+13,"appartamento Martina, silenzioso a 100 metri dalla metropolitana",757.35,9.2,4.20,Apartment,Milan,2025-08-17,2025-08-26,Sabado,Lunes
+14,Bed&Coffee Milano,810.0,8.6,6.55,Apartment,Milan,2025-08-17,2025-08-26,Sabado,Lunes
+15,BB Hotels Aparthotel Desuite,972.9,8.6,3.50,Apartment,Milan,2025-08-17,2025-08-26,Sabado,Lunes
+16,Leia Hospitality,1458.0,9.3,1.40,Guest house,Milan,2025-08-17,2025-08-26,Sabado,Lunes
+17,Fancy Blue Duomo Duplex Apartement,2019.6,8.5,0.45,Apartment,Milan,2025-08-17,2025-08-26,Sabado,Lunes
+18,Art Hotel Navigli,1525.5,8.5,2.20,Hotel,Milan,2025-08-17,2025-08-26,Sabado,Lunes
+19,La Milanese - New apartment - Closed to Metrò ISOLA,1162.8,9.6,2.75,Apartment,Milan,2025-08-17,2025-08-26,Sabado,Lunes
+0,Una Volta in Brera,891.0,8.5,1.90,Apartment,Milan,2025-08-18,2025-08-27,Domingo,Martes
+1,Ramada Plaza Milano,1314.0,8.0,5.20,Hotel,Milan,2025-08-18,2025-08-27,Domingo,Martes
+2,Fontana Suites - 15 min dal Duomo,843.03,9.0,1.30,Apartment,Milan,2025-08-18,2025-08-27,Domingo,Martes
+3,Bed&Coffee Milano,810.0,8.6,6.55,Apartment,Milan,2025-08-18,2025-08-27,Domingo,Martes
+4,BB Hotels Aparthotel Isola,963.9,8.5,3.05,Aparthotel,Milan,2025-08-18,2025-08-27,Domingo,Martes
+5,HD8 Hotel Milano,1214.19,8.2,2.50,Hotel,Milan,2025-08-18,2025-08-27,Domingo,Martes
+6,STUDIO 47 - CITY LIFE,715.0,9.0,4.10,Apartment,Milan,2025-08-18,2025-08-27,Domingo,Martes
+7,"appartamento Martina, silenzioso a 100 metri dalla metropolitana",757.35,9.2,4.20,Apartment,Milan,2025-08-18,2025-08-27,Domingo,Martes
+8,Just Hotel Milano,1214.19,8.2,2.40,Hotel,Milan,2025-08-18,2025-08-27,Domingo,Martes
+9,VIGLIANI 27,945.0,8.5,3.80,Apartment,Milan,2025-08-18,2025-08-27,Domingo,Martes
+10,Niccolini 26 - 5 min da metro - Silenzioso,863.0,,2.20,Apartment,Milan,2025-08-18,2025-08-27,Domingo,Martes
+11,La Milanese - New apartment - Closed to Metrò ISOLA,1161.36,9.6,2.75,Apartment,Milan,2025-08-18,2025-08-27,Domingo,Martes
+12,BB Hotels Aparthotel Visconti,981.0,8.4,4.15,Aparthotel,Milan,2025-08-18,2025-08-27,Domingo,Martes
+13,CAMERA con BAGNO PRIVATO 04,1017.0,,5.15,Bed and breakfast,Milan,2025-08-18,2025-08-27,Domingo,Martes
+14,Milan Eleven by Brera Apartments,1618.23,9.1,0.60,Apartment,Milan,2025-08-18,2025-08-27,Domingo,Martes
+15,Easy Milano Apartment Navigli,961.34,8.4,2.10,Apartment,Milan,2025-08-18,2025-08-27,Domingo,Martes
+16,Suite Settala - 10 min dal Duomo - 5 da Stazione,1009.0,,2.05,Apartment,Milan,2025-08-18,2025-08-27,Domingo,Martes
+17,Custodi Suite - 5 min dalla Darsena e Naviglio,799.85,9.0,1.65,Apartment,Milan,2025-08-18,2025-08-27,Domingo,Martes
+18,Starhotels Anderson,1260.0,8.5,2.75,Hotel,Milan,2025-08-18,2025-08-27,Domingo,Martes
+19,Milan Royal Suites - Centro Brera,1276.04,8.7,0.60,Apartment,Milan,2025-08-18,2025-08-27,Domingo,Martes
+0,Una Volta in Brera,891.0,8.5,1.90,Apartment,Milan,2025-08-19,2025-08-28,Lunes,Miercoles
+1,Milano da sogno al rifugio Merini in Centro,712.3,,3.50,Apartment,Milan,2025-08-19,2025-08-28,Lunes,Miercoles
+2,BB Hotels Aparthotel Isola,972.9,8.5,3.05,Aparthotel,Milan,2025-08-19,2025-08-28,Lunes,Miercoles
+3,Bed&Coffee Milano,810.0,8.6,6.55,Apartment,Milan,2025-08-19,2025-08-28,Lunes,Miercoles
+4,Fontana Suites - 15 min dal Duomo,843.03,9.0,1.30,Apartment,Milan,2025-08-19,2025-08-28,Lunes,Miercoles
+5,HD8 Hotel Milano,1214.19,8.2,2.50,Hotel,Milan,2025-08-19,2025-08-28,Lunes,Miercoles
+6,Just Hotel Milano,1214.19,8.2,2.40,Hotel,Milan,2025-08-19,2025-08-28,Lunes,Miercoles
+7,STUDIO 47 - CITY LIFE,715.0,9.0,4.10,Apartment,Milan,2025-08-19,2025-08-28,Lunes,Miercoles
+8,Niccolini 26 - 5 min da metro - Silenzioso,863.0,,2.20,Apartment,Milan,2025-08-19,2025-08-28,Lunes,Miercoles
+9,"appartamento Martina, silenzioso a 100 metri dalla metropolitana",757.35,9.2,4.20,Apartment,Milan,2025-08-19,2025-08-28,Lunes,Miercoles
+10,VIGLIANI 27,945.0,8.5,3.80,Apartment,Milan,2025-08-19,2025-08-28,Lunes,Miercoles
+11,La Milanese - New apartment - Closed to Metrò ISOLA,1169.28,9.6,2.75,Apartment,Milan,2025-08-19,2025-08-28,Lunes,Miercoles
+12,BB Hotels Aparthotel Visconti,991.0,8.4,4.15,Aparthotel,Milan,2025-08-19,2025-08-28,Lunes,Miercoles
+13,Milan Eleven by Brera Apartments,1605.31,9.1,0.60,Apartment,Milan,2025-08-19,2025-08-28,Lunes,Miercoles
+14,CAMERA con BAGNO PRIVATO 04,1017.0,,5.15,Bed and breakfast,Milan,2025-08-19,2025-08-28,Lunes,Miercoles
+15,Easy Milano Apartment Navigli,961.34,8.4,2.10,Apartment,Milan,2025-08-19,2025-08-28,Lunes,Miercoles
+16,Suite Settala - 10 min dal Duomo - 5 da Stazione,1009.0,,2.05,Apartment,Milan,2025-08-19,2025-08-28,Lunes,Miercoles
+17,Milan Royal Suites - Centro Brera,1276.04,8.7,0.60,Apartment,Milan,2025-08-19,2025-08-28,Lunes,Miercoles
+18,Starhotels Anderson,1260.0,8.5,2.75,Hotel,Milan,2025-08-19,2025-08-28,Lunes,Miercoles
+19,Custodi Suite - 5 min dalla Darsena e Naviglio,799.85,9.0,1.65,Apartment,Milan,2025-08-19,2025-08-28,Lunes,Miercoles
+0,Milano da sogno al rifugio Merini in Centro,728.44,,3.50,Apartment,Milan,2025-08-20,2025-08-29,Martes,Jueves
+1,BB Hotels Aparthotel Isola,972.9,8.5,3.05,Aparthotel,Milan,2025-08-20,2025-08-29,Martes,Jueves
+2,HD8 Hotel Milano,1214.19,8.2,2.50,Hotel,Milan,2025-08-20,2025-08-29,Martes,Jueves
+3,Una Volta in Brera,891.0,8.5,1.90,Apartment,Milan,2025-08-20,2025-08-29,Martes,Jueves
+4,Just Hotel Milano,1214.19,8.2,2.40,Hotel,Milan,2025-08-20,2025-08-29,Martes,Jueves
+5,Bed&Coffee Milano,810.0,8.6,6.55,Apartment,Milan,2025-08-20,2025-08-29,Martes,Jueves
+6,Niccolini 26 - 5 min da metro - Silenzioso,863.0,,2.20,Apartment,Milan,2025-08-20,2025-08-29,Martes,Jueves
+7,Fontana Suites - 15 min dal Duomo,843.03,9.0,1.30,Apartment,Milan,2025-08-20,2025-08-29,Martes,Jueves
+8,STUDIO 47 - CITY LIFE,715.0,9.0,4.10,Apartment,Milan,2025-08-20,2025-08-29,Martes,Jueves
+9,VIGLIANI 27,945.0,8.5,3.80,Apartment,Milan,2025-08-20,2025-08-29,Martes,Jueves
+10,"appartamento Martina, silenzioso a 100 metri dalla metropolitana",757.35,9.2,4.20,Apartment,Milan,2025-08-20,2025-08-29,Martes,Jueves
+11,BB Hotels Aparthotel Visconti,991.0,8.4,4.15,Aparthotel,Milan,2025-08-20,2025-08-29,Martes,Jueves
+12,La Milanese - New apartment - Closed to Metrò ISOLA,1176.48,9.6,2.75,Apartment,Milan,2025-08-20,2025-08-29,Martes,Jueves
+13,CAMERA con BAGNO PRIVATO 04,1017.0,,5.15,Bed and breakfast,Milan,2025-08-20,2025-08-29,Martes,Jueves
+14,UNAHOTELS Scandinavia Milano,1053.0,8.1,3.05,Hotel,Milan,2025-08-20,2025-08-29,Martes,Jueves
+15,Milan Eleven by Brera Apartments,1592.39,9.1,0.60,Apartment,Milan,2025-08-20,2025-08-29,Martes,Jueves
+16,Suite Settala - 10 min dal Duomo - 5 da Stazione,1009.0,,2.05,Apartment,Milan,2025-08-20,2025-08-29,Martes,Jueves
+17,Starhotels Anderson,1260.0,8.5,2.75,Hotel,Milan,2025-08-20,2025-08-29,Martes,Jueves
+18,Art Hotel Navigli,1525.5,8.5,2.20,Hotel,Milan,2025-08-20,2025-08-29,Martes,Jueves
+19,Hotel Bristol,1202.58,8.1,2.65,Hotel,Milan,2025-08-20,2025-08-29,Martes,Jueves
+0,Just Hotel Milano,1214.19,8.2,2.40,Hotel,Milan,2025-08-21,2025-08-30,Miercoles,Viernes
+1,Niccolini 26 - 5 min da metro - Silenzioso,874.0,,2.20,Apartment,Milan,2025-08-21,2025-08-30,Miercoles,Viernes
+2,BB Hotels Aparthotel Isola,981.9,8.5,3.05,Aparthotel,Milan,2025-08-21,2025-08-30,Miercoles,Viernes
+3,Bed&Coffee Milano,810.0,8.6,6.55,Apartment,Milan,2025-08-21,2025-08-30,Miercoles,Viernes
+4,Milano da sogno al rifugio Merini in Centro,748.84,,3.50,Apartment,Milan,2025-08-21,2025-08-30,Miercoles,Viernes
+5,STUDIO 47 - CITY LIFE,735.0,9.0,4.10,Apartment,Milan,2025-08-21,2025-08-30,Miercoles,Viernes
+6,Una Volta in Brera,891.0,8.5,1.90,Apartment,Milan,2025-08-21,2025-08-30,Miercoles,Viernes
+7,Fontana Suites - 15 min dal Duomo,852.98,9.0,1.30,Apartment,Milan,2025-08-21,2025-08-30,Miercoles,Viernes
+8,Art Hotel Navigli,1525.5,8.5,2.20,Hotel,Milan,2025-08-21,2025-08-30,Miercoles,Viernes
+9,Glam Milano,1295.19,8.2,2.45,Hotel,Milan,2025-08-21,2025-08-30,Miercoles,Viernes
+10,Sheraton Milan San Siro,2141.5,8.7,6.95,Hotel,Milan,2025-08-21,2025-08-30,Miercoles,Viernes
+11,CAMERA con BAGNO PRIVATO 04,1017.0,,5.15,Bed and breakfast,Milan,2025-08-21,2025-08-30,Miercoles,Viernes
+12,"appartamento Martina, silenzioso a 100 metri dalla metropolitana",757.35,9.2,4.20,Apartment,Milan,2025-08-21,2025-08-30,Miercoles,Viernes
+13,Starhotels Anderson,1251.0,8.5,2.75,Hotel,Milan,2025-08-21,2025-08-30,Miercoles,Viernes
+14,BB Hotels Aparthotel Visconti,1001.0,8.4,4.15,Aparthotel,Milan,2025-08-21,2025-08-30,Miercoles,Viernes
+15,Suite Settala - 10 min dal Duomo - 5 da Stazione,1039.0,,2.05,Apartment,Milan,2025-08-21,2025-08-30,Miercoles,Viernes
+16,Hotel Bristol,1194.93,8.1,2.65,Hotel,Milan,2025-08-21,2025-08-30,Miercoles,Viernes
+17,Copernico Apartment,1000.29,,3.05,Apartment,Milan,2025-08-21,2025-08-30,Miercoles,Viernes
+18,La Milanese - New apartment - Closed to Metrò ISOLA,1183.68,9.6,2.75,Apartment,Milan,2025-08-21,2025-08-30,Miercoles,Viernes
+19,VIGLIANI 27,972.0,8.5,3.80,Apartment,Milan,2025-08-21,2025-08-30,Miercoles,Viernes
+0,Niccolini 26 - 5 min da metro - Silenzioso,887.0,,2.20,Apartment,Milan,2025-08-22,2025-08-31,Jueves,Sabado
+1,Glam Milano,1304.19,8.2,2.45,Hotel,Milan,2025-08-22,2025-08-31,Jueves,Sabado
+2,Starhotels Anderson,1242.0,8.5,2.75,Hotel,Milan,2025-08-22,2025-08-31,Jueves,Sabado
+3,Hotel Bristol,1187.28,8.1,2.65,Hotel,Milan,2025-08-22,2025-08-31,Jueves,Sabado
+4,Una Volta in Brera,891.0,8.5,1.90,Apartment,Milan,2025-08-22,2025-08-31,Jueves,Sabado
+5,Via Breda 120,800.0,8.4,6.25,Apartment,Milan,2025-08-22,2025-08-31,Jueves,Sabado
+6,Bed&Coffee Milano,810.0,8.6,6.55,Apartment,Milan,2025-08-22,2025-08-31,Jueves,Sabado
+7,Milano da sogno al rifugio Merini in Centro,762.44,,3.50,Apartment,Milan,2025-08-22,2025-08-31,Jueves,Sabado
+8,"appartamento Martina, silenzioso a 100 metri dalla metropolitana",757.35,9.2,4.20,Apartment,Milan,2025-08-22,2025-08-31,Jueves,Sabado
+9,Hotel Cavour,1984.5,8.2,1.05,Hotel,Milan,2025-08-22,2025-08-31,Jueves,Sabado
+10,Mila Apartments Battista,775.3,8.5,5.40,Apartment,Milan,2025-08-22,2025-08-31,Jueves,Sabado
+11,BB Hotels Aparthotel Isola,999.9,8.5,3.05,Aparthotel,Milan,2025-08-22,2025-08-31,Jueves,Sabado
+12,Milan Eleven by Brera Apartments,1550.4,9.1,0.60,Apartment,Milan,2025-08-22,2025-08-31,Jueves,Sabado
+13,CAMERA con BAGNO PRIVATO 04,1017.0,,5.15,Bed and breakfast,Milan,2025-08-22,2025-08-31,Jueves,Sabado
+14,BB Hotels Aparthotel Visconti,1021.0,8.4,4.15,Aparthotel,Milan,2025-08-22,2025-08-31,Jueves,Sabado
+15,Hotel Morfeo,1155.15,9.0,4.45,Hotel,Milan,2025-08-22,2025-08-31,Jueves,Sabado
+16,Heart Hotel Milano,1304.19,8.5,1.85,Hotel,Milan,2025-08-22,2025-08-31,Jueves,Sabado
+17,STUDIO 47 - CITY LIFE,755.0,9.0,4.10,Apartment,Milan,2025-08-22,2025-08-31,Jueves,Sabado
+18,Copernico Apartment,1031.18,,3.05,Apartment,Milan,2025-08-22,2025-08-31,Jueves,Sabado
+19,La Milanese - New apartment - Closed to Metrò ISOLA,1190.88,9.6,2.75,Apartment,Milan,2025-08-22,2025-08-31,Jueves,Sabado

@@ -1,0 +1,881 @@
+,hotel_name,price,rating,distance_from_center,acc_type,city,date_in,date_out,day_in,day_out
+0,IntercityHotel Budapest,1046.7,8.9,1.95,Hotel,Budapest,2025-07-01,2025-07-10,Lunes,Miercoles
+1,Carlton Hotel Buda Castle,994.495238095238,8.7,1.30,Hotel,Budapest,2025-07-01,2025-07-10,Lunes,Miercoles
+2,Minimalistic Apartment & Studio in Heart street,597.588608695652,8.7,1.65,Apartment,Budapest,2025-07-01,2025-07-10,Lunes,Miercoles
+3,Cosy Home in the heart of Budapest - Dorotea,763.928782608696,9.5,0.55,Apartment,Budapest,2025-07-01,2025-07-10,Lunes,Miercoles
+4,Tabán Art Appartmann,849.15,9.5,1.35,Apartment,Budapest,2025-07-01,2025-07-10,Lunes,Miercoles
+5,Corvin Plaza Apartments & Suites,871.958476190476,8.4,1.55,Aparthotel,Budapest,2025-07-01,2025-07-10,Lunes,Miercoles
+6,The Rose Garden Apartments,1011.97895238095,8.9,1.55,Apartment,Budapest,2025-07-01,2025-07-10,Lunes,Miercoles
+7,Charm Hotel Budapest - formerly Boutique Hotel Budapest,1092.48104761905,8.7,1.10,Hotel,Budapest,2025-07-01,2025-07-10,Lunes,Miercoles
+8,Boutique Apartment,1660.5,9.7,0.15,Apartment,Budapest,2025-07-01,2025-07-10,Lunes,Miercoles
+9,Novak Apartment,921.06,9.6,1.10,Apartment,Budapest,2025-07-01,2025-07-10,Lunes,Miercoles
+10,RES City Residence Hotel Budapest,753.034285714286,8.2,1.65,Hotel,Budapest,2025-07-01,2025-07-10,Lunes,Miercoles
+11,"Modern, kényelmes otthon neked",580.202260869565,9.4,2.45,Apartment,Budapest,2025-07-01,2025-07-10,Lunes,Miercoles
+12,Hotel Oktogon Haggenmacher by Continental Group,1354.62085714286,9.2,1.15,Hotel,Budapest,2025-07-01,2025-07-10,Lunes,Miercoles
+13,Nova City Apartments,986.751047619048,9.0,1.40,Apartment,Budapest,2025-07-01,2025-07-10,Lunes,Miercoles
+14,D8 Hotel,1125.13952380952,8.9,0.55,Hotel,Budapest,2025-07-01,2025-07-10,Lunes,Miercoles
+15,Oli Fiumei Apartman,548.562608695652,,1.85,Apartment,Budapest,2025-07-01,2025-07-10,Lunes,Miercoles
+16,Budapest City Apartments For Groups,1447.74,9.3,1.30,Apartment,Budapest,2025-07-01,2025-07-10,Lunes,Miercoles
+17,Benczur Hotel,846.462857142857,8.2,2.20,Hotel,Budapest,2025-07-01,2025-07-10,Lunes,Miercoles
+18,Danubius Hotel Erzsébet City Center,908.06,7.9,0.65,Hotel,Budapest,2025-07-01,2025-07-10,Lunes,Miercoles
+19,Novotel Budapest Centrum,1148.13333333333,8.3,1.25,Hotel,Budapest,2025-07-01,2025-07-10,Lunes,Miercoles
+0,Carlton Hotel Buda Castle,994.495238095238,8.7,1.30,Hotel,Budapest,2025-07-02,2025-07-11,Martes,Jueves
+1,Cosy Home in the heart of Budapest - Dorotea,766.588173913044,9.5,0.55,Apartment,Budapest,2025-07-02,2025-07-11,Martes,Jueves
+2,Minimalistic Apartment & Studio in Heart street,611.040782608696,8.7,1.65,Apartment,Budapest,2025-07-02,2025-07-11,Martes,Jueves
+3,Charm Hotel Budapest - formerly Boutique Hotel Budapest,1092.48104761905,8.7,1.10,Hotel,Budapest,2025-07-02,2025-07-11,Martes,Jueves
+4,Corvin Plaza Apartments & Suites,871.958476190476,8.4,1.55,Aparthotel,Budapest,2025-07-02,2025-07-11,Martes,Jueves
+5,Tabán Art Appartmann,849.15,9.5,1.35,Apartment,Budapest,2025-07-02,2025-07-11,Martes,Jueves
+6,RES City Residence Hotel Budapest,748.362857142857,8.2,1.65,Hotel,Budapest,2025-07-02,2025-07-11,Martes,Jueves
+7,The Rose Garden Apartments,1040.3500952381,8.9,1.55,Apartment,Budapest,2025-07-02,2025-07-11,Martes,Jueves
+8,Hotel Oktogon Haggenmacher by Continental Group,1354.62085714286,9.2,1.15,Hotel,Budapest,2025-07-02,2025-07-11,Martes,Jueves
+9,Danubius Hotel Hungaria City Center,778.32,7.7,1.75,Hotel,Budapest,2025-07-02,2025-07-11,Martes,Jueves
+10,D8 Hotel,1125.13952380952,8.9,0.55,Hotel,Budapest,2025-07-02,2025-07-11,Martes,Jueves
+11,"Modern, kényelmes otthon neked",580.202260869565,9.4,2.45,Apartment,Budapest,2025-07-02,2025-07-11,Martes,Jueves
+12,Nova City Apartments,1016.83504761905,9.0,1.40,Apartment,Budapest,2025-07-02,2025-07-11,Martes,Jueves
+13,Novak Apartment,921.06,9.6,1.10,Apartment,Budapest,2025-07-02,2025-07-11,Martes,Jueves
+14,Hotel Foldana,950.687619047619,9.0,3.65,Hotel,Budapest,2025-07-02,2025-07-11,Martes,Jueves
+15,Oli Fiumei Apartman,548.562608695652,,1.85,Apartment,Budapest,2025-07-02,2025-07-11,Martes,Jueves
+16,Benczur Hotel,846.462857142857,8.2,2.20,Hotel,Budapest,2025-07-02,2025-07-11,Martes,Jueves
+17,Budapest City Apartments For Groups,1447.74,9.3,1.30,Apartment,Budapest,2025-07-02,2025-07-11,Martes,Jueves
+18,Novotel Budapest Centrum,1111.8,8.3,1.25,Hotel,Budapest,2025-07-02,2025-07-11,Martes,Jueves
+19,Hotel Zenit Budapest Palace,1438.8,8.7,0.55,Hotel,Budapest,2025-07-02,2025-07-11,Martes,Jueves
+0,Budapest Marriott Hotel,2131.713,8.8,0.60,Hotel,Budapest,2025-07-03,2025-07-12,Miercoles,Viernes
+1,Corvin Plaza Apartments & Suites,882.464,8.4,1.55,Aparthotel,Budapest,2025-07-03,2025-07-12,Miercoles,Viernes
+2,RES City Residence Hotel Budapest,753.034285714286,8.2,1.65,Hotel,Budapest,2025-07-03,2025-07-12,Miercoles,Viernes
+3,Hotel Oktogon Haggenmacher by Continental Group,1354.62085714286,9.2,1.15,Hotel,Budapest,2025-07-03,2025-07-12,Miercoles,Viernes
+4,The Rose Garden Apartments,1049.79676190476,8.9,1.55,Apartment,Budapest,2025-07-03,2025-07-12,Miercoles,Viernes
+5,D8 Hotel,1126.86276190476,8.9,0.55,Hotel,Budapest,2025-07-03,2025-07-12,Miercoles,Viernes
+6,Cosy Home in the heart of Budapest - Dorotea,776.32547826087,9.5,0.55,Apartment,Budapest,2025-07-03,2025-07-12,Miercoles,Viernes
+7,Tabán Art Appartmann,856.8,9.5,1.35,Apartment,Budapest,2025-07-03,2025-07-12,Miercoles,Viernes
+8,Nova City Apartments,1070.99247619048,9.0,1.40,Apartment,Budapest,2025-07-03,2025-07-12,Miercoles,Viernes
+9,Hotel Foldana,950.687619047619,9.0,3.65,Hotel,Budapest,2025-07-03,2025-07-12,Miercoles,Viernes
+10,Danubius Hotel Hungaria City Center,794.88,7.7,1.75,Hotel,Budapest,2025-07-03,2025-07-12,Miercoles,Viernes
+11,Oli Fiumei Apartman,548.562608695652,,1.85,Apartment,Budapest,2025-07-03,2025-07-12,Miercoles,Viernes
+12,"Modern, kényelmes otthon neked",580.202260869565,9.4,2.45,Apartment,Budapest,2025-07-03,2025-07-12,Miercoles,Viernes
+13,Benczur Hotel,849.265714285714,8.2,2.20,Hotel,Budapest,2025-07-03,2025-07-12,Miercoles,Viernes
+14,Budapest City Apartments For Groups,1447.74,9.3,1.30,Apartment,Budapest,2025-07-03,2025-07-12,Miercoles,Viernes
+15,Emerald Downtown Luxury Suites by Continental Group,1748.98285714286,9.5,0.35,Aparthotel,Budapest,2025-07-03,2025-07-12,Miercoles,Viernes
+16,Hotel Zenit Budapest Palace,1443.99047619048,8.7,0.55,Hotel,Budapest,2025-07-03,2025-07-12,Miercoles,Viernes
+17,Danubius Hotel Astoria City Center,1313.44,8.0,0.50,Hotel,Budapest,2025-07-03,2025-07-12,Miercoles,Viernes
+18,NH Budapest City,1095.47076190476,8.2,1.75,Hotel,Budapest,2025-07-03,2025-07-12,Miercoles,Viernes
+19,Danubius Hotel Helia,1463.0,8.5,3.15,Hotel,Budapest,2025-07-03,2025-07-12,Miercoles,Viernes
+0,Hotel Oktogon Haggenmacher by Continental Group,1354.62085714286,9.2,1.15,Hotel,Budapest,2025-07-04,2025-07-13,Jueves,Sabado
+1,Twenty2 Apartment,783.48,9.6,0.55,Apartment,Budapest,2025-07-04,2025-07-13,Jueves,Sabado
+2,Cosy Home in the heart of Budapest - Dorotea,783.413739130435,9.5,0.55,Apartment,Budapest,2025-07-04,2025-07-13,Jueves,Sabado
+3,"Modern, kényelmes otthon neked",580.202260869565,9.4,2.45,Apartment,Budapest,2025-07-04,2025-07-13,Jueves,Sabado
+4,D8 Hotel,1128.57561904762,8.9,0.55,Hotel,Budapest,2025-07-04,2025-07-13,Jueves,Sabado
+5,RES City Residence Hotel Budapest,757.705714285714,8.2,1.65,Hotel,Budapest,2025-07-04,2025-07-13,Jueves,Sabado
+6,Corvin Plaza Apartments & Suites,892.969523809524,8.4,1.55,Aparthotel,Budapest,2025-07-04,2025-07-13,Jueves,Sabado
+7,The Rose Garden Apartments,1060.11542857143,8.9,1.55,Apartment,Budapest,2025-07-04,2025-07-13,Jueves,Sabado
+8,Budapest City Apartments For Groups,1447.74,9.3,1.30,Apartment,Budapest,2025-07-04,2025-07-13,Jueves,Sabado
+9,Oli Fiumei Apartman,548.562608695652,,1.85,Apartment,Budapest,2025-07-04,2025-07-13,Jueves,Sabado
+10,Danubius Hotel Hungaria City Center,798.48,7.7,1.75,Hotel,Budapest,2025-07-04,2025-07-13,Jueves,Sabado
+11,Emerald Downtown Luxury Suites by Continental Group,1748.98285714286,9.5,0.35,Aparthotel,Budapest,2025-07-04,2025-07-13,Jueves,Sabado
+12,Tabán Art Appartmann,864.45,9.5,1.35,Apartment,Budapest,2025-07-04,2025-07-13,Jueves,Sabado
+13,Hotel Zenit Budapest Palace,1454.37142857143,8.7,0.55,Hotel,Budapest,2025-07-04,2025-07-13,Jueves,Sabado
+14,Hotel Foldana,953.729238095238,9.0,3.65,Hotel,Budapest,2025-07-04,2025-07-13,Jueves,Sabado
+15,Jungle design apartment,1045.47,8.8,1.85,Apartment,Budapest,2025-07-04,2025-07-13,Jueves,Sabado
+16,Nova City Apartments,1125.13952380952,9.0,1.40,Apartment,Budapest,2025-07-04,2025-07-13,Jueves,Sabado
+17,King-Kongs luxury cave,1446.48,9.4,1.05,Apartment,Budapest,2025-07-04,2025-07-13,Jueves,Sabado
+18,Leonardo Hotel Budapest,1094.04857142857,8.3,2.15,Hotel,Budapest,2025-07-04,2025-07-13,Jueves,Sabado
+19,Benczur Hotel,852.068571428572,8.2,2.20,Hotel,Budapest,2025-07-04,2025-07-13,Jueves,Sabado
+0,Hotel Oktogon Haggenmacher by Continental Group,1354.62085714286,9.2,1.15,Hotel,Budapest,2025-07-05,2025-07-14,Viernes,Domingo
+1,Twenty2 Apartment,779.1744,9.6,0.55,Apartment,Budapest,2025-07-05,2025-07-14,Viernes,Domingo
+2,Cosy Home in the heart of Budapest - Dorotea,776.32547826087,9.5,0.55,Apartment,Budapest,2025-07-05,2025-07-14,Viernes,Domingo
+3,RES City Residence Hotel Budapest,739.02,8.2,1.65,Hotel,Budapest,2025-07-05,2025-07-14,Viernes,Domingo
+4,D8 Hotel,1126.86276190476,8.9,0.55,Hotel,Budapest,2025-07-05,2025-07-14,Viernes,Domingo
+5,White Rose apartment,464.18,8.4,1.65,Apartment,Budapest,2025-07-05,2025-07-14,Viernes,Domingo
+6,The Rose Garden Apartments,1070.4340952381,8.9,1.55,Apartment,Budapest,2025-07-05,2025-07-14,Viernes,Domingo
+7,Corvin Plaza Apartments & Suites,882.464,8.4,1.55,Aparthotel,Budapest,2025-07-05,2025-07-14,Viernes,Domingo
+8,Budapest City Apartments For Groups,1447.74,9.3,1.30,Apartment,Budapest,2025-07-05,2025-07-14,Viernes,Domingo
+9,Oli Fiumei Apartman,548.562608695652,,1.85,Apartment,Budapest,2025-07-05,2025-07-14,Viernes,Domingo
+10,Tabán Art Appartmann,864.45,9.5,1.35,Apartment,Budapest,2025-07-05,2025-07-14,Viernes,Domingo
+11,Emerald Downtown Luxury Suites by Continental Group,1748.98285714286,9.5,0.35,Aparthotel,Budapest,2025-07-05,2025-07-14,Viernes,Domingo
+12,Nova City Apartments,1095.05552380952,9.0,1.40,Apartment,Budapest,2025-07-05,2025-07-14,Viernes,Domingo
+13,Diamond Home Apartment - City Center,770.2,8.8,0.70,Apartment,Budapest,2025-07-05,2025-07-14,Viernes,Domingo
+14,King-Kongs luxury cave,1446.48,9.4,1.05,Apartment,Budapest,2025-07-05,2025-07-14,Viernes,Domingo
+15,Jungle design apartment,1045.47,8.8,1.85,Apartment,Budapest,2025-07-05,2025-07-14,Viernes,Domingo
+16,Hotel Zenit Budapest Palace,1443.99047619048,8.7,0.55,Hotel,Budapest,2025-07-05,2025-07-14,Viernes,Domingo
+17,Asbóth Taylor Apartment,2134.09542857143,9.3,0.10,Apartment,Budapest,2025-07-05,2025-07-14,Viernes,Domingo
+18,Paulay Central Top Suite,1096.91,9.1,0.30,Apartment,Budapest,2025-07-05,2025-07-14,Viernes,Domingo
+19,Lonyay Street Apartment,875.5,9.3,1.80,Apartment,Budapest,2025-07-05,2025-07-14,Viernes,Domingo
+0,Hampton By Hilton Budapest City Centre,1189.4298,8.9,0.80,Hotel,Budapest,2025-07-06,2025-07-15,Sabado,Lunes
+1,RES City Residence Hotel Budapest,720.334285714286,8.2,1.65,Hotel,Budapest,2025-07-06,2025-07-15,Sabado,Lunes
+2,Charm Hotel Budapest - formerly Boutique Hotel Budapest,1092.48104761905,8.7,1.10,Hotel,Budapest,2025-07-06,2025-07-15,Sabado,Lunes
+3,The Rose Garden Apartments,1068.71085714286,8.9,1.55,Apartment,Budapest,2025-07-06,2025-07-15,Sabado,Lunes
+4,Corvin Plaza Apartments & Suites,879.598857142857,8.4,1.55,Aparthotel,Budapest,2025-07-06,2025-07-15,Sabado,Lunes
+5,Hotel Oktogon Haggenmacher by Continental Group,1354.62085714286,9.2,1.15,Hotel,Budapest,2025-07-06,2025-07-15,Sabado,Lunes
+6,Tabán Art Appartmann,856.8,9.5,1.35,Apartment,Budapest,2025-07-06,2025-07-15,Sabado,Lunes
+7,Oli Fiumei Apartman,548.562608695652,,1.85,Apartment,Budapest,2025-07-06,2025-07-15,Sabado,Lunes
+8,Budapest City Apartments For Groups,1447.74,9.3,1.30,Apartment,Budapest,2025-07-06,2025-07-15,Sabado,Lunes
+9,Nova City Apartments,1064.97152380952,9.0,1.40,Apartment,Budapest,2025-07-06,2025-07-15,Sabado,Lunes
+10,D8 Hotel,1125.13952380952,8.9,0.55,Hotel,Budapest,2025-07-06,2025-07-15,Sabado,Lunes
+11,Danubius Hotel Hungaria City Center,776.16,7.7,1.75,Hotel,Budapest,2025-07-06,2025-07-15,Sabado,Lunes
+12,Aquaworld Resort Budapest,2208.02857142857,8.9,12.30,Resort,Budapest,2025-07-06,2025-07-15,Sabado,Lunes
+13,"Modern, kényelmes otthon neked",580.202260869565,9.4,2.45,Apartment,Budapest,2025-07-06,2025-07-15,Sabado,Lunes
+14,Emerald Downtown Luxury Suites by Continental Group,1748.98285714286,9.5,0.35,Aparthotel,Budapest,2025-07-06,2025-07-15,Sabado,Lunes
+15,Cosy Home in the heart of Budapest - Dorotea,766.588173913044,9.5,0.55,Apartment,Budapest,2025-07-06,2025-07-15,Sabado,Lunes
+16,Hotel Foldana,953.729238095238,9.0,3.65,Hotel,Budapest,2025-07-06,2025-07-15,Sabado,Lunes
+17,Hotel Zenit Budapest Palace,1428.41904761905,8.7,0.55,Hotel,Budapest,2025-07-06,2025-07-15,Sabado,Lunes
+18,Benczur Hotel,846.462857142857,8.2,2.20,Hotel,Budapest,2025-07-06,2025-07-15,Sabado,Lunes
+19,Maple Tree Budget Apartments,1033.36152380952,8.1,1.60,Apartment,Budapest,2025-07-06,2025-07-15,Sabado,Lunes
+0,Novak Apartment,921.06,9.6,1.10,Apartment,Budapest,2025-07-07,2025-07-16,Domingo,Martes
+1,IntercityHotel Budapest,1000.8,8.9,1.95,Hotel,Budapest,2025-07-07,2025-07-16,Domingo,Martes
+2,RES City Residence Hotel Budapest,725.005714285714,8.2,1.65,Hotel,Budapest,2025-07-07,2025-07-16,Domingo,Martes
+3,"Modern, kényelmes otthon neked",580.202260869565,9.4,2.45,Apartment,Budapest,2025-07-07,2025-07-16,Domingo,Martes
+4,Charm Hotel Budapest - formerly Boutique Hotel Budapest,1092.48104761905,8.7,1.10,Hotel,Budapest,2025-07-07,2025-07-16,Domingo,Martes
+5,Corvin Plaza Apartments & Suites,887.239238095238,8.4,1.55,Aparthotel,Budapest,2025-07-07,2025-07-16,Domingo,Martes
+6,Budapest Marriott Hotel,2339.685,8.8,0.60,Hotel,Budapest,2025-07-07,2025-07-16,Domingo,Martes
+7,Hotel Oktogon Haggenmacher by Continental Group,1354.62085714286,9.2,1.15,Hotel,Budapest,2025-07-07,2025-07-16,Domingo,Martes
+8,The Rose Garden Apartments,1076.44466666667,8.9,1.55,Apartment,Budapest,2025-07-07,2025-07-16,Domingo,Martes
+9,Hotel Foldana,950.687619047619,9.0,3.65,Hotel,Budapest,2025-07-07,2025-07-16,Domingo,Martes
+10,Nova City Apartments,1077.00304761905,9.0,1.40,Apartment,Budapest,2025-07-07,2025-07-16,Domingo,Martes
+11,Oli Fiumei Apartman,548.562608695652,,1.85,Apartment,Budapest,2025-07-07,2025-07-16,Domingo,Martes
+12,Benczur Hotel,846.462857142857,8.2,2.20,Hotel,Budapest,2025-07-07,2025-07-16,Domingo,Martes
+13,Ria's Apartment,736.0,9.3,3.10,Apartment,Budapest,2025-07-07,2025-07-16,Domingo,Martes
+14,Budapest City Apartments For Groups,1447.74,9.3,1.30,Apartment,Budapest,2025-07-07,2025-07-16,Domingo,Martes
+15,Aquaworld Resort Budapest,2230.86666666667,8.9,12.30,Resort,Budapest,2025-07-07,2025-07-16,Domingo,Martes
+16,Novotel Budapest Centrum,1203.15238095238,8.3,1.25,Hotel,Budapest,2025-07-07,2025-07-16,Domingo,Martes
+17,NH Budapest City,1095.47076190476,8.2,1.75,Hotel,Budapest,2025-07-07,2025-07-16,Domingo,Martes
+18,Hotel Zenit Budapest Palace,1428.41904761905,8.7,0.55,Hotel,Budapest,2025-07-07,2025-07-16,Domingo,Martes
+19,Danubius Hotel Hungaria City Center,785.52,7.7,1.75,Hotel,Budapest,2025-07-07,2025-07-16,Domingo,Martes
+0,Hotel Moments Budapest by Continental Group,1608.51819047619,9.4,0.40,Hotel,Budapest,2025-07-08,2025-07-17,Lunes,Miercoles
+1,IntercityHotel Budapest,1029.6,8.9,1.95,Hotel,Budapest,2025-07-08,2025-07-17,Lunes,Miercoles
+2,RES City Residence Hotel Budapest,725.005714285714,8.2,1.65,Hotel,Budapest,2025-07-08,2025-07-17,Lunes,Miercoles
+3,"Modern, kényelmes otthon neked",580.202260869565,9.4,2.45,Apartment,Budapest,2025-07-08,2025-07-17,Lunes,Miercoles
+4,Novak Apartment,921.06,9.6,1.10,Apartment,Budapest,2025-07-08,2025-07-17,Lunes,Miercoles
+5,Corvin Plaza Apartments & Suites,851.902476190476,8.4,1.55,Aparthotel,Budapest,2025-07-08,2025-07-17,Lunes,Miercoles
+6,Charm Hotel Budapest - formerly Boutique Hotel Budapest,1092.48104761905,8.7,1.10,Hotel,Budapest,2025-07-08,2025-07-17,Lunes,Miercoles
+7,Danubius Hotel Hungaria City Center,779.76,7.7,1.75,Hotel,Budapest,2025-07-08,2025-07-17,Lunes,Miercoles
+8,The Rose Garden Apartments,1061.83866666667,8.9,1.55,Apartment,Budapest,2025-07-08,2025-07-17,Lunes,Miercoles
+9,Hotel Oktogon Haggenmacher by Continental Group,1354.62085714286,9.2,1.15,Hotel,Budapest,2025-07-08,2025-07-17,Lunes,Miercoles
+10,Nova City Apartments,1058.96095238095,9.0,1.40,Apartment,Budapest,2025-07-08,2025-07-17,Lunes,Miercoles
+11,Hotel Foldana,950.687619047619,9.0,3.65,Hotel,Budapest,2025-07-08,2025-07-17,Lunes,Miercoles
+12,Benczur Hotel,846.462857142857,8.2,2.20,Hotel,Budapest,2025-07-08,2025-07-17,Lunes,Miercoles
+13,Ria's Apartment,736.0,9.3,3.10,Apartment,Budapest,2025-07-08,2025-07-17,Lunes,Miercoles
+14,Oli Fiumei Apartman,548.562608695652,,1.85,Apartment,Budapest,2025-07-08,2025-07-17,Lunes,Miercoles
+15,Maple Tree Budget Apartments,1010.44038095238,8.1,1.60,Apartment,Budapest,2025-07-08,2025-07-17,Lunes,Miercoles
+16,NH Budapest City,1095.47076190476,8.2,1.75,Hotel,Budapest,2025-07-08,2025-07-17,Lunes,Miercoles
+17,Budapest City Apartments For Groups,1447.74,9.3,1.30,Apartment,Budapest,2025-07-08,2025-07-17,Lunes,Miercoles
+18,Novotel Budapest Centrum,1182.39047619048,8.3,1.25,Hotel,Budapest,2025-07-08,2025-07-17,Lunes,Miercoles
+19,Aquaworld Resort Budapest,2208.02857142857,8.9,12.30,Resort,Budapest,2025-07-08,2025-07-17,Lunes,Miercoles
+0,ibis Budapest Castle Hill,620.334571428572,8.5,2.20,Hotel,Budapest,2025-07-09,2025-07-18,Martes,Jueves
+1,Cosy Home in the heart of Budapest - Dorotea,766.588173913044,9.5,0.55,Apartment,Budapest,2025-07-09,2025-07-18,Martes,Jueves
+2,IntercityHotel Budapest,1044.0,8.9,1.95,Hotel,Budapest,2025-07-09,2025-07-18,Martes,Jueves
+3,Medos Hotel,976.21,8.3,1.00,Hotel,Budapest,2025-07-09,2025-07-18,Martes,Jueves
+4,RES City Residence Hotel Budapest,720.334285714286,8.2,1.65,Hotel,Budapest,2025-07-09,2025-07-18,Martes,Jueves
+5,Hotel Moments Budapest by Continental Group,1608.51819047619,9.4,0.40,Hotel,Budapest,2025-07-09,2025-07-18,Martes,Jueves
+6,Corvin Plaza Apartments & Suites,816.565714285714,8.4,1.55,Aparthotel,Budapest,2025-07-09,2025-07-18,Martes,Jueves
+7,"Modern, kényelmes otthon neked",580.202260869565,9.4,2.45,Apartment,Budapest,2025-07-09,2025-07-18,Martes,Jueves
+8,Tabán Art Appartmann,849.15,9.5,1.35,Apartment,Budapest,2025-07-09,2025-07-18,Martes,Jueves
+9,Charm Hotel Budapest - formerly Boutique Hotel Budapest,1092.48104761905,8.7,1.10,Hotel,Budapest,2025-07-09,2025-07-18,Martes,Jueves
+10,Novak Apartment,921.06,9.6,1.10,Apartment,Budapest,2025-07-09,2025-07-18,Martes,Jueves
+11,The Rose Garden Apartments,1062.6899047619,8.9,1.55,Apartment,Budapest,2025-07-09,2025-07-18,Martes,Jueves
+12,Hotel Oktogon Haggenmacher by Continental Group,1354.62085714286,9.2,1.15,Hotel,Budapest,2025-07-09,2025-07-18,Martes,Jueves
+13,Nova City Apartments,1040.90847619048,9.0,1.40,Apartment,Budapest,2025-07-09,2025-07-18,Martes,Jueves
+14,Hotel Foldana,950.687619047619,9.0,3.65,Hotel,Budapest,2025-07-09,2025-07-18,Martes,Jueves
+15,Benczur Hotel,846.462857142857,8.2,2.20,Hotel,Budapest,2025-07-09,2025-07-18,Martes,Jueves
+16,Danubius Hotel Hungaria City Center,786.96,7.7,1.75,Hotel,Budapest,2025-07-09,2025-07-18,Martes,Jueves
+17,Maple Tree Budget Apartments,987.519238095238,8.1,1.60,Apartment,Budapest,2025-07-09,2025-07-18,Martes,Jueves
+18,Oli Fiumei Apartman,548.562608695652,,1.85,Apartment,Budapest,2025-07-09,2025-07-18,Martes,Jueves
+19,NH Budapest City,1095.47076190476,8.2,1.75,Hotel,Budapest,2025-07-09,2025-07-18,Martes,Jueves
+0,Impulso Fashion Hotel,949.234285714286,8.5,1.75,Hotel,Budapest,2025-07-10,2025-07-19,Miercoles,Viernes
+1,Apartment 43,765.0,9.9,1.70,Apartment,Budapest,2025-07-10,2025-07-19,Miercoles,Viernes
+2,Elizabeth square apartment,712.447826086957,,0.40,Apartment,Budapest,2025-07-10,2025-07-19,Miercoles,Viernes
+3,Pinball Apartment,562.2592,7.9,1.00,Apartment,Budapest,2025-07-10,2025-07-19,Miercoles,Viernes
+4,Budapest Griffin Guest House,667.13,8.1,0.95,Guest house,Budapest,2025-07-10,2025-07-19,Miercoles,Viernes
+5,Hampton By Hilton Budapest City Centre,1199.2725,8.9,0.80,Hotel,Budapest,2025-07-10,2025-07-19,Miercoles,Viernes
+6,White Rose apartment,464.18,8.4,1.65,Apartment,Budapest,2025-07-10,2025-07-19,Miercoles,Viernes
+7,Twenty2 Apartment,779.1744,9.6,0.55,Apartment,Budapest,2025-07-10,2025-07-19,Miercoles,Viernes
+8,Budapest Marriott Hotel,2099.34,8.8,0.60,Hotel,Budapest,2025-07-10,2025-07-19,Miercoles,Viernes
+9,Hidden Gem 1 BR next to OPERA,597.624,8.6,1.00,Apartment,Budapest,2025-07-10,2025-07-19,Miercoles,Viernes
+10,Carlton Hotel Buda Castle,1010.82447619048,8.7,1.30,Hotel,Budapest,2025-07-10,2025-07-19,Miercoles,Viernes
+11,Corvin Plaza Apartments & Suites,784.094095238095,8.4,1.55,Aparthotel,Budapest,2025-07-10,2025-07-19,Miercoles,Viernes
+12,IntercityHotel Budapest,1044.0,8.9,1.95,Hotel,Budapest,2025-07-10,2025-07-19,Miercoles,Viernes
+13,RES City Residence Hotel Budapest,725.005714285714,8.2,1.65,Hotel,Budapest,2025-07-10,2025-07-19,Miercoles,Viernes
+14,Christine Apartment close to the Buda Castle,640.0896,9.6,1.95,Apartment,Budapest,2025-07-10,2025-07-19,Miercoles,Viernes
+15,ibis Budapest Castle Hill,620.334571428572,8.5,2.20,Hotel,Budapest,2025-07-10,2025-07-19,Miercoles,Viernes
+16,Hotel Moments Budapest by Continental Group,1608.51819047619,9.4,0.40,Hotel,Budapest,2025-07-10,2025-07-19,Miercoles,Viernes
+17,DobStreet Dream Apartment,524.386146788991,6.1,0.30,Apartment,Budapest,2025-07-10,2025-07-19,Miercoles,Viernes
+18,All In Apartman II.,646.764,9.4,0.55,Apartment,Budapest,2025-07-10,2025-07-19,Miercoles,Viernes
+19,Raday Bobo,731.952,9.3,1.50,Apartment,Budapest,2025-07-10,2025-07-19,Miercoles,Viernes
+0,NH Collection Budapest City Center,964.535809523809,8.8,1.25,Hotel,Budapest,2025-07-11,2025-07-20,Jueves,Sabado
+1,Apartment 43,765.0,9.9,1.70,Apartment,Budapest,2025-07-11,2025-07-20,Jueves,Sabado
+2,Hidden Gem 1 BR next to OPERA,597.624,8.6,1.00,Apartment,Budapest,2025-07-11,2025-07-20,Jueves,Sabado
+3,Twenty2 Apartment,783.48,9.6,0.55,Apartment,Budapest,2025-07-11,2025-07-20,Jueves,Sabado
+4,Hampton By Hilton Budapest City Centre,1199.2725,8.9,0.80,Hotel,Budapest,2025-07-11,2025-07-20,Jueves,Sabado
+5,Pinball Apartment,583.704,7.9,1.00,Apartment,Budapest,2025-07-11,2025-07-20,Jueves,Sabado
+6,Tempo Life Apartman,630.32,8.4,1.05,Apartment,Budapest,2025-07-11,2025-07-20,Jueves,Sabado
+7,Impulso Fashion Hotel,981.0,8.5,1.75,Hotel,Budapest,2025-07-11,2025-07-20,Jueves,Sabado
+8,White Rose apartment,464.18,8.4,1.65,Apartment,Budapest,2025-07-11,2025-07-20,Jueves,Sabado
+9,Carlton Hotel Buda Castle,1027.15371428571,8.7,1.30,Hotel,Budapest,2025-07-11,2025-07-20,Jueves,Sabado
+10,Agorà Apartment,1010.48,9.4,0.65,Apartment,Budapest,2025-07-11,2025-07-20,Jueves,Sabado
+11,Corvin City Apartment by NW,620.428,9.2,1.65,Apartment,Budapest,2025-07-11,2025-07-20,Jueves,Sabado
+12,Hotel Moments Budapest by Continental Group,1608.51819047619,9.4,0.40,Hotel,Budapest,2025-07-11,2025-07-20,Jueves,Sabado
+13,Budapest Griffin Guest House,702.24,8.1,0.95,Guest house,Budapest,2025-07-11,2025-07-20,Jueves,Sabado
+14,Budapest Magic Blue in Downtown,714.809913043478,9.7,0.90,Apartment,Budapest,2025-07-11,2025-07-20,Jueves,Sabado
+15,Christine Apartment close to the Buda Castle,644.3952,9.6,1.95,Apartment,Budapest,2025-07-11,2025-07-20,Jueves,Sabado
+16,RES City Residence Hotel Budapest,734.348571428571,8.2,1.65,Hotel,Budapest,2025-07-11,2025-07-20,Jueves,Sabado
+17,Raday Bobo,731.952,9.3,1.50,Apartment,Budapest,2025-07-11,2025-07-20,Jueves,Sabado
+18,SípSix Apartment - 2 bedroom flat in the heart of Budapest,989.947217391305,9.5,0.50,Apartment,Budapest,2025-07-11,2025-07-20,Jueves,Sabado
+19,DobStreet Dream Apartment,524.386146788991,6.1,0.30,Apartment,Budapest,2025-07-11,2025-07-20,Jueves,Sabado
+0,"Raday street, spacious, modern apartment",688.018260869565,9.0,1.35,Apartment,Budapest,2025-07-12,2025-07-21,Viernes,Domingo
+1,NH Collection Budapest City Center,964.535809523809,8.8,1.25,Hotel,Budapest,2025-07-12,2025-07-21,Viernes,Domingo
+2,Twenty2 Apartment,779.1744,9.6,0.55,Apartment,Budapest,2025-07-12,2025-07-21,Viernes,Domingo
+3,Carlton Hotel Buda Castle,1005.66514285714,8.7,1.30,Hotel,Budapest,2025-07-12,2025-07-21,Viernes,Domingo
+4,Agorà Apartment,1010.48,9.4,0.65,Apartment,Budapest,2025-07-12,2025-07-21,Viernes,Domingo
+5,Impulso Fashion Hotel,959.511428571429,8.5,1.75,Hotel,Budapest,2025-07-12,2025-07-21,Viernes,Domingo
+6,Pinball Apartment,587.0944,7.9,1.00,Apartment,Budapest,2025-07-12,2025-07-21,Viernes,Domingo
+7,Budapest Rooms Bed and Breakfast,972.0,8.3,0.85,Guest house,Budapest,2025-07-12,2025-07-21,Viernes,Domingo
+8,Raday Bobo,731.952,9.3,1.50,Apartment,Budapest,2025-07-12,2025-07-21,Viernes,Domingo
+9,Tempo Life Apartman,619.45,8.4,1.05,Apartment,Budapest,2025-07-12,2025-07-21,Viernes,Domingo
+10,ibis Budapest Castle Hill,590.998,8.5,2.20,Hotel,Budapest,2025-07-12,2025-07-21,Viernes,Domingo
+11,SípSix Apartment - 2 bedroom flat in the heart of Budapest,966.995739130435,9.5,0.50,Apartment,Budapest,2025-07-12,2025-07-21,Viernes,Domingo
+12,Hotel Moments Budapest by Continental Group,1608.51819047619,9.4,0.40,Hotel,Budapest,2025-07-12,2025-07-21,Viernes,Domingo
+13,Corvin City Apartment by NW,617.6616,9.2,1.65,Apartment,Budapest,2025-07-12,2025-07-21,Viernes,Domingo
+14,Hampton By Hilton Budapest City Centre,1190.9449,8.9,0.80,Hotel,Budapest,2025-07-12,2025-07-21,Viernes,Domingo
+15,Christine Apartment close to the Buda Castle,648.7008,9.6,1.95,Apartment,Budapest,2025-07-12,2025-07-21,Viernes,Domingo
+16,Corvin Plaza Apartments & Suites,784.094095238095,8.4,1.55,Aparthotel,Budapest,2025-07-12,2025-07-21,Viernes,Domingo
+17,Budapest Magic Blue in Downtown,711.953913043478,9.7,0.90,Apartment,Budapest,2025-07-12,2025-07-21,Viernes,Domingo
+18,White Rose apartment,464.18,8.4,1.65,Apartment,Budapest,2025-07-12,2025-07-21,Viernes,Domingo
+19,Diamond Home Apartment - City Center,770.2,8.8,0.70,Apartment,Budapest,2025-07-12,2025-07-21,Viernes,Domingo
+0,Danubius Hotel Astoria City Center,1117.87,8.0,0.50,Hotel,Budapest,2025-07-13,2025-07-22,Sabado,Lunes
+1,ibis Budapest Castle Hill,585.973619047619,8.5,2.20,Hotel,Budapest,2025-07-13,2025-07-22,Sabado,Lunes
+2,SípSix Apartment - 2 bedroom flat in the heart of Budapest,935.331391304348,9.5,0.50,Apartment,Budapest,2025-07-13,2025-07-22,Sabado,Lunes
+3,NH Collection Budapest City Center,964.535809523809,8.8,1.25,Hotel,Budapest,2025-07-13,2025-07-22,Sabado,Lunes
+4,Twenty2 Apartment,774.8688,9.6,0.55,Apartment,Budapest,2025-07-13,2025-07-22,Sabado,Lunes
+5,Hidden Gem 1 BR next to OPERA,597.624,8.6,1.00,Apartment,Budapest,2025-07-13,2025-07-22,Sabado,Lunes
+6,Christine Apartment close to the Buda Castle,653.0064,9.6,1.95,Apartment,Budapest,2025-07-13,2025-07-22,Sabado,Lunes
+7,Corvin Plaza Apartments & Suites,773.588571428572,8.4,1.55,Aparthotel,Budapest,2025-07-13,2025-07-22,Sabado,Lunes
+8,White Rose apartment,464.18,8.4,1.65,Apartment,Budapest,2025-07-13,2025-07-22,Sabado,Lunes
+9,Impulso Fashion Hotel,938.022857142857,8.5,1.75,Hotel,Budapest,2025-07-13,2025-07-22,Sabado,Lunes
+10,Carlton Hotel Buda Castle,989.335904761905,8.7,1.30,Hotel,Budapest,2025-07-13,2025-07-22,Sabado,Lunes
+11,Raday Bobo,731.952,9.3,1.50,Apartment,Budapest,2025-07-13,2025-07-22,Sabado,Lunes
+12,Hampton By Hilton Budapest City Centre,1187.7948,8.9,0.80,Hotel,Budapest,2025-07-13,2025-07-22,Sabado,Lunes
+13,Hotel Moments Budapest by Continental Group,1608.51819047619,9.4,0.40,Hotel,Budapest,2025-07-13,2025-07-22,Sabado,Lunes
+14,RES City Residence Hotel Budapest,706.32,8.2,1.65,Hotel,Budapest,2025-07-13,2025-07-22,Sabado,Lunes
+15,IntercityHotel Budapest,1041.3,8.9,1.95,Hotel,Budapest,2025-07-13,2025-07-22,Sabado,Lunes
+16,The Rose Garden Apartments,1019.71276190476,8.9,1.55,Apartment,Budapest,2025-07-13,2025-07-22,Sabado,Lunes
+17,Agorà Apartment,1010.48,9.4,0.65,Apartment,Budapest,2025-07-13,2025-07-22,Sabado,Lunes
+18,Tabán Art Appartmann,856.8,9.5,1.35,Apartment,Budapest,2025-07-13,2025-07-22,Sabado,Lunes
+19,Pinball Apartment,583.704,7.9,1.00,Apartment,Budapest,2025-07-13,2025-07-22,Sabado,Lunes
+0,ibis Budapest Castle Hill,590.998,8.5,2.20,Hotel,Budapest,2025-07-14,2025-07-23,Domingo,Martes
+1,Christine Apartment close to the Buda Castle,648.7008,9.6,1.95,Apartment,Budapest,2025-07-14,2025-07-23,Domingo,Martes
+2,Twenty2 Apartment,774.8688,9.6,0.55,Apartment,Budapest,2025-07-14,2025-07-23,Domingo,Martes
+3,Hidden Gem 1 BR next to OPERA,597.624,8.6,1.00,Apartment,Budapest,2025-07-14,2025-07-23,Domingo,Martes
+4,Hampton By Hilton Budapest City Centre,1176.7095,8.9,0.80,Hotel,Budapest,2025-07-14,2025-07-23,Domingo,Martes
+5,SípSix Apartment - 2 bedroom flat in the heart of Budapest,935.331391304348,9.5,0.50,Apartment,Budapest,2025-07-14,2025-07-23,Domingo,Martes
+6,Impulso Fashion Hotel,938.022857142857,8.5,1.75,Hotel,Budapest,2025-07-14,2025-07-23,Domingo,Martes
+7,NH Collection Budapest City Center,964.535809523809,8.8,1.25,Hotel,Budapest,2025-07-14,2025-07-23,Domingo,Martes
+8,Elizabeth square apartment,712.447826086957,,0.40,Apartment,Budapest,2025-07-14,2025-07-23,Domingo,Martes
+9,Raday Bobo,731.952,9.3,1.50,Apartment,Budapest,2025-07-14,2025-07-23,Domingo,Martes
+10,White Rose apartment,464.18,8.4,1.65,Apartment,Budapest,2025-07-14,2025-07-23,Domingo,Martes
+11,All In Apartman II.,646.764,9.4,0.55,Apartment,Budapest,2025-07-14,2025-07-23,Domingo,Martes
+12,Carlton Hotel Buda Castle,994.495238095238,8.7,1.30,Hotel,Budapest,2025-07-14,2025-07-23,Domingo,Martes
+13,Corvin Plaza Apartments & Suites,773.588571428572,8.4,1.55,Aparthotel,Budapest,2025-07-14,2025-07-23,Domingo,Martes
+14,Pinball Apartment,587.0944,7.9,1.00,Apartment,Budapest,2025-07-14,2025-07-23,Domingo,Martes
+15,Corvin City Apartment by NW,613.772,9.2,1.65,Apartment,Budapest,2025-07-14,2025-07-23,Domingo,Martes
+16,Tabán Art Appartmann,849.15,9.5,1.35,Apartment,Budapest,2025-07-14,2025-07-23,Domingo,Martes
+17,Hotel Moments Budapest by Continental Group,1608.51819047619,9.4,0.40,Hotel,Budapest,2025-07-14,2025-07-23,Domingo,Martes
+18,Budapest Magic Blue in Downtown,707.97,9.7,0.90,Apartment,Budapest,2025-07-14,2025-07-23,Domingo,Martes
+19,Quiet & Central stylish apt With Patio,593.054260869565,8.7,1.20,Apartment,Budapest,2025-07-14,2025-07-23,Domingo,Martes
+0,ibis Budapest Castle Hill,596.873619047619,8.5,2.20,Hotel,Budapest,2025-07-15,2025-07-24,Lunes,Miercoles
+1,Twenty2 Apartment,774.8688,9.6,0.55,Apartment,Budapest,2025-07-15,2025-07-24,Lunes,Miercoles
+2,Super Central - Quiet Sleep,644.0,8.9,0.45,Apartment,Budapest,2025-07-15,2025-07-24,Lunes,Miercoles
+3,Hidden Gem 1 BR next to OPERA,597.624,8.6,1.00,Apartment,Budapest,2025-07-15,2025-07-24,Lunes,Miercoles
+4,Hampton By Hilton Budapest City Centre,1180.1539,8.9,0.80,Hotel,Budapest,2025-07-15,2025-07-24,Lunes,Miercoles
+5,Impulso Fashion Hotel,938.022857142857,8.5,1.75,Hotel,Budapest,2025-07-15,2025-07-24,Lunes,Miercoles
+6,NH Collection Budapest City Center,964.535809523809,8.8,1.25,Hotel,Budapest,2025-07-15,2025-07-24,Lunes,Miercoles
+7,SípSix Apartment - 2 bedroom flat in the heart of Budapest,949.580347826087,9.5,0.50,Apartment,Budapest,2025-07-15,2025-07-24,Lunes,Miercoles
+8,White Rose apartment,464.18,8.4,1.65,Apartment,Budapest,2025-07-15,2025-07-24,Lunes,Miercoles
+9,Elizabeth square apartment,712.447826086957,,0.40,Apartment,Budapest,2025-07-15,2025-07-24,Lunes,Miercoles
+10,All In Apartman II.,646.764,9.4,0.55,Apartment,Budapest,2025-07-15,2025-07-24,Lunes,Miercoles
+11,Raday Bobo,731.952,9.3,1.50,Apartment,Budapest,2025-07-15,2025-07-24,Lunes,Miercoles
+12,Carlton Hotel Buda Castle,994.495238095238,8.7,1.30,Hotel,Budapest,2025-07-15,2025-07-24,Lunes,Miercoles
+13,Corvin City Apartment by NW,613.772,9.2,1.65,Apartment,Budapest,2025-07-15,2025-07-24,Lunes,Miercoles
+14,Corvin Plaza Apartments & Suites,765.94819047619,8.4,1.55,Aparthotel,Budapest,2025-07-15,2025-07-24,Lunes,Miercoles
+15,Hotel Moments Budapest by Continental Group,1608.51819047619,9.4,0.40,Hotel,Budapest,2025-07-15,2025-07-24,Lunes,Miercoles
+16,Budapest Magic Blue in Downtown,707.97,9.7,0.90,Apartment,Budapest,2025-07-15,2025-07-24,Lunes,Miercoles
+17,Quiet & Central stylish apt With Patio,593.054260869565,8.7,1.20,Apartment,Budapest,2025-07-15,2025-07-24,Lunes,Miercoles
+18,Tabán Art Appartmann,849.15,9.5,1.35,Apartment,Budapest,2025-07-15,2025-07-24,Lunes,Miercoles
+19,IntercityHotel Budapest,1044.9,8.9,1.95,Hotel,Budapest,2025-07-15,2025-07-24,Lunes,Miercoles
+0,Apartment 43,765.0,9.9,1.70,Apartment,Budapest,2025-07-16,2025-07-25,Martes,Jueves
+1,Hampton By Hilton Budapest City Centre,1191.0975,8.9,0.80,Hotel,Budapest,2025-07-16,2025-07-25,Martes,Jueves
+2,Super Central - Quiet Sleep,664.0,8.9,0.45,Apartment,Budapest,2025-07-16,2025-07-25,Martes,Jueves
+3,NH Collection Budapest City Center,964.535809523809,8.8,1.25,Hotel,Budapest,2025-07-16,2025-07-25,Martes,Jueves
+4,Twenty2 Apartment,774.8688,9.6,0.55,Apartment,Budapest,2025-07-16,2025-07-25,Martes,Jueves
+5,Impulso Fashion Hotel,938.022857142857,8.5,1.75,Hotel,Budapest,2025-07-16,2025-07-25,Martes,Jueves
+6,Elizabeth square apartment,712.447826086957,,0.40,Apartment,Budapest,2025-07-16,2025-07-25,Martes,Jueves
+7,White Rose apartment,464.18,8.4,1.65,Apartment,Budapest,2025-07-16,2025-07-25,Martes,Jueves
+8,All In Apartman II.,646.764,9.4,0.55,Apartment,Budapest,2025-07-16,2025-07-25,Martes,Jueves
+9,Carlton Hotel Buda Castle,994.495238095238,8.7,1.30,Hotel,Budapest,2025-07-16,2025-07-25,Martes,Jueves
+10,Corvin Plaza Apartments & Suites,758.30780952381,8.4,1.55,Aparthotel,Budapest,2025-07-16,2025-07-25,Martes,Jueves
+11,Corvin City Apartment by NW,614.3336,9.2,1.65,Apartment,Budapest,2025-07-16,2025-07-25,Martes,Jueves
+12,IntercityHotel Budapest,1044.9,8.9,1.95,Hotel,Budapest,2025-07-16,2025-07-25,Martes,Jueves
+13,Raday Bobo,731.952,9.3,1.50,Apartment,Budapest,2025-07-16,2025-07-25,Martes,Jueves
+14,Hotel Moments Budapest by Continental Group,1608.51819047619,9.4,0.40,Hotel,Budapest,2025-07-16,2025-07-25,Martes,Jueves
+15,RES City Residence Hotel Budapest,715.662857142857,8.2,1.65,Hotel,Budapest,2025-07-16,2025-07-25,Martes,Jueves
+16,Budapest Magic Blue in Downtown,708.539130434783,9.7,0.90,Apartment,Budapest,2025-07-16,2025-07-25,Martes,Jueves
+17,Danubius Hotel Hungaria City Center,773.28,7.7,1.75,Hotel,Budapest,2025-07-16,2025-07-25,Martes,Jueves
+18,Budapest Griffin Guest House,737.35,8.1,0.95,Guest house,Budapest,2025-07-16,2025-07-25,Martes,Jueves
+19,Tabán Art Appartmann,849.15,9.5,1.35,Apartment,Budapest,2025-07-16,2025-07-25,Martes,Jueves
+0,ibis Budapest Castle Hill,596.863238095238,8.5,2.20,Hotel,Budapest,2025-07-17,2025-07-26,Miercoles,Viernes
+1,Apartment 43,765.0,9.9,1.70,Apartment,Budapest,2025-07-17,2025-07-26,Miercoles,Viernes
+2,Budapest Marriott Hotel,2099.34,8.8,0.60,Hotel,Budapest,2025-07-17,2025-07-26,Miercoles,Viernes
+3,Elizabeth square apartment,712.447826086957,,0.40,Apartment,Budapest,2025-07-17,2025-07-26,Miercoles,Viernes
+4,Twenty2 Apartment,779.1744,9.6,0.55,Apartment,Budapest,2025-07-17,2025-07-26,Miercoles,Viernes
+5,IntercityHotel Budapest,1026.9,8.9,1.95,Hotel,Budapest,2025-07-17,2025-07-26,Miercoles,Viernes
+6,White Rose apartment,464.18,8.4,1.65,Apartment,Budapest,2025-07-17,2025-07-26,Miercoles,Viernes
+7,Corvin Plaza Apartments & Suites,761.172952380952,8.4,1.55,Aparthotel,Budapest,2025-07-17,2025-07-26,Miercoles,Viernes
+8,Carlton Hotel Buda Castle,1010.82447619048,8.7,1.30,Hotel,Budapest,2025-07-17,2025-07-26,Miercoles,Viernes
+9,Super Central - Quiet Sleep,687.0,8.9,0.45,Apartment,Budapest,2025-07-17,2025-07-26,Miercoles,Viernes
+10,RES City Residence Hotel Budapest,725.005714285714,8.2,1.65,Hotel,Budapest,2025-07-17,2025-07-26,Miercoles,Viernes
+11,Hotel Moments Budapest by Continental Group,1608.51819047619,9.4,0.40,Hotel,Budapest,2025-07-17,2025-07-26,Miercoles,Viernes
+12,Impulso Fashion Hotel,959.511428571429,8.5,1.75,Hotel,Budapest,2025-07-17,2025-07-26,Miercoles,Viernes
+13,Corvin City Apartment by NW,617.1104,9.2,1.65,Apartment,Budapest,2025-07-17,2025-07-26,Miercoles,Viernes
+14,DobStreet Dream Apartment,524.386146788991,6.1,0.30,Apartment,Budapest,2025-07-17,2025-07-26,Miercoles,Viernes
+15,All In Apartman II.,646.764,9.4,0.55,Apartment,Budapest,2025-07-17,2025-07-26,Miercoles,Viernes
+16,Budapest Griffin Guest House,737.35,8.1,0.95,Guest house,Budapest,2025-07-17,2025-07-26,Miercoles,Viernes
+17,Raday Bobo,731.952,9.3,1.50,Apartment,Budapest,2025-07-17,2025-07-26,Miercoles,Viernes
+18,The Rose Garden Apartments,1058.39219047619,8.9,1.55,Apartment,Budapest,2025-07-17,2025-07-26,Miercoles,Viernes
+19,Hotel Oktogon Haggenmacher by Continental Group,1354.62085714286,9.2,1.15,Hotel,Budapest,2025-07-17,2025-07-26,Miercoles,Viernes
+0,Elizabeth square apartment,712.447826086957,,0.40,Apartment,Budapest,2025-07-18,2025-07-27,Jueves,Sabado
+1,Chic and Very Central,935.42,9.5,0.25,Apartment,Budapest,2025-07-18,2025-07-27,Jueves,Sabado
+2,Hampton By Hilton Budapest City Centre,1209.5076,8.9,0.80,Hotel,Budapest,2025-07-18,2025-07-27,Jueves,Sabado
+3,"Raday street, spacious, modern apartment",688.018260869565,9.0,1.35,Apartment,Budapest,2025-07-18,2025-07-27,Jueves,Sabado
+4,ibis Budapest Castle Hill,590.987619047619,8.5,2.20,Hotel,Budapest,2025-07-18,2025-07-27,Jueves,Sabado
+5,IntercityHotel Budapest,1030.5,8.9,1.95,Hotel,Budapest,2025-07-18,2025-07-27,Jueves,Sabado
+6,Twenty2 Apartment,783.48,9.6,0.55,Apartment,Budapest,2025-07-18,2025-07-27,Jueves,Sabado
+7,Impulso Fashion Hotel,981.0,8.5,1.75,Hotel,Budapest,2025-07-18,2025-07-27,Jueves,Sabado
+8,Carlton Hotel Buda Castle,1027.15371428571,8.7,1.30,Hotel,Budapest,2025-07-18,2025-07-27,Jueves,Sabado
+9,Super Central - Quiet Sleep,698.0,8.9,0.45,Apartment,Budapest,2025-07-18,2025-07-27,Jueves,Sabado
+10,Hotel Moments Budapest by Continental Group,1608.51819047619,9.4,0.40,Hotel,Budapest,2025-07-18,2025-07-27,Jueves,Sabado
+11,Corvin Plaza Apartments & Suites,764.038095238095,8.4,1.55,Aparthotel,Budapest,2025-07-18,2025-07-27,Jueves,Sabado
+12,White Rose apartment,464.18,8.4,1.65,Apartment,Budapest,2025-07-18,2025-07-27,Jueves,Sabado
+13,DobStreet Dream Apartment,524.386146788991,6.1,0.30,Apartment,Budapest,2025-07-18,2025-07-27,Jueves,Sabado
+14,Raday Bobo,731.952,9.3,1.50,Apartment,Budapest,2025-07-18,2025-07-27,Jueves,Sabado
+15,RES City Residence Hotel Budapest,734.348571428571,8.2,1.65,Hotel,Budapest,2025-07-18,2025-07-27,Jueves,Sabado
+16,Budapest Magic Blue in Downtown,714.809913043478,9.7,0.90,Apartment,Budapest,2025-07-18,2025-07-27,Jueves,Sabado
+17,Agorà Apartment,1010.48,9.4,0.65,Apartment,Budapest,2025-07-18,2025-07-27,Jueves,Sabado
+18,Budapest Griffin Guest House,737.35,8.1,0.95,Guest house,Budapest,2025-07-18,2025-07-27,Jueves,Sabado
+19,SípSix Apartment - 2 bedroom flat in the heart of Budapest,989.947217391305,9.5,0.50,Apartment,Budapest,2025-07-18,2025-07-27,Jueves,Sabado
+0,ibis Budapest Castle Hill,574.222380952381,8.5,2.20,Hotel,Budapest,2025-07-19,2025-07-28,Viernes,Domingo
+1,Stylish and Spacious ! Central location Kazincy Netflix,807.624,8.9,0.55,Apartment,Budapest,2025-07-19,2025-07-28,Viernes,Domingo
+2,NH Collection Budapest City Center,964.535809523809,8.8,1.25,Hotel,Budapest,2025-07-19,2025-07-28,Viernes,Domingo
+3,Carlton Hotel Buda Castle,1005.66514285714,8.7,1.30,Hotel,Budapest,2025-07-19,2025-07-28,Viernes,Domingo
+4,Twenty2 Apartment,779.1744,9.6,0.55,Apartment,Budapest,2025-07-19,2025-07-28,Viernes,Domingo
+5,Super Central - Quiet Sleep,689.0,8.9,0.45,Apartment,Budapest,2025-07-19,2025-07-28,Viernes,Domingo
+6,"Raday street, spacious, modern apartment",688.018260869565,9.0,1.35,Apartment,Budapest,2025-07-19,2025-07-28,Viernes,Domingo
+7,Budapest Rooms Bed and Breakfast,972.0,8.3,0.85,Guest house,Budapest,2025-07-19,2025-07-28,Viernes,Domingo
+8,Agorà Apartment,1010.48,9.4,0.65,Apartment,Budapest,2025-07-19,2025-07-28,Viernes,Domingo
+9,Hampton By Hilton Budapest City Centre,1210.7175,8.9,0.80,Hotel,Budapest,2025-07-19,2025-07-28,Viernes,Domingo
+10,Hotel Moments Budapest by Continental Group,1608.51819047619,9.4,0.40,Hotel,Budapest,2025-07-19,2025-07-28,Viernes,Domingo
+11,Corvin Plaza Apartments & Suites,753.532571428571,8.4,1.55,Aparthotel,Budapest,2025-07-19,2025-07-28,Viernes,Domingo
+12,IntercityHotel Budapest,1016.1,8.9,1.95,Hotel,Budapest,2025-07-19,2025-07-28,Viernes,Domingo
+13,Budapest Magic Blue in Downtown,711.953913043478,9.7,0.90,Apartment,Budapest,2025-07-19,2025-07-28,Viernes,Domingo
+14,SípSix Apartment - 2 bedroom flat in the heart of Budapest,966.995739130435,9.5,0.50,Apartment,Budapest,2025-07-19,2025-07-28,Viernes,Domingo
+15,Budapest Griffin Guest House,702.24,8.1,0.95,Guest house,Budapest,2025-07-19,2025-07-28,Viernes,Domingo
+16,Diamond Home Apartment - City Center,770.2,8.8,0.70,Apartment,Budapest,2025-07-19,2025-07-28,Viernes,Domingo
+17,White Rose apartment,464.18,8.4,1.65,Apartment,Budapest,2025-07-19,2025-07-28,Viernes,Domingo
+18,Hotel Oktogon Haggenmacher by Continental Group,1354.62085714286,9.2,1.15,Hotel,Budapest,2025-07-19,2025-07-28,Viernes,Domingo
+19,Eszter's cozy apartment,672.909565217391,8.7,0.85,Apartment,Budapest,2025-07-19,2025-07-28,Viernes,Domingo
+0,Chic and Very Central,890.71,9.5,0.25,Apartment,Budapest,2025-07-20,2025-07-29,Sabado,Lunes
+1,Corvin Plaza Apartments & Suites,743.027047619048,8.4,1.55,Aparthotel,Budapest,2025-07-20,2025-07-29,Sabado,Lunes
+2,NH Collection Budapest City Center,959.075428571429,8.8,1.25,Hotel,Budapest,2025-07-20,2025-07-29,Sabado,Lunes
+3,Budapest Griffin Guest House,667.13,8.1,0.95,Guest house,Budapest,2025-07-20,2025-07-29,Sabado,Lunes
+4,Impulso Fashion Hotel,917.468571428572,8.5,1.75,Hotel,Budapest,2025-07-20,2025-07-29,Sabado,Lunes
+5,Twenty2 Apartment,774.8688,9.6,0.55,Apartment,Budapest,2025-07-20,2025-07-29,Sabado,Lunes
+6,White Rose apartment,464.18,8.4,1.65,Apartment,Budapest,2025-07-20,2025-07-29,Sabado,Lunes
+7,Carlton Hotel Buda Castle,989.335904761905,8.7,1.30,Hotel,Budapest,2025-07-20,2025-07-29,Sabado,Lunes
+8,Hotel Moments Budapest by Continental Group,1608.51819047619,9.4,0.40,Hotel,Budapest,2025-07-20,2025-07-29,Sabado,Lunes
+9,RES City Residence Hotel Budapest,706.32,8.2,1.65,Hotel,Budapest,2025-07-20,2025-07-29,Sabado,Lunes
+10,Prince Apartments,788.07,8.6,1.60,Aparthotel,Budapest,2025-07-20,2025-07-29,Sabado,Lunes
+11,IntercityHotel Budapest,1037.7,8.9,1.95,Hotel,Budapest,2025-07-20,2025-07-29,Sabado,Lunes
+12,Tabán Art Appartmann,856.8,9.5,1.35,Apartment,Budapest,2025-07-20,2025-07-29,Sabado,Lunes
+13,The Rose Garden Apartments,1066.13638095238,8.9,1.55,Apartment,Budapest,2025-07-20,2025-07-29,Sabado,Lunes
+14,Stylish and Spacious ! Central location Kazincy Netflix,793.054260869565,8.9,0.55,Apartment,Budapest,2025-07-20,2025-07-29,Sabado,Lunes
+15,Hotel Oktogon Haggenmacher by Continental Group,1354.62085714286,9.2,1.15,Hotel,Budapest,2025-07-20,2025-07-29,Sabado,Lunes
+16,Hampton By Hilton Budapest City Centre,1222.1625,8.9,0.80,Hotel,Budapest,2025-07-20,2025-07-29,Sabado,Lunes
+17,Bright 2BR&AC apt at Astoria,1104.46,9.3,0.45,Apartment,Budapest,2025-07-20,2025-07-29,Sabado,Lunes
+18,Super Central - Quiet Sleep,676.0,8.9,0.45,Apartment,Budapest,2025-07-20,2025-07-29,Sabado,Lunes
+19,Maple Tree Budget Apartments,964.598095238095,8.1,1.60,Apartment,Budapest,2025-07-20,2025-07-29,Sabado,Lunes
+0,Twenty2 Apartment,774.8688,9.6,0.55,Apartment,Budapest,2025-07-21,2025-07-30,Domingo,Martes
+1,Impulso Fashion Hotel,917.468571428572,8.5,1.75,Hotel,Budapest,2025-07-21,2025-07-30,Domingo,Martes
+2,Super Central - Quiet Sleep,663.0,8.9,0.45,Apartment,Budapest,2025-07-21,2025-07-30,Domingo,Martes
+3,NH Collection Budapest City Center,959.075428571429,8.8,1.25,Hotel,Budapest,2025-07-21,2025-07-30,Domingo,Martes
+4,Budapest Marriott Hotel,2099.34,8.8,0.60,Hotel,Budapest,2025-07-21,2025-07-30,Domingo,Martes
+5,Elizabeth square apartment,712.447826086957,,0.40,Apartment,Budapest,2025-07-21,2025-07-30,Domingo,Martes
+6,Corvin Plaza Apartments & Suites,743.027047619048,8.4,1.55,Aparthotel,Budapest,2025-07-21,2025-07-30,Domingo,Martes
+7,White Rose apartment,464.18,8.4,1.65,Apartment,Budapest,2025-07-21,2025-07-30,Domingo,Martes
+8,Hotel Moments Budapest by Continental Group,1608.51819047619,9.4,0.40,Hotel,Budapest,2025-07-21,2025-07-30,Domingo,Martes
+9,All In Apartman II.,646.764,9.4,0.55,Apartment,Budapest,2025-07-21,2025-07-30,Domingo,Martes
+10,Carlton Hotel Buda Castle,994.495238095238,8.7,1.30,Hotel,Budapest,2025-07-21,2025-07-30,Domingo,Martes
+11,Tabán Art Appartmann,849.15,9.5,1.35,Apartment,Budapest,2025-07-21,2025-07-30,Domingo,Martes
+12,Hampton By Hilton Budapest City Centre,1226.9585,8.9,0.80,Hotel,Budapest,2025-07-21,2025-07-30,Domingo,Martes
+13,RES City Residence Hotel Budapest,710.991428571429,8.2,1.65,Hotel,Budapest,2025-07-21,2025-07-30,Domingo,Martes
+14,Quiet & Central stylish apt With Patio,593.054260869565,8.7,1.20,Apartment,Budapest,2025-07-21,2025-07-30,Domingo,Martes
+15,Novak Apartment,921.06,9.6,1.10,Apartment,Budapest,2025-07-21,2025-07-30,Domingo,Martes
+16,Budapest Magic Blue in Downtown,707.97,9.7,0.90,Apartment,Budapest,2025-07-21,2025-07-30,Domingo,Martes
+17,Bright 2BR&AC apt at Astoria,1082.1,9.3,0.45,Apartment,Budapest,2025-07-21,2025-07-30,Domingo,Martes
+18,Pinball Apartment,620.9672,7.9,1.00,Apartment,Budapest,2025-07-21,2025-07-30,Domingo,Martes
+19,Hotel Oktogon Haggenmacher by Continental Group,1354.62085714286,9.2,1.15,Hotel,Budapest,2025-07-21,2025-07-30,Domingo,Martes
+0,Budapest Griffin Guest House,652.08,8.1,0.95,Guest house,Budapest,2025-07-22,2025-07-31,Lunes,Miercoles
+1,Corvin Plaza Apartments & Suites,743.027047619048,8.4,1.55,Aparthotel,Budapest,2025-07-22,2025-07-31,Lunes,Miercoles
+2,Hotel Moments Budapest by Continental Group,1608.51819047619,9.4,0.40,Hotel,Budapest,2025-07-22,2025-07-31,Lunes,Miercoles
+3,All In Apartman II.,646.764,9.4,0.55,Apartment,Budapest,2025-07-22,2025-07-31,Lunes,Miercoles
+4,Super Central - Quiet Sleep,684.0,8.9,0.45,Apartment,Budapest,2025-07-22,2025-07-31,Lunes,Miercoles
+5,Tabán Art Appartmann,849.15,9.5,1.35,Apartment,Budapest,2025-07-22,2025-07-31,Lunes,Miercoles
+6,Budapest Magic Blue in Downtown,707.97,9.7,0.90,Apartment,Budapest,2025-07-22,2025-07-31,Lunes,Miercoles
+7,Medos Hotel,976.21,8.3,1.00,Hotel,Budapest,2025-07-22,2025-07-31,Lunes,Miercoles
+8,NH Collection Budapest City Center,981.913523809524,8.8,1.25,Hotel,Budapest,2025-07-22,2025-07-31,Lunes,Miercoles
+9,Hotel Oktogon Haggenmacher by Continental Group,1354.62085714286,9.2,1.15,Hotel,Budapest,2025-07-22,2025-07-31,Lunes,Miercoles
+10,RothApartments'STUDIO,560.994086956522,8.5,1.00,Apartment,Budapest,2025-07-22,2025-07-31,Lunes,Miercoles
+11,DobStreet Dream Apartment,524.386146788991,6.1,0.30,Apartment,Budapest,2025-07-22,2025-07-31,Lunes,Miercoles
+12,Carlton Hotel Buda Castle,1016.83504761905,8.7,1.30,Hotel,Budapest,2025-07-22,2025-07-31,Lunes,Miercoles
+13,Agorà Apartment,1010.48,9.4,0.65,Apartment,Budapest,2025-07-22,2025-07-31,Lunes,Miercoles
+14,Maple Tree Budget Apartments,964.598095238095,8.1,1.60,Apartment,Budapest,2025-07-22,2025-07-31,Lunes,Miercoles
+15,Hampton By Hilton Budapest City Centre,1450.4521,8.9,0.80,Hotel,Budapest,2025-07-22,2025-07-31,Lunes,Miercoles
+16,Benczur Hotel,846.462857142857,8.2,2.20,Hotel,Budapest,2025-07-22,2025-07-31,Lunes,Miercoles
+17,Charm Hotel Budapest - formerly Boutique Hotel Budapest,1161.24447619048,8.7,1.10,Hotel,Budapest,2025-07-22,2025-07-31,Lunes,Miercoles
+18,Boutique Apartment,1660.5,9.7,0.15,Apartment,Budapest,2025-07-22,2025-07-31,Lunes,Miercoles
+19,Danubius Hotel Erzsébet City Center,1086.3,7.9,0.65,Hotel,Budapest,2025-07-22,2025-07-31,Lunes,Miercoles
+0,Hotel Foldana,1580.81142857143,9.0,3.65,Hotel,Budapest,2025-08-01,2025-08-10,Jueves,Sabado
+1,NH Collection Budapest City Center,1602.11314285714,8.8,1.25,Hotel,Budapest,2025-08-01,2025-08-10,Jueves,Sabado
+2,ZOYA LUXURY RESIDENCE,2751.39876190476,9.3,1.65,Hotel,Budapest,2025-08-01,2025-08-10,Jueves,Sabado
+3,Expo Congress Hotel,1823.46,8.1,5.00,Hotel,Budapest,2025-08-01,2025-08-10,Jueves,Sabado
+4,"A13- Boutique Apartments, Best Location, by BQA",3423.12942857143,8.4,0.95,Apartment,Budapest,2025-08-01,2025-08-10,Jueves,Sabado
+5,PEST-BUDA Design Hotel,2289.8200952381,8.9,1.90,Hotel,Budapest,2025-08-01,2025-08-10,Jueves,Sabado
+6,Danubius Hotel Hungaria City Center,1361.7,7.7,1.75,Hotel,Budapest,2025-08-01,2025-08-10,Jueves,Sabado
+7,Hilton Budapest,3138.42,8.8,1.80,Hotel,Budapest,2025-08-01,2025-08-10,Jueves,Sabado
+8,Corvin Plaza Apartments & Suites,4220.35542857143,8.4,1.55,Aparthotel,Budapest,2025-08-01,2025-08-10,Jueves,Sabado
+9,Deluxe Quentin Home next to the Fashion Street,5561.1936,8.9,0.55,Apartment,Budapest,2025-08-01,2025-08-10,Jueves,Sabado
+10,Cappuccino Apartment with Balcony and FREE PARKING,3200.58899082569,8.5,2.80,Apartment,Budapest,2025-08-01,2025-08-10,Jueves,Sabado
+11,Queen's Court Hotel & Residence,3544.20247619048,9.2,0.95,Hotel,Budapest,2025-08-01,2025-08-10,Jueves,Sabado
+12,Joy Apartments on Kiraly street,1671.03552380952,9.3,0.35,Apartment,Budapest,2025-08-01,2025-08-10,Jueves,Sabado
+13,Danubius Hotel Erzsébet City Center,1725.3,7.9,0.65,Hotel,Budapest,2025-08-01,2025-08-10,Jueves,Sabado
+14,Up Hotel Budapest,2559.52761904762,9.0,1.25,Hotel,Budapest,2025-08-01,2025-08-10,Jueves,Sabado
+15,Promenade City Hotel,1916.53142857143,8.4,0.50,Hotel,Budapest,2025-08-01,2025-08-10,Jueves,Sabado
+16,DONATICOEUR Bellevue,6781.55313043478,8.6,1.50,Apartment,Budapest,2025-08-01,2025-08-10,Jueves,Sabado
+17,Luxurious Central 4BEDRM 3BATHRM Residence w/ Balcony,9091.45443478261,9.9,0.75,Apartment,Budapest,2025-08-01,2025-08-10,Jueves,Sabado
+18,Charming & Cozy Stylish Apartment in the Heart of Budapest,7623.23243478261,9.1,1.25,Apartment,Budapest,2025-08-01,2025-08-10,Jueves,Sabado
+19,Hotel President,2248.41047619048,8.1,0.80,Hotel,Budapest,2025-08-01,2025-08-10,Jueves,Sabado
+0,"BUDAPEST DOWNTOWN RESIDENCES LEO - AC, ELEVATOR, TERRACE",2272.61026086957,8.9,2.20,Apartment,Budapest,2025-08-02,2025-08-11,Viernes,Domingo
+1,Hilton Budapest,2787.32,8.8,1.80,Hotel,Budapest,2025-08-02,2025-08-11,Viernes,Domingo
+2,Hotel Foldana,1417.8200952381,9.0,3.65,Hotel,Budapest,2025-08-02,2025-08-11,Viernes,Domingo
+3,Up Hotel Budapest,2383.79885714286,9.0,1.25,Hotel,Budapest,2025-08-02,2025-08-11,Viernes,Domingo
+4,Queen's Court Hotel & Residence,3186.20495238095,9.2,0.95,Hotel,Budapest,2025-08-02,2025-08-11,Viernes,Domingo
+5,Hotel President,2044.59085714286,8.1,0.80,Hotel,Budapest,2025-08-02,2025-08-11,Viernes,Domingo
+6,T62 Hotel,1468.27152380952,9.2,1.40,Hotel,Budapest,2025-08-02,2025-08-11,Viernes,Domingo
+7,ZOYA LUXURY RESIDENCE,2490.09980952381,9.3,1.65,Hotel,Budapest,2025-08-02,2025-08-11,Viernes,Domingo
+8,Expo Congress Hotel,1690.52,8.1,5.00,Hotel,Budapest,2025-08-02,2025-08-11,Viernes,Domingo
+9,Danubius Hotel Erzsébet City Center,1599.3,7.9,0.65,Hotel,Budapest,2025-08-02,2025-08-11,Viernes,Domingo
+10,Promenade City Hotel,1749.76142857143,8.4,0.50,Hotel,Budapest,2025-08-02,2025-08-11,Viernes,Domingo
+11,"A13- Boutique Apartments, Best Location, by BQA",3107.808,8.4,0.95,Apartment,Budapest,2025-08-02,2025-08-11,Viernes,Domingo
+12,Joy Apartments on Kiraly street,1592.61352380952,9.3,0.35,Apartment,Budapest,2025-08-02,2025-08-11,Viernes,Domingo
+13,Barceló Budapest,2140.8,9.1,0.25,Hotel,Budapest,2025-08-02,2025-08-11,Viernes,Domingo
+14,Danubius Hotel Hungaria City Center,1301.13,7.7,1.75,Hotel,Budapest,2025-08-02,2025-08-11,Viernes,Domingo
+15,Deluxe Quentin Home next to the Fashion Street,4990.348,8.9,0.55,Apartment,Budapest,2025-08-02,2025-08-11,Viernes,Domingo
+16,Corvin Plaza Apartments & Suites,4220.35542857143,8.4,1.55,Aparthotel,Budapest,2025-08-02,2025-08-11,Viernes,Domingo
+17,Ensana Thermal Margaret Island,2132.31,8.9,4.00,Hotel,Budapest,2025-08-02,2025-08-11,Viernes,Domingo
+18,Cappuccino Apartment with Balcony and FREE PARKING,3200.58899082569,8.5,2.80,Apartment,Budapest,2025-08-02,2025-08-11,Viernes,Domingo
+19,Charming & Cozy Stylish Apartment in the Heart of Budapest,6831.25121739131,9.1,1.25,Apartment,Budapest,2025-08-02,2025-08-11,Viernes,Domingo
+0,Up Hotel Budapest,1791.66933333333,9.0,1.25,Hotel,Budapest,2025-08-03,2025-08-12,Sabado,Lunes
+1,"BUDAPEST DOWNTOWN Residences - AC,ELEVATOR,TERRACE",1933.0,9.1,1.70,Apartment,Budapest,2025-08-03,2025-08-12,Sabado,Lunes
+2,Anna Hotel,751.71,9.0,3.75,Hotel,Budapest,2025-08-03,2025-08-12,Sabado,Lunes
+3,Novotel Budapest Danube,1674.9,8.1,1.80,Hotel,Budapest,2025-08-03,2025-08-12,Sabado,Lunes
+4,Medos Hotel,1522.8,8.3,1.00,Hotel,Budapest,2025-08-03,2025-08-12,Sabado,Lunes
+5,Budapest Marriott Hotel,2644.34,8.8,0.60,Hotel,Budapest,2025-08-03,2025-08-12,Sabado,Lunes
+6,Maple Tree Budget Apartments,2060.03771428571,8.1,1.60,Apartment,Budapest,2025-08-03,2025-08-12,Sabado,Lunes
+7,Manzard Panzio,814.935904761905,8.5,3.70,Bed and breakfast,Budapest,2025-08-03,2025-08-12,Sabado,Lunes
+8,Hilton Budapest,2436.22,8.8,1.80,Hotel,Budapest,2025-08-03,2025-08-12,Sabado,Lunes
+9,Three Corners Downtown Hotel,1968.22857142857,9.2,0.65,Hotel,Budapest,2025-08-03,2025-08-12,Sabado,Lunes
+10,Hotel Karin,1056.54,8.3,9.35,Hotel,Budapest,2025-08-03,2025-08-12,Sabado,Lunes
+11,"BUDAPEST DOWNTOWN RESIDENCES LEO - AC, ELEVATOR, TERRACE",1914.90660869565,8.9,2.20,Apartment,Budapest,2025-08-03,2025-08-12,Sabado,Lunes
+12,Expo Congress Hotel,1557.58,8.1,5.00,Hotel,Budapest,2025-08-03,2025-08-12,Sabado,Lunes
+13,ELISABETH 50 City Apartments,2128.68914285714,8.1,0.95,Apartment,Budapest,2025-08-03,2025-08-12,Sabado,Lunes
+14,Terrace Apartments at City Park,1529.4832,9.4,3.15,Apartment,Budapest,2025-08-03,2025-08-12,Sabado,Lunes
+15,Queen's Court Hotel & Residence,2828.19704761905,9.2,0.95,Hotel,Budapest,2025-08-03,2025-08-12,Sabado,Lunes
+16,Barceló Budapest,1839.6,9.1,0.25,Hotel,Budapest,2025-08-03,2025-08-12,Sabado,Lunes
+17,Hotel Millennium,634.151619047619,8.0,3.70,Hotel,Budapest,2025-08-03,2025-08-12,Sabado,Lunes
+18,"Millennium Court, Budapest - Marriott Executive Apartments",2150.352,8.5,0.55,Hotel,Budapest,2025-08-03,2025-08-12,Sabado,Lunes
+19,Danubius Hotel Hungaria City Center,1183.86,7.7,1.75,Hotel,Budapest,2025-08-03,2025-08-12,Sabado,Lunes
+0,NH Budapest City,1133.71419047619,8.2,1.75,Hotel,Budapest,2025-08-04,2025-08-13,Domingo,Martes
+1,Hotel Foldana,1199.2699047619,9.0,3.65,Hotel,Budapest,2025-08-04,2025-08-13,Domingo,Martes
+2,PEST-BUDA Design Hotel,1574.08457142857,8.9,1.90,Hotel,Budapest,2025-08-04,2025-08-13,Domingo,Martes
+3,Five Season's Apartment,948.24,8.8,1.65,Apartment,Budapest,2025-08-04,2025-08-13,Domingo,Martes
+4,Pinball Apartment,832.0872,7.9,1.00,Apartment,Budapest,2025-08-04,2025-08-13,Domingo,Martes
+5,BALTAZÁR Boutique Hotel,1574.08457142857,9.0,2.20,Hotel,Budapest,2025-08-04,2025-08-13,Domingo,Martes
+6,Exclusive apartment with private garden,1033.344,9.7,0.65,Apartment,Budapest,2025-08-04,2025-08-13,Domingo,Martes
+7,Hotel Nemzeti Budapest - MGallery,1326.03171428571,8.7,1.15,Hotel,Budapest,2025-08-04,2025-08-13,Domingo,Martes
+8,Benczur Hotel,1102.45714285714,8.2,2.20,Hotel,Budapest,2025-08-04,2025-08-13,Domingo,Martes
+9,"BUDAPEST DOWNTOWN Residences - AC,ELEVATOR,TERRACE",1458.12,9.1,1.70,Apartment,Budapest,2025-08-04,2025-08-13,Domingo,Martes
+10,IN Budapest Apartments Hotel,1029.44285714286,8.5,1.75,Aparthotel,Budapest,2025-08-04,2025-08-13,Domingo,Martes
+11,Danubius Hotel Helia,1659.6,8.5,3.15,Hotel,Budapest,2025-08-04,2025-08-13,Domingo,Martes
+12,Marmara Hotel Budapest,1079.99,7.6,1.50,Hotel,Budapest,2025-08-04,2025-08-13,Domingo,Martes
+13,Onyx Luxury Budapest,1263.31,9.1,2.05,Hotel,Budapest,2025-08-04,2025-08-13,Domingo,Martes
+14,"InterContinental Budapest, an IHG Hotel",2153.84,8.6,0.65,Hotel,Budapest,2025-08-04,2025-08-13,Domingo,Martes
+15,Chic and Very Central,1103.09,9.5,0.25,Apartment,Budapest,2025-08-04,2025-08-13,Domingo,Martes
+16,The Rose Garden Apartments,1587.01104761905,8.9,1.55,Apartment,Budapest,2025-08-04,2025-08-13,Domingo,Martes
+17,Broadway Apartments,1342.10057142857,9.1,0.80,Apartment,Budapest,2025-08-04,2025-08-13,Domingo,Martes
+18,Karma Boutique Apartments,1269.0,9.0,0.95,Aparthotel,Budapest,2025-08-04,2025-08-13,Domingo,Martes
+19,Hotel Millennium,618.870857142857,8.0,3.70,Hotel,Budapest,2025-08-04,2025-08-13,Domingo,Martes
+0,Budapest Marriott Hotel,2099.34,8.8,0.60,Hotel,Budapest,2025-08-05,2025-08-14,Lunes,Miercoles
+1,NH Budapest City,1129.33342857143,8.2,1.75,Hotel,Budapest,2025-08-05,2025-08-14,Lunes,Miercoles
+2,HELIOS Hotel Apartments,886.79,8.7,5.30,Hotel,Budapest,2025-08-05,2025-08-14,Lunes,Miercoles
+3,Leonardo Hotel Budapest,1082.83714285714,8.3,2.15,Hotel,Budapest,2025-08-05,2025-08-14,Lunes,Miercoles
+4,Five Season's Apartment,948.24,8.8,1.65,Apartment,Budapest,2025-08-05,2025-08-14,Lunes,Miercoles
+5,PEST-BUDA Design Hotel,1574.08457142857,8.9,1.90,Hotel,Budapest,2025-08-05,2025-08-14,Lunes,Miercoles
+6,Pinball Apartment,820.8032,7.9,1.00,Apartment,Budapest,2025-08-05,2025-08-14,Lunes,Miercoles
+7,Exclusive apartment with private garden,1033.344,9.7,0.65,Apartment,Budapest,2025-08-05,2025-08-14,Lunes,Miercoles
+8,Hotel Foldana,1239.86980952381,9.0,3.65,Hotel,Budapest,2025-08-05,2025-08-14,Lunes,Miercoles
+9,BALTAZÁR Boutique Hotel,1574.08457142857,9.0,2.20,Hotel,Budapest,2025-08-05,2025-08-14,Lunes,Miercoles
+10,Hotel Nemzeti Budapest - MGallery,1300.806,8.7,1.15,Hotel,Budapest,2025-08-05,2025-08-14,Lunes,Miercoles
+11,Benczur Hotel,1102.45714285714,8.2,2.20,Hotel,Budapest,2025-08-05,2025-08-14,Lunes,Miercoles
+12,Hotel Millennium,618.870857142857,8.0,3.70,Hotel,Budapest,2025-08-05,2025-08-14,Lunes,Miercoles
+13,"BUDAPEST DOWNTOWN Residences - AC,ELEVATOR,TERRACE",1458.12,9.1,1.70,Apartment,Budapest,2025-08-05,2025-08-14,Lunes,Miercoles
+14,The Rose Garden Apartments,1554.35257142857,8.9,1.55,Apartment,Budapest,2025-08-05,2025-08-14,Lunes,Miercoles
+15,IN Budapest Apartments Hotel,1025.03095238095,8.5,1.75,Aparthotel,Budapest,2025-08-05,2025-08-14,Lunes,Miercoles
+16,Danubius Hotel Helia,1659.6,8.5,3.15,Hotel,Budapest,2025-08-05,2025-08-14,Lunes,Miercoles
+17,Marmara Hotel Budapest,1079.99,7.6,1.50,Hotel,Budapest,2025-08-05,2025-08-14,Lunes,Miercoles
+18,Onyx Luxury Budapest,1258.37904761905,9.1,2.05,Hotel,Budapest,2025-08-05,2025-08-14,Lunes,Miercoles
+19,"InterContinental Budapest, an IHG Hotel",2145.12,8.6,0.65,Hotel,Budapest,2025-08-05,2025-08-14,Lunes,Miercoles
+0,King-Kongs luxury cave,1446.48,9.4,1.05,Apartment,Budapest,2025-08-06,2025-08-15,Martes,Jueves
+1,ibis Budapest Castle Hill,714.209523809524,8.5,2.20,Hotel,Budapest,2025-08-06,2025-08-15,Martes,Jueves
+2,Leonardo Hotel Budapest,1084.70571428571,8.3,2.15,Hotel,Budapest,2025-08-06,2025-08-15,Martes,Jueves
+3,NH Budapest City,1108.05247619048,8.2,1.75,Hotel,Budapest,2025-08-06,2025-08-15,Martes,Jueves
+4,HELIOS Hotel Apartments,886.79,8.7,5.30,Hotel,Budapest,2025-08-06,2025-08-15,Martes,Jueves
+5,Budapest Marriott Hotel,2099.34,8.8,0.60,Hotel,Budapest,2025-08-06,2025-08-15,Martes,Jueves
+6,Five Season's Apartment,948.24,8.8,1.65,Apartment,Budapest,2025-08-06,2025-08-15,Martes,Jueves
+7,Aquaworld Resort Budapest,2465.47619047619,8.9,12.30,Resort,Budapest,2025-08-06,2025-08-15,Martes,Jueves
+8,Pinball Apartment,823.06,7.9,1.00,Apartment,Budapest,2025-08-06,2025-08-15,Martes,Jueves
+9,PEST-BUDA Design Hotel,1574.08457142857,8.9,1.90,Hotel,Budapest,2025-08-06,2025-08-15,Martes,Jueves
+10,Hotel Foldana,1261.70095238095,9.0,3.65,Hotel,Budapest,2025-08-06,2025-08-15,Martes,Jueves
+11,BALTAZÁR Boutique Hotel,1574.08457142857,9.0,2.20,Hotel,Budapest,2025-08-06,2025-08-15,Martes,Jueves
+12,The Rose Garden Apartments,1507.93933333333,8.9,1.55,Apartment,Budapest,2025-08-06,2025-08-15,Martes,Jueves
+13,Benczur Hotel,1102.45714285714,8.2,2.20,Hotel,Budapest,2025-08-06,2025-08-15,Martes,Jueves
+14,Hotel Millennium,618.870857142857,8.0,3.70,Hotel,Budapest,2025-08-06,2025-08-15,Martes,Jueves
+15,Hotel Nemzeti Budapest - MGallery,1275.58028571429,8.7,1.15,Hotel,Budapest,2025-08-06,2025-08-15,Martes,Jueves
+16,Danubius Hotel Helia,1659.6,8.5,3.15,Hotel,Budapest,2025-08-06,2025-08-15,Martes,Jueves
+17,"BUDAPEST DOWNTOWN Residences - AC,ELEVATOR,TERRACE",1460.53,9.1,1.70,Apartment,Budapest,2025-08-06,2025-08-15,Martes,Jueves
+18,Exclusive apartment with private garden,1033.344,9.7,0.65,Apartment,Budapest,2025-08-06,2025-08-15,Martes,Jueves
+19,Marmara Hotel Budapest,1079.99,7.6,1.50,Hotel,Budapest,2025-08-06,2025-08-15,Martes,Jueves
+0,King-Kongs luxury cave,1446.48,9.4,1.05,Apartment,Budapest,2025-08-07,2025-08-16,Miercoles,Viernes
+1,NH Budapest City,1099.39476190476,8.2,1.75,Hotel,Budapest,2025-08-07,2025-08-16,Miercoles,Viernes
+2,Chic & Charm Apartment,1216.56,9.3,1.05,Apartment,Budapest,2025-08-07,2025-08-16,Miercoles,Viernes
+3,Leonardo Hotel Budapest,1084.70571428571,8.3,2.15,Hotel,Budapest,2025-08-07,2025-08-16,Miercoles,Viernes
+4,HELIOS Hotel Apartments,886.79,8.7,5.30,Hotel,Budapest,2025-08-07,2025-08-16,Miercoles,Viernes
+5,Budapest Marriott Hotel,2099.34,8.8,0.60,Hotel,Budapest,2025-08-07,2025-08-16,Miercoles,Viernes
+6,Hotel Foldana,1263.98476190476,9.0,3.65,Hotel,Budapest,2025-08-07,2025-08-16,Miercoles,Viernes
+7,Five Season's Apartment,948.24,8.8,1.65,Apartment,Budapest,2025-08-07,2025-08-16,Miercoles,Viernes
+8,Aquaworld Resort Budapest,2465.47619047619,8.9,12.30,Resort,Budapest,2025-08-07,2025-08-16,Miercoles,Viernes
+9,PEST-BUDA Design Hotel,1574.08457142857,8.9,1.90,Hotel,Budapest,2025-08-07,2025-08-16,Miercoles,Viernes
+10,Pinball Apartment,812.8992,7.9,1.00,Apartment,Budapest,2025-08-07,2025-08-16,Miercoles,Viernes
+11,BALTAZÁR Boutique Hotel,1574.08457142857,9.0,2.20,Hotel,Budapest,2025-08-07,2025-08-16,Miercoles,Viernes
+12,The Rose Garden Apartments,1443.47361904762,8.9,1.55,Apartment,Budapest,2025-08-07,2025-08-16,Miercoles,Viernes
+13,Hotel Amadeus,858.6,6.6,6.40,Hotel,Budapest,2025-08-07,2025-08-16,Miercoles,Viernes
+14,Danubius Hotel Helia,1644.3,8.5,3.15,Hotel,Budapest,2025-08-07,2025-08-16,Miercoles,Viernes
+15,Benczur Hotel,1107.12857142857,8.2,2.20,Hotel,Budapest,2025-08-07,2025-08-16,Miercoles,Viernes
+16,"BUDAPEST DOWNTOWN Residences - AC,ELEVATOR,TERRACE",1468.72,9.1,1.70,Apartment,Budapest,2025-08-07,2025-08-16,Miercoles,Viernes
+17,Hotel Nemzeti Budapest - MGallery,1281.46628571429,8.7,1.15,Hotel,Budapest,2025-08-07,2025-08-16,Miercoles,Viernes
+18,ibis Budapest Castle Hill,714.209523809524,8.5,2.20,Hotel,Budapest,2025-08-07,2025-08-16,Miercoles,Viernes
+19,Marmara Hotel Budapest,1068.03,7.6,1.50,Hotel,Budapest,2025-08-07,2025-08-16,Miercoles,Viernes
+0,"Radisson Blu Béke Hotel, Budapest",1252.0,8.8,1.25,Hotel,Budapest,2025-08-08,2025-08-17,Jueves,Sabado
+1,King-Kongs luxury cave,1446.48,9.4,1.05,Apartment,Budapest,2025-08-08,2025-08-17,Jueves,Sabado
+2,Jungle design apartment,1045.47,8.8,1.85,Apartment,Budapest,2025-08-08,2025-08-17,Jueves,Sabado
+3,Lonyay Street Apartment,875.5,9.3,1.80,Apartment,Budapest,2025-08-08,2025-08-17,Jueves,Sabado
+4,Hotel Zenit Budapest Palace,1547.8,8.7,0.55,Hotel,Budapest,2025-08-08,2025-08-17,Jueves,Sabado
+5,Pinball Apartment,793.7008,7.9,1.00,Apartment,Budapest,2025-08-08,2025-08-17,Jueves,Sabado
+6,Budapest Marriott Hotel,2099.34,8.8,0.60,Hotel,Budapest,2025-08-08,2025-08-17,Jueves,Sabado
+7,D8 Hotel,1290.1759047619,8.9,0.55,Hotel,Budapest,2025-08-08,2025-08-17,Jueves,Sabado
+8,ibis Budapest Castle Hill,707.503428571428,8.5,2.20,Hotel,Budapest,2025-08-08,2025-08-17,Jueves,Sabado
+9,NH Budapest City,1090.73704761905,8.2,1.75,Hotel,Budapest,2025-08-08,2025-08-17,Jueves,Sabado
+10,Five Season's Apartment,948.24,8.8,1.65,Apartment,Budapest,2025-08-08,2025-08-17,Jueves,Sabado
+11,PEST-BUDA Design Hotel,1574.08457142857,8.9,1.90,Hotel,Budapest,2025-08-08,2025-08-17,Jueves,Sabado
+12,HELIOS Hotel Apartments,886.79,8.7,5.30,Hotel,Budapest,2025-08-08,2025-08-17,Jueves,Sabado
+13,Real Deluxe next to Danube,1241.432,9.4,1.15,Apartment,Budapest,2025-08-08,2025-08-17,Jueves,Sabado
+14,Danubius Hotel Helia,1609.88,8.5,3.15,Hotel,Budapest,2025-08-08,2025-08-17,Jueves,Sabado
+15,The Rose Garden Apartments,1374.71019047619,8.9,1.55,Apartment,Budapest,2025-08-08,2025-08-17,Jueves,Sabado
+16,Aquaworld Resort Budapest,2465.47619047619,8.9,12.30,Resort,Budapest,2025-08-08,2025-08-17,Jueves,Sabado
+17,Hotel Foldana,1277.03361904762,9.0,3.65,Hotel,Budapest,2025-08-08,2025-08-17,Jueves,Sabado
+18,BALTAZÁR Boutique Hotel,1574.08457142857,9.0,2.20,Hotel,Budapest,2025-08-08,2025-08-17,Jueves,Sabado
+19,Marmara Hotel Budapest,1056.07,7.6,1.50,Hotel,Budapest,2025-08-08,2025-08-17,Jueves,Sabado
+0,"Radisson Blu Béke Hotel, Budapest",1252.0,8.8,1.25,Hotel,Budapest,2025-08-09,2025-08-18,Viernes,Domingo
+1,King-Kongs luxury cave,1446.48,9.4,1.05,Apartment,Budapest,2025-08-09,2025-08-18,Viernes,Domingo
+2,NH Collection Budapest City Center,1017.81085714286,8.8,1.25,Hotel,Budapest,2025-08-09,2025-08-18,Viernes,Domingo
+3,Jungle design apartment,1045.47,8.8,1.85,Apartment,Budapest,2025-08-09,2025-08-18,Viernes,Domingo
+4,Lonyay Street Apartment,875.5,9.3,1.80,Apartment,Budapest,2025-08-09,2025-08-18,Viernes,Domingo
+5,Budapest Marriott Hotel,2099.34,8.8,0.60,Hotel,Budapest,2025-08-09,2025-08-18,Viernes,Domingo
+6,Hotel Zenit Budapest Palace,1521.84761904762,8.7,0.55,Hotel,Budapest,2025-08-09,2025-08-18,Viernes,Domingo
+7,Leonardo Hotel Budapest,1077.23142857143,8.3,2.15,Hotel,Budapest,2025-08-09,2025-08-18,Viernes,Domingo
+8,Pinball Apartment,759.8384,7.9,1.00,Apartment,Budapest,2025-08-09,2025-08-18,Viernes,Domingo
+9,D8 Hotel,1248.91161904762,8.9,0.55,Hotel,Budapest,2025-08-09,2025-08-18,Viernes,Domingo
+10,Pink Rose Boutiques,532.904347826087,,1.05,Guest house,Budapest,2025-08-09,2025-08-18,Viernes,Domingo
+11,Exclusive apartment with private garden,1033.344,9.7,0.65,Apartment,Budapest,2025-08-09,2025-08-18,Viernes,Domingo
+12,The Rose Garden Apartments,1310.24447619048,8.9,1.55,Apartment,Budapest,2025-08-09,2025-08-18,Viernes,Domingo
+13,PEST-BUDA Design Hotel,1574.08457142857,8.9,1.90,Hotel,Budapest,2025-08-09,2025-08-18,Viernes,Domingo
+14,Five Season's Apartment,948.24,8.8,1.65,Apartment,Budapest,2025-08-09,2025-08-18,Viernes,Domingo
+15,Park Plaza Budapest,1975.5,8.6,1.40,Hotel,Budapest,2025-08-09,2025-08-18,Viernes,Domingo
+16,ibis Budapest Castle Hill,689.897333333333,8.5,2.20,Hotel,Budapest,2025-08-09,2025-08-18,Viernes,Domingo
+17,"InterContinental Budapest, an IHG Hotel",2163.65,8.6,0.65,Hotel,Budapest,2025-08-09,2025-08-18,Viernes,Domingo
+18,Budapest Magic Exotic in Downtown,1062.86939130435,9.6,0.90,Apartment,Budapest,2025-08-09,2025-08-18,Viernes,Domingo
+19,Danubius Hotel Helia,1586.93,8.5,3.15,Hotel,Budapest,2025-08-09,2025-08-18,Viernes,Domingo
+0,Novotel Budapest Danube,1185.76,8.1,1.80,Hotel,Budapest,2025-08-10,2025-08-19,Sabado,Lunes
+1,The Rose Garden Apartments,1235.4600952381,8.9,1.55,Apartment,Budapest,2025-08-10,2025-08-19,Sabado,Lunes
+2,Lonyay Street Apartment,875.5,9.3,1.80,Apartment,Budapest,2025-08-10,2025-08-19,Sabado,Lunes
+3,King-Kongs luxury cave,1446.48,9.4,1.05,Apartment,Budapest,2025-08-10,2025-08-19,Sabado,Lunes
+4,Jungle design apartment,1045.47,8.8,1.85,Apartment,Budapest,2025-08-10,2025-08-19,Sabado,Lunes
+5,Hotel Zenit Budapest Palace,1501.08571428571,8.7,0.55,Hotel,Budapest,2025-08-10,2025-08-19,Sabado,Lunes
+6,"Radisson Blu Béke Hotel, Budapest",1251.0,8.8,1.25,Hotel,Budapest,2025-08-10,2025-08-19,Sabado,Lunes
+7,Benczur Hotel,869.82,8.2,2.20,Hotel,Budapest,2025-08-10,2025-08-19,Sabado,Lunes
+8,Budapest Magic Exotic in Downtown,942.74147826087,9.6,0.90,Apartment,Budapest,2025-08-10,2025-08-19,Sabado,Lunes
+9,Leonardo Hotel Budapest,1068.82285714286,8.3,2.15,Hotel,Budapest,2025-08-10,2025-08-19,Sabado,Lunes
+10,NH Budapest City,1076.17257142857,8.2,1.75,Hotel,Budapest,2025-08-10,2025-08-19,Sabado,Lunes
+11,Danubius Hotel Helia,1563.98,8.5,3.15,Hotel,Budapest,2025-08-10,2025-08-19,Sabado,Lunes
+12,Stylish downtown apartment,1171.44,8.9,0.75,Apartment,Budapest,2025-08-10,2025-08-19,Sabado,Lunes
+13,HELIOS Hotel Apartments,886.79,8.7,5.30,Hotel,Budapest,2025-08-10,2025-08-19,Sabado,Lunes
+14,PEST-BUDA Design Hotel,1574.08457142857,8.9,1.90,Hotel,Budapest,2025-08-10,2025-08-19,Sabado,Lunes
+15,Marmara Hotel Budapest,1008.23,7.6,1.50,Hotel,Budapest,2025-08-10,2025-08-19,Sabado,Lunes
+16,Tempo Life Apartman,902.01,8.4,1.05,Apartment,Budapest,2025-08-10,2025-08-19,Sabado,Lunes
+17,Novotel Budapest Centrum,1386.89523809524,8.3,1.25,Hotel,Budapest,2025-08-10,2025-08-19,Sabado,Lunes
+18,Park Plaza Budapest,1927.8,8.6,1.40,Hotel,Budapest,2025-08-10,2025-08-19,Sabado,Lunes
+19,BALTAZÁR Boutique Hotel,1574.08457142857,9.0,2.20,Hotel,Budapest,2025-08-10,2025-08-19,Sabado,Lunes
+0,ibis Budapest Castle Hill,689.897333333333,8.5,2.20,Hotel,Budapest,2025-08-11,2025-08-20,Domingo,Martes
+1,Corvin Plaza Apartments & Suites,1059.14780952381,8.4,1.55,Aparthotel,Budapest,2025-08-11,2025-08-20,Domingo,Martes
+2,The Rose Garden Apartments,1195.06780952381,8.9,1.55,Apartment,Budapest,2025-08-11,2025-08-20,Domingo,Martes
+3,Pinball Apartment,694.3496,7.9,1.00,Apartment,Budapest,2025-08-11,2025-08-20,Domingo,Martes
+4,Benczur Hotel,869.82,8.2,2.20,Hotel,Budapest,2025-08-11,2025-08-20,Domingo,Martes
+5,Emerald Downtown Luxury Suites by Continental Group,1748.98285714286,9.5,0.35,Aparthotel,Budapest,2025-08-11,2025-08-20,Domingo,Martes
+6,Budapest City Apartments For Groups,1447.74,9.3,1.30,Apartment,Budapest,2025-08-11,2025-08-20,Domingo,Martes
+7,NH Budapest City,1082.96171428571,8.2,1.75,Hotel,Budapest,2025-08-11,2025-08-20,Domingo,Martes
+8,Hotel Zenit Budapest Palace,1511.46666666667,8.7,0.55,Hotel,Budapest,2025-08-11,2025-08-20,Domingo,Martes
+9,Lonyay Street Apartment,875.5,9.3,1.80,Apartment,Budapest,2025-08-11,2025-08-20,Domingo,Martes
+10,Jungle design apartment,1045.47,8.8,1.85,Apartment,Budapest,2025-08-11,2025-08-20,Domingo,Martes
+11,Maple Tree Budget Apartments,1088.75428571429,8.1,1.60,Apartment,Budapest,2025-08-11,2025-08-20,Domingo,Martes
+12,Tempo Life Apartman,825.93,8.4,1.05,Apartment,Budapest,2025-08-11,2025-08-20,Domingo,Martes
+13,King-Kongs luxury cave,1446.48,9.4,1.05,Apartment,Budapest,2025-08-11,2025-08-20,Domingo,Martes
+14,Ó 38 Luxe Loft,1425.476,9.8,0.90,Apartment,Budapest,2025-08-11,2025-08-20,Domingo,Martes
+15,Danubius Hotel Helia,1541.03,8.5,3.15,Hotel,Budapest,2025-08-11,2025-08-20,Domingo,Martes
+16,Stylish downtown apartment,1171.44,8.9,0.75,Apartment,Budapest,2025-08-11,2025-08-20,Domingo,Martes
+17,Leonardo Hotel Budapest,1068.82285714286,8.3,2.15,Hotel,Budapest,2025-08-11,2025-08-20,Domingo,Martes
+18,HELIOS Hotel Apartments,886.79,8.7,5.30,Hotel,Budapest,2025-08-11,2025-08-20,Domingo,Martes
+19,Danubius Hotel Hungaria City Center,856.8,7.7,1.75,Hotel,Budapest,2025-08-11,2025-08-20,Domingo,Martes
+0,Walkway Apartment Deluxe,969.14,9.1,0.70,Apartment,Budapest,2025-08-12,2025-08-21,Lunes,Miercoles
+1,Agorà Apartment,1010.48,9.4,0.65,Apartment,Budapest,2025-08-12,2025-08-21,Lunes,Miercoles
+2,NH Collection Budapest City Center,987.363523809524,8.8,1.25,Hotel,Budapest,2025-08-12,2025-08-21,Lunes,Miercoles
+3,Novotel Budapest Danube,1177.68,8.1,1.80,Hotel,Budapest,2025-08-12,2025-08-21,Lunes,Miercoles
+4,D8 Hotel,1125.13952380952,8.9,0.55,Hotel,Budapest,2025-08-12,2025-08-21,Lunes,Miercoles
+5,RES City Residence Hotel Budapest,757.705714285714,8.2,1.65,Hotel,Budapest,2025-08-12,2025-08-21,Lunes,Miercoles
+6,Hotel Oktogon Haggenmacher by Continental Group,1354.62085714286,9.2,1.15,Hotel,Budapest,2025-08-12,2025-08-21,Lunes,Miercoles
+7,Tempo Life Apartman,738.99,8.4,1.05,Apartment,Budapest,2025-08-12,2025-08-21,Lunes,Miercoles
+8,ibis Budapest Castle Hill,703.309523809524,8.5,2.20,Hotel,Budapest,2025-08-12,2025-08-21,Lunes,Miercoles
+9,Pinball Apartment,666.124,7.9,1.00,Apartment,Budapest,2025-08-12,2025-08-21,Lunes,Miercoles
+10,"Radisson Blu Béke Hotel, Budapest",1251.0,8.8,1.25,Hotel,Budapest,2025-08-12,2025-08-21,Lunes,Miercoles
+11,Maple Tree Budget Apartments,995.159619047619,8.1,1.60,Apartment,Budapest,2025-08-12,2025-08-21,Lunes,Miercoles
+12,The Rose Garden Apartments,1184.74914285714,8.9,1.55,Apartment,Budapest,2025-08-12,2025-08-21,Lunes,Miercoles
+13,Budapest Magic Blue in Downtown,733.974086956522,9.7,0.90,Apartment,Budapest,2025-08-12,2025-08-21,Lunes,Miercoles
+14,Benczur Hotel,869.82,8.2,2.20,Hotel,Budapest,2025-08-12,2025-08-21,Lunes,Miercoles
+15,NH Budapest City,1100.66123809524,8.2,1.75,Hotel,Budapest,2025-08-12,2025-08-21,Lunes,Miercoles
+16,Emerald Downtown Luxury Suites by Continental Group,1748.98285714286,9.5,0.35,Aparthotel,Budapest,2025-08-12,2025-08-21,Lunes,Miercoles
+17,RothApartments'STUDIO,584.080086956522,8.5,1.00,Apartment,Budapest,2025-08-12,2025-08-21,Lunes,Miercoles
+18,"A13- Deluxe Apartments, Best Location, by BQA",1094.6299047619,8.8,0.95,Apartment,Budapest,2025-08-12,2025-08-21,Lunes,Miercoles
+19,Budapest City Apartments For Groups,1447.74,9.3,1.30,Apartment,Budapest,2025-08-12,2025-08-21,Lunes,Miercoles
+0,NH Collection Budapest City Center,994.983142857143,8.8,1.25,Hotel,Budapest,2025-08-13,2025-08-22,Martes,Jueves
+1,Tempo Life Apartman,706.39,8.4,1.05,Apartment,Budapest,2025-08-13,2025-08-22,Martes,Jueves
+2,D8 Hotel,1125.13952380952,8.9,0.55,Hotel,Budapest,2025-08-13,2025-08-22,Martes,Jueves
+3,Novotel Budapest Danube,1169.6,8.1,1.80,Hotel,Budapest,2025-08-13,2025-08-22,Martes,Jueves
+4,RES City Residence Hotel Budapest,757.705714285714,8.2,1.65,Hotel,Budapest,2025-08-13,2025-08-22,Martes,Jueves
+5,Agorà Apartment,1010.48,9.4,0.65,Apartment,Budapest,2025-08-13,2025-08-22,Martes,Jueves
+6,Hotel Oktogon Haggenmacher by Continental Group,1354.62085714286,9.2,1.15,Hotel,Budapest,2025-08-13,2025-08-22,Martes,Jueves
+7,All In Apartman II.,691.89,9.4,0.55,Apartment,Budapest,2025-08-13,2025-08-22,Martes,Jueves
+8,"Radisson Blu Béke Hotel, Budapest",1251.0,8.8,1.25,Hotel,Budapest,2025-08-13,2025-08-22,Martes,Jueves
+9,Pinball Apartment,668.3808,7.9,1.00,Apartment,Budapest,2025-08-13,2025-08-22,Martes,Jueves
+10,ibis Budapest Castle Hill,685.703428571429,8.5,2.20,Hotel,Budapest,2025-08-13,2025-08-22,Martes,Jueves
+11,Maple Tree Budget Apartments,995.159619047619,8.1,1.60,Apartment,Budapest,2025-08-13,2025-08-22,Martes,Jueves
+12,Benczur Hotel,869.82,8.2,2.20,Hotel,Budapest,2025-08-13,2025-08-22,Martes,Jueves
+13,Emerald Downtown Luxury Suites by Continental Group,1748.98285714286,9.5,0.35,Aparthotel,Budapest,2025-08-13,2025-08-22,Martes,Jueves
+14,The Rose Garden Apartments,1212.25866666667,8.9,1.55,Apartment,Budapest,2025-08-13,2025-08-22,Martes,Jueves
+15,"A13- Deluxe Apartments, Best Location, by BQA",1094.6299047619,8.8,0.95,Apartment,Budapest,2025-08-13,2025-08-22,Martes,Jueves
+16,Budapest Magic Blue in Downtown,734.553565217391,9.7,0.90,Apartment,Budapest,2025-08-13,2025-08-22,Martes,Jueves
+17,Budapest City Apartments For Groups,1447.74,9.3,1.30,Apartment,Budapest,2025-08-13,2025-08-22,Martes,Jueves
+18,RothApartments'STUDIO,584.566434782609,8.5,1.00,Apartment,Budapest,2025-08-13,2025-08-22,Martes,Jueves
+19,Hotel Zenit Budapest Palace,1511.46666666667,8.7,0.55,Hotel,Budapest,2025-08-13,2025-08-22,Martes,Jueves
+0,RES City Residence Hotel Budapest,767.048571428571,8.2,1.65,Hotel,Budapest,2025-08-14,2025-08-23,Miercoles,Viernes
+1,Tabán Art Appartmann,856.8,9.5,1.35,Apartment,Budapest,2025-08-14,2025-08-23,Miercoles,Viernes
+2,Hotel Oktogon Haggenmacher by Continental Group,1354.62085714286,9.2,1.15,Hotel,Budapest,2025-08-14,2025-08-23,Miercoles,Viernes
+3,Tempo Life Apartman,717.26,8.4,1.05,Apartment,Budapest,2025-08-14,2025-08-23,Miercoles,Viernes
+4,Pinball Apartment,672.8944,7.9,1.00,Apartment,Budapest,2025-08-14,2025-08-23,Miercoles,Viernes
+5,"Radisson Blu Béke Hotel, Budapest",1251.0,8.8,1.25,Hotel,Budapest,2025-08-14,2025-08-23,Miercoles,Viernes
+6,Maple Tree Budget Apartments,1002.8,8.1,1.60,Apartment,Budapest,2025-08-14,2025-08-23,Miercoles,Viernes
+7,Emerald Downtown Luxury Suites by Continental Group,1748.98285714286,9.5,0.35,Aparthotel,Budapest,2025-08-14,2025-08-23,Miercoles,Viernes
+8,Benczur Hotel,871.688571428572,8.2,2.20,Hotel,Budapest,2025-08-14,2025-08-23,Miercoles,Viernes
+9,Agorà Apartment,1010.48,9.4,0.65,Apartment,Budapest,2025-08-14,2025-08-23,Miercoles,Viernes
+10,The Rose Garden Apartments,1226.86466666667,8.9,1.55,Apartment,Budapest,2025-08-14,2025-08-23,Miercoles,Viernes
+11,Hotel Zenit Budapest Palace,1532.22857142857,8.7,0.55,Hotel,Budapest,2025-08-14,2025-08-23,Miercoles,Viernes
+12,Leonardo Hotel Budapest,1093.11428571429,8.3,2.15,Hotel,Budapest,2025-08-14,2025-08-23,Miercoles,Viernes
+13,Budapest City Apartments For Groups,1447.74,9.3,1.30,Apartment,Budapest,2025-08-14,2025-08-23,Miercoles,Viernes
+14,ibis Budapest Castle Hill,697.433904761905,8.5,2.20,Hotel,Budapest,2025-08-14,2025-08-23,Miercoles,Viernes
+15,Jungle design apartment,1045.47,8.8,1.85,Apartment,Budapest,2025-08-14,2025-08-23,Miercoles,Viernes
+16,All In Apartman II.,691.89,9.4,0.55,Apartment,Budapest,2025-08-14,2025-08-23,Miercoles,Viernes
+17,Lonyay Street Apartment,875.5,9.3,1.80,Apartment,Budapest,2025-08-14,2025-08-23,Miercoles,Viernes
+18,Danubius Hotel Hungaria City Center,835.2,7.7,1.75,Hotel,Budapest,2025-08-14,2025-08-23,Miercoles,Viernes
+19,"A13- Deluxe Apartments, Best Location, by BQA",1123.25019047619,8.8,0.95,Apartment,Budapest,2025-08-14,2025-08-23,Miercoles,Viernes
+0,Novotel Budapest Danube,1140.54,8.1,1.80,Hotel,Budapest,2025-08-15,2025-08-24,Jueves,Sabado
+1,Hotel Oktogon Haggenmacher by Continental Group,1354.62085714286,9.2,1.15,Hotel,Budapest,2025-08-15,2025-08-24,Jueves,Sabado
+2,RES City Residence Hotel Budapest,771.72,8.2,1.65,Hotel,Budapest,2025-08-15,2025-08-24,Jueves,Sabado
+3,Tabán Art Appartmann,864.45,9.5,1.35,Apartment,Budapest,2025-08-15,2025-08-24,Jueves,Sabado
+4,Pinball Apartment,669.5144,7.9,1.00,Apartment,Budapest,2025-08-15,2025-08-24,Jueves,Sabado
+5,"Radisson Blu Béke Hotel, Budapest",1251.0,8.8,1.25,Hotel,Budapest,2025-08-15,2025-08-24,Jueves,Sabado
+6,Emerald Downtown Luxury Suites by Continental Group,1748.98285714286,9.5,0.35,Aparthotel,Budapest,2025-08-15,2025-08-24,Jueves,Sabado
+7,Tempo Life Apartman,728.13,8.4,1.05,Apartment,Budapest,2025-08-15,2025-08-24,Jueves,Sabado
+8,Leonardo Hotel Budapest,1094.98285714286,8.3,2.15,Hotel,Budapest,2025-08-15,2025-08-24,Jueves,Sabado
+9,Maple Tree Budget Apartments,1010.44038095238,8.1,1.60,Apartment,Budapest,2025-08-15,2025-08-24,Jueves,Sabado
+10,Budapest City Apartments For Groups,1447.74,9.3,1.30,Apartment,Budapest,2025-08-15,2025-08-24,Jueves,Sabado
+11,Hotel Zenit Budapest Palace,1547.8,8.7,0.55,Hotel,Budapest,2025-08-15,2025-08-24,Jueves,Sabado
+12,Diamond Home Apartment - City Center,780.14,8.8,0.70,Apartment,Budapest,2025-08-15,2025-08-24,Jueves,Sabado
+13,The Rose Garden Apartments,1235.4600952381,8.9,1.55,Apartment,Budapest,2025-08-15,2025-08-24,Jueves,Sabado
+14,Budapest Magic Exotic in Downtown,929.599739130435,9.6,0.90,Apartment,Budapest,2025-08-15,2025-08-24,Jueves,Sabado
+15,Jungle design apartment,1045.47,8.8,1.85,Apartment,Budapest,2025-08-15,2025-08-24,Jueves,Sabado
+16,Benczur Hotel,873.557142857143,8.2,2.20,Hotel,Budapest,2025-08-15,2025-08-24,Jueves,Sabado
+17,Danubius Hotel Hungaria City Center,842.4,7.7,1.75,Hotel,Budapest,2025-08-15,2025-08-24,Jueves,Sabado
+18,Nova City Apartments,1222.31561904762,9.0,1.40,Apartment,Budapest,2025-08-15,2025-08-24,Jueves,Sabado
+19,King-Kongs luxury cave,1446.48,9.4,1.05,Apartment,Budapest,2025-08-15,2025-08-24,Jueves,Sabado
+0,Walkway Apartment Deluxe,1005.03,9.1,0.70,Apartment,Budapest,2025-08-16,2025-08-25,Viernes,Domingo
+1,Budapest Terrace Apartment,936.0,9.6,1.75,Apartment,Budapest,2025-08-16,2025-08-25,Viernes,Domingo
+2,Corvin Plaza Apartments & Suites,725.88,8.4,1.55,Aparthotel,Budapest,2025-08-16,2025-08-25,Viernes,Domingo
+3,Budapest City Apartments For Groups,1304.32,9.3,1.30,Apartment,Budapest,2025-08-16,2025-08-25,Viernes,Domingo
+4,All In Apartman II.,675.0,9.4,0.55,Apartment,Budapest,2025-08-16,2025-08-25,Viernes,Domingo
+5,Danubius Hotel Astoria City Center,1049.51,8.0,0.50,Hotel,Budapest,2025-08-16,2025-08-25,Viernes,Domingo
+6,Modern 2 bedroom apartment with free airport transfer,1159.2,9.3,0.80,Apartment,Budapest,2025-08-16,2025-08-25,Viernes,Domingo
+7,Ó 38 Luxe Loft,1203.5,9.8,0.90,Apartment,Budapest,2025-08-16,2025-08-25,Viernes,Domingo
+8,Basilica Luxury Apartment,780.3,9.1,0.85,Apartment,Budapest,2025-08-16,2025-08-25,Viernes,Domingo
+9,Cozy 2 BR 2 Bathroom Apartment in the city centre,1159.2,9.0,0.65,Apartment,Budapest,2025-08-16,2025-08-25,Viernes,Domingo
+10,King-Kongs luxury cave,1416.48,9.4,1.05,Apartment,Budapest,2025-08-16,2025-08-25,Viernes,Domingo
+11,Two Couples Apartment,1583.55,9.4,0.25,Apartment,Budapest,2025-08-16,2025-08-25,Viernes,Domingo
+12,luxury duplex apartment in the city center.,787.58,7.7,1.45,Apartment,Budapest,2025-08-16,2025-08-25,Viernes,Domingo
+13,Pinball Apartment,643.1,7.9,1.00,Apartment,Budapest,2025-08-16,2025-08-25,Viernes,Domingo
+14,The Rose Garden Apartments,1015.13,8.9,1.55,Apartment,Budapest,2025-08-16,2025-08-25,Viernes,Domingo
+15,Chestnut & Eliza Suites - Superior Homes Downtown,2547.45,9.7,0.95,Apartment,Budapest,2025-08-16,2025-08-25,Viernes,Domingo
+16,Exclusive apartment with private garden,1080.0,9.7,0.65,Apartment,Budapest,2025-08-16,2025-08-25,Viernes,Domingo
+17,Miracle Home - City Center,900.0,9.0,0.90,Apartment,Budapest,2025-08-16,2025-08-25,Viernes,Domingo
+18,Emerald Downtown Luxury Suites by Continental Group,1684.8,9.5,0.35,Aparthotel,Budapest,2025-08-16,2025-08-25,Viernes,Domingo
+19,White Rose apartment,455.63,8.4,1.65,Apartment,Budapest,2025-08-16,2025-08-25,Viernes,Domingo
+0,Tabán Art Appartmann,856.8,9.5,1.35,Apartment,Budapest,2025-08-17,2025-08-26,Sabado,Lunes
+1,The Rose Garden Apartments,985.32,8.9,1.55,Apartment,Budapest,2025-08-17,2025-08-26,Sabado,Lunes
+2,Secret Hideout BP,1093.5,9.7,0.45,Apartment,Budapest,2025-08-17,2025-08-26,Sabado,Lunes
+3,Pinball Apartment,621.86,7.9,1.00,Apartment,Budapest,2025-08-17,2025-08-26,Sabado,Lunes
+4,Maple Tree Budget Apartments,958.64,8.1,1.60,Apartment,Budapest,2025-08-17,2025-08-26,Sabado,Lunes
+5,NH Collection Budapest City Center,1036.1,8.8,1.25,Hotel,Budapest,2025-08-17,2025-08-26,Sabado,Lunes
+6,Ó 38 Luxe Loft,1203.5,9.8,0.90,Apartment,Budapest,2025-08-17,2025-08-26,Sabado,Lunes
+7,King-Kongs luxury cave,1416.48,9.4,1.05,Apartment,Budapest,2025-08-17,2025-08-26,Sabado,Lunes
+8,RES City Residence Hotel Budapest,707.4,8.2,1.65,Hotel,Budapest,2025-08-17,2025-08-26,Sabado,Lunes
+9,All In Apartman II.,675.0,9.4,0.55,Apartment,Budapest,2025-08-17,2025-08-26,Sabado,Lunes
+10,Tempo Life Apartman,706.39,8.4,1.05,Apartment,Budapest,2025-08-17,2025-08-26,Sabado,Lunes
+11,Modern 2 bedroom apartment with free airport transfer,1159.2,9.3,0.80,Apartment,Budapest,2025-08-17,2025-08-26,Sabado,Lunes
+12,Nova City Apartments,1078.93,9.0,1.40,Apartment,Budapest,2025-08-17,2025-08-26,Sabado,Lunes
+13,luxury duplex apartment in the city center.,754.29,7.7,1.45,Apartment,Budapest,2025-08-17,2025-08-26,Sabado,Lunes
+14,D52 - New home in downtown,1474.88,9.6,0.85,Apartment,Budapest,2025-08-17,2025-08-26,Sabado,Lunes
+15,Danubius Hotel Astoria City Center,1054.57,8.0,0.50,Hotel,Budapest,2025-08-17,2025-08-26,Sabado,Lunes
+16,Elegant 125m2 apartment in center of Budapest,1205.2,9.1,0.90,Apartment,Budapest,2025-08-17,2025-08-26,Sabado,Lunes
+17,Asbóth Taylor Apartment,1910.69,9.3,0.10,Apartment,Budapest,2025-08-17,2025-08-26,Sabado,Lunes
+18,White Rose apartment,455.63,8.4,1.65,Apartment,Budapest,2025-08-17,2025-08-26,Sabado,Lunes
+19,Emerald Downtown Luxury Suites by Continental Group,1684.8,9.5,0.35,Aparthotel,Budapest,2025-08-17,2025-08-26,Sabado,Lunes
+0,All In Apartman II.,675.0,9.4,0.55,Apartment,Budapest,2025-08-18,2025-08-27,Domingo,Martes
+1,Larix apartman,1147.5,9.7,0.20,Apartment,Budapest,2025-08-18,2025-08-27,Domingo,Martes
+2,Walkway Apartment Deluxe,1005.03,9.1,0.70,Apartment,Budapest,2025-08-18,2025-08-27,Domingo,Martes
+3,SummerStreetSeven,1625.4,9.8,0.80,Apartment,Budapest,2025-08-18,2025-08-27,Domingo,Martes
+4,Modern 2 bedroom apartment with free airport transfer,1159.2,9.3,0.80,Apartment,Budapest,2025-08-18,2025-08-27,Domingo,Martes
+5,NH Collection Budapest City Center,1036.1,8.8,1.25,Hotel,Budapest,2025-08-18,2025-08-27,Domingo,Martes
+6,"Raday street, spacious, modern apartment",810.0,9.0,1.35,Apartment,Budapest,2025-08-18,2025-08-27,Domingo,Martes
+7,The Rose Garden Apartments,959.65,8.9,1.55,Apartment,Budapest,2025-08-18,2025-08-27,Domingo,Martes
+8,Budapest City Apartments For Groups,1304.32,9.3,1.30,Apartment,Budapest,2025-08-18,2025-08-27,Domingo,Martes
+9,luxury duplex apartment in the city center.,728.28,7.7,1.45,Apartment,Budapest,2025-08-18,2025-08-27,Domingo,Martes
+10,Pinball Apartment,608.88,7.9,1.00,Apartment,Budapest,2025-08-18,2025-08-27,Domingo,Martes
+11,Ice Breaker Apartment,1350.0,9.5,0.55,Apartment,Budapest,2025-08-18,2025-08-27,Domingo,Martes
+12,White Rose apartment,455.63,8.4,1.65,Apartment,Budapest,2025-08-18,2025-08-27,Domingo,Martes
+13,Ó 38 Luxe Loft,1203.5,9.8,0.90,Apartment,Budapest,2025-08-18,2025-08-27,Domingo,Martes
+14,Maple Tree Budget Apartments,958.64,8.1,1.60,Apartment,Budapest,2025-08-18,2025-08-27,Domingo,Martes
+15,Tempo Life Apartman,695.52,8.4,1.05,Apartment,Budapest,2025-08-18,2025-08-27,Domingo,Martes
+16,Nova City Apartments,1049.37,9.0,1.40,Apartment,Budapest,2025-08-18,2025-08-27,Domingo,Martes
+17,King's Comfort - Superb modern style apartment at Gozsdu Garden,1038.6,9.1,0.40,Apartment,Budapest,2025-08-18,2025-08-27,Domingo,Martes
+18,King-Kongs luxury cave,1416.48,9.4,1.05,Apartment,Budapest,2025-08-18,2025-08-27,Domingo,Martes
+19,RES City Residence Hotel Budapest,711.9,8.2,1.65,Hotel,Budapest,2025-08-18,2025-08-27,Domingo,Martes
+0,Larix apartman,1147.5,9.7,0.20,Apartment,Budapest,2025-08-19,2025-08-28,Lunes,Miercoles
+1,Modern 2 bedroom apartment with free airport transfer,1159.2,9.3,0.80,Apartment,Budapest,2025-08-19,2025-08-28,Lunes,Miercoles
+2,NH Collection Budapest City Center,1028.13,8.8,1.25,Hotel,Budapest,2025-08-19,2025-08-28,Lunes,Miercoles
+3,SummerStreetSeven,1625.4,9.8,0.80,Apartment,Budapest,2025-08-19,2025-08-28,Lunes,Miercoles
+4,Walkway Apartment Deluxe,1005.03,9.1,0.70,Apartment,Budapest,2025-08-19,2025-08-28,Lunes,Miercoles
+5,"Raday street, spacious, modern apartment",810.0,9.0,1.35,Apartment,Budapest,2025-08-19,2025-08-28,Lunes,Miercoles
+6,luxury duplex apartment in the city center.,711.11,7.7,1.45,Apartment,Budapest,2025-08-19,2025-08-28,Lunes,Miercoles
+7,Pinball Apartment,602.98,7.9,1.00,Apartment,Budapest,2025-08-19,2025-08-28,Lunes,Miercoles
+8,King's Comfort - Superb modern style apartment at Gozsdu Garden,1043.1,9.1,0.40,Apartment,Budapest,2025-08-19,2025-08-28,Lunes,Miercoles
+9,White Rose apartment,455.63,8.4,1.65,Apartment,Budapest,2025-08-19,2025-08-28,Lunes,Miercoles
+10,The Rose Garden Apartments,937.3,8.9,1.55,Apartment,Budapest,2025-08-19,2025-08-28,Lunes,Miercoles
+11,Ice Breaker Apartment,1350.0,9.5,0.55,Apartment,Budapest,2025-08-19,2025-08-28,Lunes,Miercoles
+12,Budapest City Apartments For Groups,1304.32,9.3,1.30,Apartment,Budapest,2025-08-19,2025-08-28,Lunes,Miercoles
+13,Budapest Terrace Apartment,936.0,9.6,1.75,Apartment,Budapest,2025-08-19,2025-08-28,Lunes,Miercoles
+14,Ó 38 Luxe Loft,1203.5,9.8,0.90,Apartment,Budapest,2025-08-19,2025-08-28,Lunes,Miercoles
+15,Maple Tree Budget Apartments,958.64,8.1,1.60,Apartment,Budapest,2025-08-19,2025-08-28,Lunes,Miercoles
+16,RES City Residence Hotel Budapest,716.4,8.2,1.65,Hotel,Budapest,2025-08-19,2025-08-28,Lunes,Miercoles
+17,Tempo Life Apartman,684.66,8.4,1.05,Apartment,Budapest,2025-08-19,2025-08-28,Lunes,Miercoles
+18,Cozy 2 BR 2 Bathroom Apartment in the city centre,1159.2,9.0,0.65,Apartment,Budapest,2025-08-19,2025-08-28,Lunes,Miercoles
+19,Nova City Apartments,1019.81,9.0,1.40,Apartment,Budapest,2025-08-19,2025-08-28,Lunes,Miercoles
+0,NH Collection Budapest City Center,1020.16,8.8,1.25,Hotel,Budapest,2025-08-20,2025-08-29,Martes,Jueves
+1,Secret Hideout BP,1093.5,9.7,0.45,Apartment,Budapest,2025-08-20,2025-08-29,Martes,Jueves
+2,Walkway Apartment Deluxe,1005.03,9.1,0.70,Apartment,Budapest,2025-08-20,2025-08-29,Martes,Jueves
+3,SummerStreetSeven,1625.4,9.8,0.80,Apartment,Budapest,2025-08-20,2025-08-29,Martes,Jueves
+4,Modern 2 bedroom apartment with free airport transfer,1159.2,9.3,0.80,Apartment,Budapest,2025-08-20,2025-08-29,Martes,Jueves
+5,The Rose Garden Apartments,897.55,8.9,1.55,Apartment,Budapest,2025-08-20,2025-08-29,Martes,Jueves
+6,Elisabeth Downtown Apartments by UrbanRent,854.4,9.0,0.55,Apartment,Budapest,2025-08-20,2025-08-29,Martes,Jueves
+7,Pinball Apartment,604.16,7.9,1.00,Apartment,Budapest,2025-08-20,2025-08-29,Martes,Jueves
+8,"Raday street, spacious, modern apartment",810.0,9.0,1.35,Apartment,Budapest,2025-08-20,2025-08-29,Martes,Jueves
+9,Budapest City Apartments For Groups,1304.32,9.3,1.30,Apartment,Budapest,2025-08-20,2025-08-29,Martes,Jueves
+10,White Rose apartment,455.63,8.4,1.65,Apartment,Budapest,2025-08-20,2025-08-29,Martes,Jueves
+11,King's Comfort - Superb modern style apartment at Gozsdu Garden,1043.1,9.1,0.40,Apartment,Budapest,2025-08-20,2025-08-29,Martes,Jueves
+12,Danubius Hotel Astoria City Center,1047.49,8.0,0.50,Hotel,Budapest,2025-08-20,2025-08-29,Martes,Jueves
+13,Tempo Life Apartman,673.79,8.4,1.05,Apartment,Budapest,2025-08-20,2025-08-29,Martes,Jueves
+14,Maple Tree Budget Apartments,958.64,8.1,1.60,Apartment,Budapest,2025-08-20,2025-08-29,Martes,Jueves
+15,Ó 38 Luxe Loft,1203.5,9.8,0.90,Apartment,Budapest,2025-08-20,2025-08-29,Martes,Jueves
+16,Nova City Apartments,990.25,9.0,1.40,Apartment,Budapest,2025-08-20,2025-08-29,Martes,Jueves
+17,Ice Breaker Apartment,1350.0,9.5,0.55,Apartment,Budapest,2025-08-20,2025-08-29,Martes,Jueves
+18,RES City Residence Hotel Budapest,716.4,8.2,1.65,Hotel,Budapest,2025-08-20,2025-08-29,Martes,Jueves
+19,Budapest Terrace Apartment,936.0,9.6,1.75,Apartment,Budapest,2025-08-20,2025-08-29,Martes,Jueves
+0,luxury duplex apartment in the city center.,703.31,7.7,1.45,Apartment,Budapest,2025-08-21,2025-08-30,Miercoles,Viernes
+1,NH Collection Budapest City Center,1012.19,8.8,1.25,Hotel,Budapest,2025-08-21,2025-08-30,Miercoles,Viernes
+2,The Rose Garden Apartments,859.46,8.9,1.55,Apartment,Budapest,2025-08-21,2025-08-30,Miercoles,Viernes
+3,Diamond Home Apartment - City Center,810.0,8.8,0.70,Apartment,Budapest,2025-08-21,2025-08-30,Miercoles,Viernes
+4,Walkway Apartment Deluxe,1005.03,9.1,0.70,Apartment,Budapest,2025-08-21,2025-08-30,Miercoles,Viernes
+5,Larix apartman,1147.5,9.7,0.20,Apartment,Budapest,2025-08-21,2025-08-30,Miercoles,Viernes
+6,All In Apartman II.,675.0,9.4,0.55,Apartment,Budapest,2025-08-21,2025-08-30,Miercoles,Viernes
+7,Budapest City Apartments For Groups,1304.32,9.3,1.30,Apartment,Budapest,2025-08-21,2025-08-30,Miercoles,Viernes
+8,Danubius Hotel Astoria City Center,1039.04,8.0,0.50,Hotel,Budapest,2025-08-21,2025-08-30,Miercoles,Viernes
+9,Nova City Apartments,975.47,9.0,1.40,Apartment,Budapest,2025-08-21,2025-08-30,Miercoles,Viernes
+10,Secret Hideout BP,1093.5,9.7,0.45,Apartment,Budapest,2025-08-21,2025-08-30,Miercoles,Viernes
+11,RES City Residence Hotel Budapest,698.4,8.2,1.65,Hotel,Budapest,2025-08-21,2025-08-30,Miercoles,Viernes
+12,Tempo Life Apartman,673.79,8.4,1.05,Apartment,Budapest,2025-08-21,2025-08-30,Miercoles,Viernes
+13,Ó 38 Luxe Loft,1203.5,9.8,0.90,Apartment,Budapest,2025-08-21,2025-08-30,Miercoles,Viernes
+14,Asbóth Taylor Apartment,1846.61,9.3,0.10,Apartment,Budapest,2025-08-21,2025-08-30,Miercoles,Viernes
+15,White Rose apartment,455.63,8.4,1.65,Apartment,Budapest,2025-08-21,2025-08-30,Miercoles,Viernes
+16,Elisabeth Downtown Apartments by UrbanRent,859.2,9.0,0.55,Apartment,Budapest,2025-08-21,2025-08-30,Miercoles,Viernes
+17,Pinball Apartment,617.14,7.9,1.00,Apartment,Budapest,2025-08-21,2025-08-30,Miercoles,Viernes
+18,Modern 2 bedroom apartment with free airport transfer,1159.2,9.3,0.80,Apartment,Budapest,2025-08-21,2025-08-30,Miercoles,Viernes
+19,Maple Tree Budget Apartments,966.0,8.1,1.60,Apartment,Budapest,2025-08-21,2025-08-30,Miercoles,Viernes
+0,Christine Apartment close to the Buda Castle,625.5,9.6,1.95,Apartment,Budapest,2025-08-22,2025-08-31,Jueves,Sabado
+1,Twenty2 Apartment,796.5,9.6,0.55,Apartment,Budapest,2025-08-22,2025-08-31,Jueves,Sabado
+2,NH Collection Budapest City Center,1004.22,8.8,1.25,Hotel,Budapest,2025-08-22,2025-08-31,Jueves,Sabado
+3,Kálmán Apartman,755.55,9.3,1.10,Apartment,Budapest,2025-08-22,2025-08-31,Jueves,Sabado
+4,The Rose Garden Apartments,821.38,8.9,1.55,Apartment,Budapest,2025-08-22,2025-08-31,Jueves,Sabado
+5,Diamond Home Apartment - City Center,820.8,8.8,0.70,Apartment,Budapest,2025-08-22,2025-08-31,Jueves,Sabado
+6,Corvin Plaza Apartments & Suites,736.0,8.4,1.55,Aparthotel,Budapest,2025-08-22,2025-08-31,Jueves,Sabado
+7,Larix apartman,1147.5,9.7,0.20,Apartment,Budapest,2025-08-22,2025-08-31,Jueves,Sabado
+8,Danubius Hotel Astoria City Center,1047.48,8.0,0.50,Hotel,Budapest,2025-08-22,2025-08-31,Jueves,Sabado
+9,luxury duplex apartment in the city center.,699.15,7.7,1.45,Apartment,Budapest,2025-08-22,2025-08-31,Jueves,Sabado
+10,Walkway Apartment Deluxe,1005.03,9.1,0.70,Apartment,Budapest,2025-08-22,2025-08-31,Jueves,Sabado
+11,Budapest City Apartments For Groups,1304.32,9.3,1.30,Apartment,Budapest,2025-08-22,2025-08-31,Jueves,Sabado
+12,Nova City Apartments,960.69,9.0,1.40,Apartment,Budapest,2025-08-22,2025-08-31,Jueves,Sabado
+13,Ó 38 Luxe Loft,1203.5,9.8,0.90,Apartment,Budapest,2025-08-22,2025-08-31,Jueves,Sabado
+14,Secret Hideout BP,1093.5,9.7,0.45,Apartment,Budapest,2025-08-22,2025-08-31,Jueves,Sabado
+15,Modern 2 bedroom apartment with free airport transfer,1159.2,9.3,0.80,Apartment,Budapest,2025-08-22,2025-08-31,Jueves,Sabado
+16,RES City Residence Hotel Budapest,707.4,8.2,1.65,Hotel,Budapest,2025-08-22,2025-08-31,Jueves,Sabado
+17,Asbóth Taylor Apartment,1854.06,9.3,0.10,Apartment,Budapest,2025-08-22,2025-08-31,Jueves,Sabado
+18,King-Kongs luxury cave,1416.48,9.4,1.05,Apartment,Budapest,2025-08-22,2025-08-31,Jueves,Sabado
+19,Emerald Downtown Luxury Suites by Continental Group,1684.8,9.5,0.35,Aparthotel,Budapest,2025-08-22,2025-08-31,Jueves,Sabado
